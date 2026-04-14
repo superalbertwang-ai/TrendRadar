@@ -1,259 +1,22 @@
 {
-  "generated_at": "2026-04-14T23:54:43.158811+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-04-15T03:57:18.714289+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 36,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            16,
-            19,
-            21,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 23时54分]"
-        },
-        {
-          "title": "央视重锤!AI造黄产业链被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            13,
-            17,
-            20,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时12分 ~ 23时54分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 11时26分]"
-        },
-        {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            18,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时48分 ~ 23时54分]"
-        },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 23时54分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
-          "url": "https://www.cls.cn/detail/2342373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 06时53分]"
-        },
-        {
-          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
-          "url": "https://www.zhihu.com/question/2026653029177280167",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时05分 ~ 20时02分]"
-        },
-        {
-          "title": "AI辅助炒股哪家强",
-          "url": "https://www.toutiao.com/trending/7627268703821840426/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时23分]"
-        },
-        {
-          "title": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
-          "url": "https://wallstreetcn.com/livenews/3087448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://wallstreetcn.com/livenews/3087702",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "最新公开文件显示，Anthropic PBC聘请了游说企业Ballard Partners，后者与美国总统特朗普存在关联。",
-          "url": "https://wallstreetcn.com/livenews/3087099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时23分]"
-        },
-        {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "韩国AI初创公司Wrtn2025年销售额升至471亿韩元",
-          "url": "https://wallstreetcn.com/livenews/3087225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "OpenAI伦敦设立永久办公室",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "北京最火饺子馆开始喂AI龙虾",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%80%E7%81%AB%E9%A5%BA%E5%AD%90%E9%A6%86%E5%BC%80%E5%A7%8B%E5%96%82AI%E9%BE%99%E8%99%BE%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
-        },
-        {
-          "title": "AI突袭短剧 “霸总爹”失业",
-          "url": "https://www.baidu.com/s?wd=AI%E7%AA%81%E8%A2%AD%E7%9F%AD%E5%89%A7+%E2%80%9C%E9%9C%B8%E6%80%BB%E7%88%B9%E2%80%9D%E5%A4%B1%E4%B8%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 18时21分]"
-        },
-        {
-          "title": "市场消息：甲骨文(ORCL.N)将Agentic AI平台扩展至企业银行业务。",
-          "url": "https://flash.jin10.com/detail/20260414194229713800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "市场消息：美国财政部正寻求访问Anthropic的Mytho系统，以发现其中的漏洞。",
-          "url": "https://flash.jin10.com/detail/20260414214705516800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
-          "url": "https://wallstreetcn.com/livenews/3087118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "生数科技与阿里云达成全面战略合作 构建全栈式AI产业生态",
-          "url": "https://wallstreetcn.com/livenews/3087770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
+          "time_info": "03时57分"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -262,9 +25,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "03时57分"
         },
         {
           "title": "月薪3万，去内蒙草原给DeepSeek守机房",
@@ -273,718 +36,164 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "03时57分"
         },
         {
-          "title": "网易云音乐就AI广告诡异画面道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%B0%B1AI%E5%B9%BF%E5%91%8A%E8%AF%A1%E5%BC%82%E7%94%BB%E9%9D%A2%E9%81%93%E6%AD%89%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "03时57分"
         },
         {
-          "title": "甲骨文同意，为了AI数据中心而从Bloom Energy Corp.购买电力供应。",
-          "url": "https://wallstreetcn.com/livenews/3087180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "第二十届深圳金博会定档5月 聚焦AI时代制造业与服务业协同发展",
-          "url": "https://wallstreetcn.com/livenews/3087683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
-          "url": "https://wallstreetcn.com/livenews/3087209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "中国经济信息社联合九家AIC机构发起“耐心资本引活水 生态共建育新质”倡议",
-          "url": "https://wallstreetcn.com/livenews/3087833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "被央视曝光的涉黄AI软件致歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%9A%84%E6%B6%89%E9%BB%84AI%E8%BD%AF%E4%BB%B6%E8%87%B4%E6%AD%89%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时48分"
+          "time_info": "03时57分"
         },
         {
-          "title": "Anthropic联合创始人：公司正通过Glasswing项目扩大对Mythos模型的访问范围，并观察公司能够从中获得哪些经验。",
-          "url": "https://flash.jin10.com/detail/20260414021109489800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时23分"
-        },
-        {
-          "title": "甲骨文处于连续第二个交易日上涨之中，Bloom Energy涨20%，双方此前达成AI数据中心供电协议。",
-          "url": "https://wallstreetcn.com/livenews/3087828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "美团发布AI产品“小团健康管家”",
-          "url": "https://wallstreetcn.com/livenews/3087549",
+          "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3087919",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时48分"
+          "time_info": "03时57分"
         },
         {
-          "title": "第二届AIC股权投资研讨会聚焦耐心资本",
-          "url": "https://wallstreetcn.com/livenews/3087824",
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "报道：Anthropic正准备Opus 4.7模型和AI设计工具",
+          "url": "https://wallstreetcn.com/livenews/3087917",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "03时57分"
         },
         {
-          "title": "离职员工被训练出AI分身继续上班",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E8%AE%AD%E7%BB%83%E5%87%BAAI%E5%88%86%E8%BA%AB%E7%BB%A7%E7%BB%AD%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=29&Refer=top",
+          "title": "央视重锤!AI造黄产业链被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "什么是AI幻觉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AFAI%E5%B9%BB%E8%A7%89%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "Anthropic联合创始人：与美国政府就Mythos模型展开讨论",
-          "url": "https://flash.jin10.com/detail/20260414031208030800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3087405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时05分"
-        },
-        {
-          "title": "Claude：正调查Claude.AI出现的一个问题。",
-          "url": "https://wallstreetcn.com/livenews/3087075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
           "url": "https://wallstreetcn.com/articles/3769872",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时53分 ~ 23时54分]"
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
+          "title": "特朗普说伊朗没牌了遭北约盟友打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            3
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时02分 ~ 16时48分]"
+          "appearance_count": 1,
+          "time_info": "03时57分"
         },
         {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
           "url": "https://www.toutiao.com/trending/7628414997059784242/",
           "source": "今日头条",
           "ranks": [
-            17,
-            16,
-            9,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 23时54分]"
-        },
-        {
-          "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时53分]"
-        },
-        {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            22,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 06时53分]"
-        },
-        {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 14时05分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时23分]"
-        },
-        {
-          "title": "伊朗强硬回应特朗普封锁威胁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 06时53分]"
-        },
-        {
-          "title": "伊朗战争丨伊方称最多停铀浓缩5年，特朗普拒绝",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
-          "url": "https://www.cls.cn/detail/2342207",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时23分]"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时05分 ~ 18时21分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普威胁向伊朗供武将加税，中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "伊朗战争丨希拉里震惊：特朗普说未预知伊朗封锁海峡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://wallstreetcn.com/livenews/3087102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时23分]"
-        },
-        {
-          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
-          "url": "https://www.cls.cn/detail/2342208",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 01时13分]"
-        },
-        {
-          "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
-          "url": "https://flash.jin10.com/detail/20260414064137451800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时53分]"
-        },
-        {
-          "title": "据纽约时报：两名伊朗高级官员和一名美国官员透露，伊朗表示可以暂停铀浓缩活动长达五年，但特朗普政府拒绝了这一提议，坚持要求暂停期限为二十年。",
-          "url": "https://flash.jin10.com/detail/20260414064006233800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普暗示停火结束后或继续对伊朗采取行动",
-          "url": "https://flash.jin10.com/detail/20260414010217537800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：未来2天可能会在巴基斯坦举行与伊朗的磋商。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3087851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
-          "url": "https://flash.jin10.com/detail/20260414005615622800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：副总统万斯在巴基斯坦会谈期间做得不错。 其他方面打电话来，希望（美国与伊朗）达成一份协议。 伊朗对话的症结在于核问题。 认为伊朗现在会认可美方的核主张。 如果伊朗不认同美国对核武器的主张，就不会有协议。",
-          "url": "https://wallstreetcn.com/livenews/3087092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：我们在搞定伊朗之后，可能会顺道去古巴。",
-          "url": "https://flash.jin10.com/detail/20260414005026377800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗现在已经没有任何生意了，我们将维持这种状态。",
-          "url": "https://flash.jin10.com/detail/20260414004755062800",
-          "source": "金十数据",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗在两周内不达成协议，情况不会令人愉快。伊朗相关时间表没有改变，目前没有战斗。",
-          "url": "https://flash.jin10.com/detail/20260414004723617800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：可能在油轮抵达美国之前解决伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260414004614435800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "法国总统马克龙：我昨日分别同伊朗总统佩泽希齐扬和美国总统特朗普进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260414192650273800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "美国总统特朗普：今天早上，我们接到了来自伊朗方面相关负责人的电话。",
-          "url": "https://flash.jin10.com/detail/20260414004444199800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "特朗普称与伊朗会谈“可能未来两天内”在巴基斯坦举行",
-          "url": "https://flash.jin10.com/detail/20260414233041933800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不同意放弃核武器，那就不会达成协议。",
-          "url": "https://flash.jin10.com/detail/20260414004340060800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "伊朗官员：特朗普“摧毁”伊朗文明的言论是个“笑话”",
-          "url": "https://wallstreetcn.com/livenews/3087551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
-          "url": "https://wallstreetcn.com/livenews/3087202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "美国总统特朗普：对方（伊朗）已经给我们打电话了，他们非常想达成协议。伊朗并未同意不拥有核武器。我们将取回核材料。",
-          "url": "https://flash.jin10.com/detail/20260414004240860800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国总统特朗普：万斯在伊朗问题上做得非常出色。",
-          "url": "https://flash.jin10.com/detail/20260414004217039800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时57分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "如何评价阿里云百炼 Coding Plan Lite 停止续费和升级、自动续费将自动失效?",
-          "url": "https://www.zhihu.com/question/2026647221651687071",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时03分]"
-        },
-        {
-          "title": "深交所将组织召开深市民营上市公司集体业绩说明会",
-          "url": "https://wallstreetcn.com/livenews/3087583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 18时21分]"
-        },
-        {
-          "title": "智利国家铜业公司（Codelco）：由于中东战争的缘故，公司直接成本上涨0.1美元/磅。 一季度自营矿产总量27.13万吨，同比下滑8.3%。",
-          "url": "https://wallstreetcn.com/livenews/3087119",
-          "source": "华尔街见闻-快讯",
+          "title": "据外媒报道，伊朗已开始向部分企业和个人恢复有限的互联网连接。数字权利组织ASL19称，伊朗国有电信公司正提供一种“专业互联网”套餐，企业可申请使用。多家互联网监测机构指出，这已带来对外连接的零星恢复。",
+          "url": "https://flash.jin10.com/detail/20260415031947611800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时23分"
+          "time_info": "03时57分"
         },
         {
-          "title": "美军南方司令部：对一艘由指定恐怖组织运营的船只进行了致命打击。情报确认该船正在东太平洋已知的毒品走私路线航行，并参与毒品走私活动。在此次行动中，两名男性毒贩恐怖分子被击毙。没有美国军队人员受伤。",
-          "url": "https://flash.jin10.com/detail/20260414072109521800",
+          "title": "美国国务院：以色列重申致力于与黎巴嫩合作，解除非国家“恐怖”组织及其基础设施的武装。以色列表示致力于通过直接谈判解决悬而未决的问题，实现和平。",
+          "url": "https://flash.jin10.com/detail/20260415030206014800",
           "source": "金十数据",
           "ranks": [
-            10
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "香港与联合国工发组织签署联合文告推动工业发展",
-          "url": "https://wallstreetcn.com/livenews/3087835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
-        },
-        {
-          "title": "报道：智利矿商Codelco与承包商因致命性矿场坍塌事故而被惩罚",
-          "url": "https://wallstreetcn.com/livenews/3087164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "国际货币基金组织总裁格奥尔基耶娃：各国应“避免造成伤害”，避免实施会加剧危机的能源限制措施。亚洲、撒哈拉以南非洲及南太平洋岛国正受到与战争相关危机的冲击。若霍尔木兹海峡长期关闭，将对经济增长和通胀产生更为严重的影响。",
-          "url": "https://flash.jin10.com/detail/20260414033253720800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "国际货币基金组织、世界银行、国际能源署联合声明：将继续合作应对全球有史以来最严重的能源冲击。",
-          "url": "https://flash.jin10.com/detail/20260414033247725800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "国际货币基金组织、世界银行、国际能源署联合声明：争的影响是重大的、全球性的且高度不对称。即使航运恢复，商品供应恢复至冲突前水平仍需时间。",
-          "url": "https://flash.jin10.com/detail/20260414033246118800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "国际货币基金组织（IMF）：中东战争加剧了新兴市场经济前景的不确定性，风险偏向于出现更深度的衰退。 预计2026年新兴市场和发展中经济体的消费者价格将上涨5.5%，比1月预测高出0.7个百分点。 2026年新兴市场经济增长率为3.9%，低于1月的4.2%预测；预计2027年增长率为4.2%，高于1月预测的4.1%。 伊朗2026年GDP将萎缩6.1%，较1月预测低7.2个百分点；预计2027年产出增长为3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3087747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "总经理王莉被带走调查？贵州茅台回应：工作安排外出学习两个月，将于5月初返回",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32959997",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时12分 ~ 16时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一口价黄金价格",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时54分"
+          "time_info": "03时57分"
         }
       ]
     }
