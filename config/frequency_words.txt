@@ -1,25 +1,45 @@
+AI
 DeepSeek
-梁文锋
-
-谷歌
-google
+千问
+Qwen
+Trae
 gemini
+OpenAI
+ChatGPT
+Anthropic
+Claude Code
+Github
 
-chatgpt
-openai
+组织
+组织发展
+OD
+变革
+组织诊断
+组织调研
+组织绩效
+组织激励
+组织调整
+
+创业
++机会
++场景
++需求
+
+学习
+教培
+在线教育
+
+咨询
++麦肯锡
+
+Obsidian
 
 金价
-
 黄金
 +价格
 
-美债
-
-美股
-
-美元
-+指数
-
 特朗普
++伊朗
 
-伊朗
+油价
++价格调整
