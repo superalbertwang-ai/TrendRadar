@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T03:58:06.959533+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-04-19T05:54:41.585296+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -38,19 +39,53 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
+        },
+        {
+          "title": "up主转战AI动画遭手绘党声讨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "如何看阿里最新开源的 Qwen3.6 Flash（Qwen3.6-35B-A3B）模型？",
           "url": "https://www.zhihu.com/question/2028243224301454445",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 05时54分]"
+        },
+        {
+          "title": "刺猬猫AI文霸榜,作者魔法对轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
+        },
+        {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -62,39 +97,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时58分]"
-        },
-        {
-          "title": "up主转战AI动画遭手绘党声讨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
-        },
-        {
-          "title": "刺猬猫AI文霸榜,作者魔法对轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
-        },
-        {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[01时05分 ~ 03时58分]"
         },
         {
@@ -122,8 +124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
@@ -133,8 +135,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -144,8 +146,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -155,8 +157,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -166,8 +168,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -175,22 +177,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
           "url": "https://flash.jin10.com/detail/20260419021741854800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 05时54分]"
         },
         {
           "title": "美国总统特朗普：正在（与伊朗）进行非常好的对话，我们正在与他们交谈。他们想再次封闭霍尔木兹海峡，伊朗无法对我们进行勒索。",
@@ -214,11 +218,12 @@
           "url": "https://search.bilibili.com/all?keyword=Codex%E5%A4%A7%E6%9B%B4%E6%96%B0%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "伊朗革命卫队：我们在伊拉克库尔德斯坦地区对一个分裂主义恐怖组织的成员进行了无人机袭击。",
