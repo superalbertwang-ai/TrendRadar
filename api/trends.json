@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T07:58:52.024539+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-04-20T15:31:47.600560+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -22,6 +22,18 @@
           "time_info": "[01时04分 ~ 07时58分]"
         },
         {
+          "title": "up主转战AI动画遭手绘党声讨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 15时31分]"
+        },
+        {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
           "url": "https://www.zhihu.com/question/2029139595183367444",
           "source": "知乎",
@@ -35,15 +47,17 @@
           "time_info": "[01时04分 ~ 07时58分]"
         },
         {
-          "title": "up主转战AI动画遭手绘党声讨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
-          "source": "贴吧",
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
           "ranks": [
-            18
+            20,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时04分 ~ 07时58分]"
+          "time_info": "[03时58分 ~ 15时31分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -68,16 +82,26 @@
           "time_info": "[01时04分 ~ 07时58分]"
         },
         {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
           "ranks": [
-            20,
-            16
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 07时58分]"
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "张若昀工作室 没签过AI授权",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E6%B2%A1%E7%AD%BE%E8%BF%87AI%E6%8E%88%E6%9D%83&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -92,6 +116,17 @@
           "time_info": "[01时04分 ~ 05时55分]"
         },
         {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
           "url": "https://flash.jin10.com/detail/20260420053324061800",
           "source": "金十数据",
@@ -101,6 +136,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "Gemini能登顶老君山吗",
+          "url": "https://s.weibo.com/weibo?q=Gemini%E8%83%BD%E7%99%BB%E9%A1%B6%E8%80%81%E5%90%9B%E5%B1%B1%E5%90%97&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "AI艺人库 自掘坟墓",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%89%BA%E4%BA%BA%E5%BA%93%20%E8%87%AA%E6%8E%98%E5%9D%9F%E5%A2%93&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "AI观众",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%85%92%E7%AA%9D%E8%B6%85%E5%A4%A7%E8%A2%AB%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
@@ -161,7 +240,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
@@ -204,9 +283,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 15时31分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "15时31分"
+        },
+        {
+          "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
+          "url": "https://www.cls.cn/detail/2348774",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "特朗普：美军在阿曼湾武力拦截并控制一艘伊朗货船",
@@ -218,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "特朗普称将重启谈判 伊朗否认三连",
+          "url": "https://www.cls.cn/detail/2348737",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -290,8 +402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 07时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 15时31分]"
         },
         {
           "title": "Codex大更新实测",
