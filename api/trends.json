@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T03:47:22.824384+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-04-21T06:13:07.348563+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "陈哲远、曾舜晞等百位演员入驻爱奇艺 AI 艺人库，明知可能分走自己饭碗，演员们为何还要入场？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
           "title": "爱奇艺称AI艺人库仅是合作意愿",
@@ -25,11 +26,25 @@
           "source": "微博",
           "ranks": [
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 06时13分]"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
           "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
@@ -40,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -52,8 +67,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
           "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
@@ -63,20 +78,42 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
-          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
-          "url": "https://www.zhihu.com/question/2029565174948914400",
-          "source": "知乎",
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            11
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时47分 ~ 06时13分]"
+        },
+        {
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "time_info": "[03时47分 ~ 06时13分]"
+        },
+        {
+          "title": "观众为何对AI表演集体不买账",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E4%B8%BA%E4%BD%95%E5%AF%B9AI%E8%A1%A8%E6%BC%94%E9%9B%86%E4%BD%93%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 06时13分]"
         },
         {
           "title": "在招聘页面放AI聚餐照",
@@ -85,7 +122,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -112,6 +149,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3091332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "爱奇艺 CEO 龚宇称 AI 影视化无法阻挡，真人实拍可能成为非物质文化遗产，你认同他的观点吗？",
           "url": "https://www.zhihu.com/question/2029557729014933493",
           "source": "知乎",
@@ -121,6 +169,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：Anthropic将在AWS技术上投资超过1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260421044043115800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "Anthropic与亚马逊扩大战略合作",
+          "url": "https://wallstreetcn.com/livenews/3091329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
@@ -134,26 +204,37 @@
           "time_info": "00时03分"
         },
         {
-          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
-          "source": "澎湃新闻",
+          "title": "亚马逊(AMZN.O)：Anthropic的Claude平台现已在AWS上线。",
+          "url": "https://flash.jin10.com/detail/20260421043955367800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)盘后涨2.5%，公司宣布扩大与Anthropic的合作。",
+          "url": "https://flash.jin10.com/detail/20260421043916018800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时13分"
         },
         {
-          "title": "女子酒窝超大被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7630464363427069993/",
-          "source": "今日头条",
+          "title": "亚马逊(AMZN.O)： Anthropic将获得5吉瓦的亚马逊Trainium芯片。",
+          "url": "https://flash.jin10.com/detail/20260421043339536800",
+          "source": "金十数据",
           "ranks": [
-            26
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时13分"
         },
         {
           "title": "华为首款AI眼镜来了",
@@ -162,15 +243,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：将投资高达250亿美元于Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260421043308137800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)与Anthropic扩大战略合作关系。",
+          "url": "https://flash.jin10.com/detail/20260421043250625800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -180,8 +283,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -191,8 +294,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -206,15 +309,48 @@
           "time_info": "00时03分"
         },
         {
+          "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
+          "url": "https://flash.jin10.com/detail/20260421052808846800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
           "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://wallstreetcn.com/livenews/3091293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
+          "url": "https://wallstreetcn.com/livenews/3091343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
+          "url": "https://wallstreetcn.com/livenews/3091342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
@@ -223,7 +359,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -234,7 +370,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -245,7 +381,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -256,7 +392,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -267,7 +403,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -278,7 +414,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -300,7 +436,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -311,7 +447,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -330,8 +466,20 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
+        },
         {
           "title": "国际海事组织：霍尔木兹海峡附近船舶需保持“最高等级戒备”",
           "url": "https://wallstreetcn.com/livenews/3091252",
@@ -344,16 +492,15 @@
           "time_info": "00时03分"
         },
         {
-          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
-          "source": "澎湃新闻",
+          "title": "智利国家铜业公司（Codelco）主席Maximo Pacheco在股东会以上表示：公司债务增长系公司的国有性质所致。 如果公司是私营性质，债务规模就会只有现阶段的五分之一。",
+          "url": "https://wallstreetcn.com/livenews/3091330",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            4
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "Kimi 推出的 K2.6-code-preview 已经上线，使用体验如何？",
@@ -362,9 +509,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "Peabody Energy美股盘后涨3.6%，白宫称特朗普签署煤炭相关的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3091324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -381,8 +539,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 06时13分]"
         }
       ]
     }
