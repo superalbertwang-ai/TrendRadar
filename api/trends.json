@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T00:05:12.394473+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-22T03:56:11.692420+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时56分]"
+        },
+        {
+          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
+          "url": "https://www.zhihu.com/question/2027797621893244826",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时56分]"
         },
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -25,9 +37,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 03时56分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 03时56分]"
         },
         {
           "title": "如何评价 GitHub Copilot 在 4 月 20 日暂停 Pro 和 Pro+ 新用户注册，并修改使用限制算法？",
@@ -41,37 +65,15 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "爱奇艺AI艺人库争议背后：为何要推进，如何保证演员和观众权益？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011865",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
-          "url": "https://www.zhihu.com/question/2027797621893244826",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
-        },
-        {
-          "title": "美联储主席提名人沃什：此前在美联储的工作经验使我能够上任后迅速进入状态。 人工智能（AI）的影响如此深远，重新审视美联储的模型至关重要。 随着时间的推移，它（人工智能）可能会让美联储控制通胀的工作变得更容易。 关于人工智能对就业意味着什么，也存在一个疑问。 美联储需要在框架和沟通方式上进行改革。",
-          "url": "https://wallstreetcn.com/livenews/3091959",
+          "title": "OpenAI推出ChatGPT Images2.0图像模型。",
+          "url": "https://wallstreetcn.com/livenews/3092057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时05分"
+          "time_info": "03时56分"
         },
         {
           "title": "AI围剿影视圈,演员签卖身契",
@@ -80,7 +82,51 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 03时56分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT Images 2.0即日起向所有ChatGPT和Codex用户开放。",
+          "url": "https://flash.jin10.com/detail/20260422032455495800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Images2.0图像模型。",
+          "url": "https://flash.jin10.com/detail/20260422032424290800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "苹果公司候任CEO Ternus：我们将再次改变世界。 AI将创造“几乎无限的潜力”。 在我任期内，公司的使命不会变化。",
+          "url": "https://wallstreetcn.com/livenews/3092049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
+        },
+        {
+          "title": "美联储主席提名人沃什：此前在美联储的工作经验使我能够上任后迅速进入状态。 人工智能（AI）的影响如此深远，重新审视美联储的模型至关重要。 随着时间的推移，它（人工智能）可能会让美联储控制通胀的工作变得更容易。 关于人工智能对就业意味着什么，也存在一个疑问。 美联储需要在框架和沟通方式上进行改革。",
+          "url": "https://wallstreetcn.com/livenews/3091959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         }
@@ -97,18 +143,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         },
@@ -119,7 +154,18 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 03时56分]"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
         }
