@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-27T01:14:29.031065+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-27T04:03:05.779570+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://wallstreetcn.com/livenews/3094547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
         {
           "title": "龙虾官宣接入DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -37,30 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -70,8 +37,91 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "DeepSeek输入缓存降价",
+          "url": "https://wallstreetcn.com/livenews/3094547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2029541889469096343",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "DeepSeek V4全面评测",
+          "url": "https://www.douyin.com/hot/2479058",
+          "source": "抖音",
+          "ranks": [
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "DeepSeek V4成OpenClaw默认模型",
+          "url": "https://www.toutiao.com/trending/7632564309457141806/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -81,41 +131,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
           "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "AI 编程从「vibe coding」到「wish coding」，迎来 C 端拐点，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2029541889469096343",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
+            12,
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "DeepSeek输入缓存降价",
@@ -125,30 +154,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "DeepSeek V4成OpenClaw默认模型",
-          "url": "https://www.toutiao.com/trending/7632564309457141806/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -158,14 +165,25 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
+        },
+        {
+          "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
+          "url": "https://flash.jin10.com/detail/20260427010358748800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时14分"
+          "time_info": "04时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普否认枪击事件与伊朗战争有关",
@@ -175,8 +193,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -186,30 +204,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "特朗普：希望伊朗主动联系美国",
           "url": "https://flash.jin10.com/detail/20260427002516941800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
           "url": "https://wallstreetcn.com/livenews/3094530",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
+          "appearance_count": 2,
+          "time_info": "[01时14分 ~ 04时03分]"
         },
         {
           "title": "美国总统特朗普：我们将把夺取伊朗的核材料作为谈判的一部分。",
@@ -254,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗知道协议应该包括什么，他们明白不能拥有核武器，否则就没有必要举行会议。",
+          "url": "https://flash.jin10.com/detail/20260427005514669800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "特朗普：伊朗战争很快结束 美国将取胜",
