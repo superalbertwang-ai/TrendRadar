@@ -1,66 +1,35 @@
 {
-  "generated_at": "2026-04-30T03:01:26.271571+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-30T06:16:00.335186+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
           "url": "https://www.zhihu.com/question/2032851960177631968",
           "source": "知乎",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
+            4,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 06时16分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 06时16分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -70,8 +39,88 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 06时16分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
+          "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
           "title": "DeepSeek新版本发布为何悄无声息",
@@ -85,6 +134,17 @@
           "time_info": "[03时00分 ~ 03时01分]"
         },
         {
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
+        },
+        {
           "title": "中美AI竞争的本质差距在哪",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
@@ -96,37 +156,59 @@
           "time_info": "[03时00分 ~ 03时01分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "在异环中演奏See you again",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 06时16分]"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
+          "title": "Anthropic考虑按超过9000亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3096966",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "06时16分"
         },
         {
-          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2360001",
-          "source": "财联社热门",
+          "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
+          "url": "https://wallstreetcn.com/livenews/3096962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "06时16分"
+        },
+        {
+          "title": "市场消息：Anthropic考虑以超9000亿美元估值进行融资。",
+          "url": "https://flash.jin10.com/detail/20260430054820316800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "OpenAI：发布了加强网络防御的新五点行动计划。",
@@ -135,7 +217,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
@@ -143,7 +225,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -152,9 +234,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -163,9 +245,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -174,7 +256,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -185,7 +267,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -196,9 +278,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "【特朗普：同伊朗的谈判正通过电话进行】美国总统特朗普29日表示，美国同伊朗正在通过电话进行谈判，同时强调伊朗方面必须明确承诺彻底放弃核武器。 特朗普当天在白宫椭圆形办公室对媒体说，美伊一直在进行对话，现在通过电话进行沟通，“不再像以前那样，每次想看一份文件都要飞18个小时去开会”。他说，这种方式非常便捷，“我打个电话，或让我的人去打，15分钟内就能知道答案”，但“我向来更倾向于面对面交流”。 特朗普说，目前双方谈判已经取得一些进展，但问题是伊朗方面所做让步是否能满足美方要求。“目前而言，除非他们明确承诺彻底放弃核武器，否则双方绝无可能达成任何协议。” 伊朗日前经由巴基斯坦向美国提出一份新谈判方案。据媒体披露，方案提议分三阶段渐进展开谈判：第一阶段谈结束战争，第二阶段聚焦霍尔木兹海峡通航，第三阶段涉及伊朗核问题。白宫新闻秘书莱维特27日证实，特朗普当天召集国家安全团队讨论伊朗提出的新方案。美国官员稍后告诉媒体，特朗普对这一方案不满意，原因是方案前两个阶段不涉及伊朗核问题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3096956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         },
         {
           "title": "美国总统特朗普：海底有159艘伊朗船只。",
@@ -207,7 +300,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -218,7 +311,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -229,7 +322,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -240,7 +333,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -251,7 +344,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
@@ -262,9 +355,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国财政部长贝森特宣称：与伊朗的磋商正冲向终点线。 （特朗普政府）每天都在加大对伊朗的经济压力。",
+          "url": "https://wallstreetcn.com/livenews/3096944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普称乌克兰在军事上已败？或将伊朗混淆",
+          "url": "https://flash.jin10.com/detail/20260430052917316800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时16分"
         }
       ]
     },
@@ -279,9 +394,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
         },
         {
           "title": "境外组织大力资助躺平网红",
@@ -290,9 +405,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 06时16分]"
         }
       ]
     },
@@ -307,7 +422,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         }
