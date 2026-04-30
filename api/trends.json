@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T06:16:00.335186+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-04-30T15:42:51.144038+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
@@ -28,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时00分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[03时00分 ~ 15时42分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -43,6 +43,18 @@
           "time_info": "[03时00分 ~ 06时16分]"
         },
         {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
+          "url": "https://www.zhihu.com/question/2031783702569726072",
+          "source": "知乎",
+          "ranks": [
+            14,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 15时42分]"
+        },
+        {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
           "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
@@ -54,23 +66,24 @@
           "time_info": "[03时01分 ~ 06时16分]"
         },
         {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 15时42分]"
+        },
+        {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
           "url": "https://wallstreetcn.com/articles/3771151",
           "source": "华尔街见闻",
           "ranks": [
             4,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时16分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -112,15 +125,16 @@
           "time_info": "[03时01分 ~ 06时16分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时15分 ~ 06时16分]"
+          "time_info": "[06时16分 ~ 15时42分]"
         },
         {
           "title": "DeepSeek新版本发布为何悄无声息",
@@ -167,15 +181,59 @@
           "time_info": "[06时15分 ~ 06时16分]"
         },
         {
+          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
+          "url": "https://www.cls.cn/detail/2360653",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "Anthropic考虑按超过9000亿美元估值融资。",
           "url": "https://wallstreetcn.com/livenews/3096966",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
+          "url": "https://wallstreetcn.com/articles/3771219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "美股燃料电池龙头暴涨超27% SOFC或成AI数据中心供电首选",
+          "url": "https://www.cls.cn/detail/2360333",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "谷歌母公司Alphabet：“不急于”在Gemini投放广告，但也还么有什么好说的。",
@@ -184,7 +242,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -195,20 +253,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "不小心触发了真能解决生活问题的AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%B0%8F%E5%BF%83%E8%A7%A6%E5%8F%91%E4%BA%86%E7%9C%9F%E8%83%BD%E8%A7%A3%E5%86%B3%E7%94%9F%E6%B4%BB%E9%97%AE%E9%A2%98%E7%9A%84AI%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时16分"
+          "time_info": "15时42分"
         },
         {
           "title": "OpenAI：发布了加强网络防御的新五点行动计划。",
@@ -220,12 +278,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "用AI代替员工的快开不起工资了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E4%BB%A3%E6%9B%BF%E5%91%98%E5%B7%A5%E7%9A%84%E5%BF%AB%E5%BC%80%E4%B8%8D%E8%B5%B7%E5%B7%A5%E8%B5%84%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "马斯克OpenAI案二日庭审证词总结",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8BOpenAI%E6%A1%88%E4%BA%8C%E6%97%A5%E5%BA%AD%E5%AE%A1%E8%AF%81%E8%AF%8D%E6%80%BB%E7%BB%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "为什么 AI 写文章都特别爱用「不是…而是…」等刻意的句式，以及「推、硬、稳」等单调刻板的形容词？",
+          "url": "https://www.zhihu.com/question/2002901485307069965",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -248,6 +339,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 06时16分]"
+        },
+        {
+          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
+          "url": "https://www.cls.cn/detail/2360703",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "特朗普放话：伊朗不求饶，海峡不解封",
+          "url": "https://news.ifeng.com/c/8sjt504KI9b",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
+          "url": "https://www.cls.cn/detail/2360629",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -289,7 +424,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -366,7 +501,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -377,7 +512,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         }
@@ -385,29 +520,70 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿联酋宣布退出欧佩克组织",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353882&amp;topic_name=%E9%98%BF%E8%81%94%E9%85%8B%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E6%AC%A7%E4%BD%A9%E5%85%8B%E7%BB%84%E7%BB%87",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 15时42分]"
         },
         {
           "title": "境外组织大力资助躺平网红",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353837&amp;topic_name=%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87%E5%A4%A7%E5%8A%9B%E8%B5%84%E5%8A%A9%E8%BA%BA%E5%B9%B3%E7%BD%91%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 06时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 15时42分]"
+        },
+        {
+          "title": "世卫组织：美国还欠着会费，也看不出来想补缴",
+          "url": "https://news.ifeng.com/c/8sk3fWMxCT9",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "学习 教培 在线教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本纪念昭和百年，高市声称要学习先人挑战未来",
+          "url": "https://news.ifeng.com/c/8sk3JJHReBj",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章《在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班上的讲话》。 (央视新闻)",
+          "url": "https://wallstreetcn.com/livenews/3097293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
