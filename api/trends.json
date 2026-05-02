@@ -1,276 +1,88 @@
 {
-  "generated_at": "2026-05-02T22:18:30.311539+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-05-03T01:35:37.081767+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 42,
+      "match_count": 14,
       "titles": [
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
+          "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
+          "url": "https://wallstreetcn.com/livenews/3098175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            20,
-            19
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时58分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "对于AI巴菲特的问题“投资者为何应该继续持有伯克希尔股票”，阿贝尔在回答中着重强调了公司3970亿美元巨额现金储备的强大实力，正是这笔资金赋予了伯克希尔充分的行动自由。“我们持有现金和美国国债，这有几方面的用途，我们不打算受制于任何人。”",
+          "url": "https://wallstreetcn.com/livenews/3098174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
           "url": "https://www.cls.cn/detail/2362027",
           "source": "财联社热门",
           "ranks": [
-            11,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
-        },
-        {
-          "title": "网警提醒：警惕AI伪造骗局",
-          "url": "https://www.toutiao.com/trending/7634928581718294547/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
-        },
-        {
-          "title": "五一假期收好这份AI伪造防范指南",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%94%B6%E5%A5%BD%E8%BF%99%E4%BB%BDAI%E4%BC%AA%E9%80%A0%E9%98%B2%E8%8C%83%E6%8C%87%E5%8D%97",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
-        },
-        {
-          "title": "网警发布五一AI防骗指南",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
-        },
-        {
-          "title": "DeepSeek破底价,友商瑟瑟发抖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 14时25分]"
-        },
-        {
-          "title": "日本首相高市早苗在河内表示：将继续加强与越南在能源、关键矿产、AI、半导体以及航天领域的合作。 日本将协助为越南宜山炼油石化公司协调原油供应。",
-          "url": "https://wallstreetcn.com/livenews/3098114",
+          "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
+          "url": "https://wallstreetcn.com/livenews/3098171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            30
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "Anthropic正在洽谈从英国初创公司Fractile购买AI芯片。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3098169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 18时14分]"
-        },
-        {
-          "title": "网警发布五一AI防骗指南",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
-          "url": "https://wallstreetcn.com/livenews/3098138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 22时18分]"
-        },
-        {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 06时39分]"
-        },
-        {
-          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
-          "url": "https://www.zhihu.com/question/2033267772931749457",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 18时14分]"
-        },
-        {
-          "title": "马斯克承认蒸馏ChatGPT",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
           "title": "专访｜赵又廷：别让AI取代我就行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
           "source": "澎湃新闻",
           "ranks": [
-            13,
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 22时18分]"
-        },
-        {
-          "title": "中国交付南亚最强AIP潜艇意味着什么",
-          "url": "https://www.toutiao.com/trending/7635137774349192713/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 06时39分]"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
-          "url": "https://news.ifeng.com/c/8sn1WIx976g",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 18时14分]"
-        },
-        {
-          "title": "时隔五年我用AI复活了父亲",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E6%88%91%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E4%BA%86%E7%88%B6%E4%BA%B2&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 18时14分]"
-        },
-        {
-          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
-          "url": "https://flash.jin10.com/detail/20260502172401507800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
-          "url": "https://wallstreetcn.com/articles/3771481",
-          "source": "华尔街见闻",
+          "title": "赛道挤爆,AI短剧收益不够电费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
+          "source": "贴吧",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "01时35分"
         },
         {
           "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
@@ -279,563 +91,158 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "AI踩平量化门槛，普通人入局机会在哪？",
-          "url": "https://flash.jin10.com/detail/20260502120100922800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/Uq6lC4VFntqNQMXXh1scy.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260502120053425800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "赵又廷：别让AI取代我就行",
-          "url": "https://www.toutiao.com/trending/7635111678820761646/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
+          "url": "https://www.zhihu.com/question/2032857350361626424",
           "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
-          "title": "DeepSeek 现在我是你爹了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%20%E7%8E%B0%E5%9C%A8%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9%E4%BA%86&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "AI 时代已经来了，为什么很多人明知道它重要，却迟迟不敢真正开始？",
+          "url": "https://www.zhihu.com/question/2031784120653697717",
+          "source": "知乎",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
-          "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
-          "url": "https://wallstreetcn.com/livenews/3098058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
-          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "title": "AI驱动电力需求爆发 伯克希尔能源业务迎增长窗口",
+          "url": "https://flash.jin10.com/detail/20260502225511192800",
           "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "报道：AI芯片制造商Cerebras的IPO目标融资高达40亿美元",
-          "url": "https://wallstreetcn.com/livenews/3098056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://wallstreetcn.com/livenews/3098092",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
-          "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3098052",
-          "source": "华尔街见闻-快讯",
+          "title": "误导女子闯入毒蛇窝AI道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AF%AF%E5%AF%BC%E5%A5%B3%E5%AD%90%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9DAI%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "01时35分"
         },
         {
-          "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3098051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
-          "url": "https://flash.jin10.com/detail/20260502085918272800",
+          "title": "不盲目跟风 伯克希尔谨慎推进AI策略并确立三大原则",
+          "url": "https://flash.jin10.com/detail/20260502224136117800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "01时35分"
         },
         {
-          "title": "Claude画的DeepSeek蓝胖鱼",
-          "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
+          "title": "被AI误导闯入毒蛇窝女子发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3098046",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "据日本经济产业省消息，日本太阳石油公司（Taiyo Oil）将接收一船来自俄罗斯“萨哈林2号”（Sakhalin-2）项目的原油。（日本每日新闻）",
-          "url": "https://wallstreetcn.com/livenews/3098116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "用AI把我家猫养在了电脑上",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8AI%E6%8A%8A%E6%88%91%E5%AE%B6%E7%8C%AB%E5%85%BB%E5%9C%A8%E4%BA%86%E7%94%B5%E8%84%91%E4%B8%8A&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "01时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
           "url": "https://wallstreetcn.com/articles/3771465",
           "source": "华尔街见闻",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
           "url": "https://www.cls.cn/detail/2362040",
           "source": "财联社热门",
           "ranks": [
-            9,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
           "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            10,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
+          "appearance_count": 1,
+          "time_info": "01时35分"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://www.cls.cn/detail/2362026",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 22时18分]"
-        },
-        {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特朗普告诉美国国会伊朗冲突已结束 规避战争授权程序",
-          "url": "https://flash.jin10.com/detail/20260502030531096800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "美国总统特朗普称，他不需要国会授权即可对伊朗采取军事行动，理由是已达成停火协议。特朗普在给美国国会的信中写道：自2026年4月7日以来，美军与伊朗之间未发生交火。始于2026年2月28日的敌对行动已经结束。",
-          "url": "https://flash.jin10.com/detail/20260502023926278800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "特朗普威胁称“美军将从伊朗返回路上去接管古巴”",
-          "url": "https://wallstreetcn.com/livenews/3098108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗行动不需要授权。",
-          "url": "https://flash.jin10.com/detail/20260502023643781800",
-          "source": "金十数据",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "分析：伊朗僵局可能使美国总统特朗普的处境比开战前更糟",
-          "url": "https://flash.jin10.com/detail/20260502130655165800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "美媒：特朗普告知国会，对伊朗战事已“结束”",
-          "url": "https://wallstreetcn.com/livenews/3098021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "time_info": "01时35分"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
           "url": "https://www.cls.cn/detail/2362106",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "特朗普将美国封锁伊朗港口比作海盗行为：是“非常赚钱的生意”",
-          "url": "https://flash.jin10.com/detail/20260502105413404800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
-          "url": "https://flash.jin10.com/detail/20260502034433058800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "特朗普称美国和伊朗正在通过电话进行谈判",
-          "url": "https://flash.jin10.com/detail/20260502021203211800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨，宣称本来以为（美国和以色列发动的伊朗）战争会让股市暴跌25%。",
-          "url": "https://wallstreetcn.com/livenews/3098055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "01时35分"
         },
         {
           "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
           "url": "https://wallstreetcn.com/livenews/3098148",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "工作室称孙杨遭受大规模、有组织、有计划的网络暴力与造谣诽谤，已报案，网暴、诽谤者要承担哪些责任？",
-          "url": "https://www.zhihu.com/question/2033518404158452821",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时58分 ~ 06时39分]"
-        },
-        {
-          "title": "受美国拖欠会费等因素影响 世贸组织计划削减10%预算",
-          "url": "https://flash.jin10.com/detail/20260502031201307800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 06时39分]"
-        },
-        {
-          "title": "巴克莱：虽然阿拉伯联合酋长国计划退出石油输出国组织（OPEC，欧佩克）可能有助于缩小非OPEC供应增长与需求之间的中期差距，但不太可能完全弥补这一缺口，并且会降低闲置产能。",
-          "url": "https://wallstreetcn.com/livenews/3098075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "国际海事组织决定加开会议商讨净零排放框架",
-          "url": "https://wallstreetcn.com/livenews/3098103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "国际海事组织决定加开会议商讨净零排放框架",
-          "url": "https://flash.jin10.com/detail/20260502102241513800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "欧洲汽车游说组织Acea拒绝置评美国总统特朗普最新汽车关税论调。 但呼吁欧盟议员们尽快批准相关立法。",
-          "url": "https://wallstreetcn.com/livenews/3098006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        },
-        {
-          "title": "文件显示，世界贸易组织计划削减10%预算，因美国再次出现拖欠会费情况。",
-          "url": "https://flash.jin10.com/detail/20260502015514740800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "钟南山寄语年轻人：抓紧时间学习工作",
-          "url": "https://www.baidu.com/s?wd=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%AF%84%E8%AF%AD%E5%B9%B4%E8%BD%BB%E4%BA%BA%EF%BC%9A%E6%8A%93%E7%B4%A7%E6%97%B6%E9%97%B4%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "01时35分"
         }
       ]
     }
