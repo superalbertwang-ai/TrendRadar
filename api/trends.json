@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T15:32:56.372360+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-05-03T19:09:08.958865+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 19时09分]"
         },
         {
           "title": "赛道挤爆,AI短剧收益不够电费",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 19时09分]"
         },
         {
           "title": "随后，阿贝尔揭晓真相：这段视频并非真实影像，而是利用AI技术生成的“深度伪造”（deepfake）视频。他借此机会，向在场股东着重提示了网络安全风险。",
@@ -44,6 +46,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 07时30分]"
+        },
+        {
+          "title": "云南的水果像极了AI生成的",
+          "url": "https://www.douyin.com/hot/2486796",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 19时09分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 19时09分]"
         },
         {
           "title": "如何看待 deepseek v4 pro2.5 折特价延长到 5 月 31 日？",
@@ -70,6 +96,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时35分 ~ 07时30分]"
+        },
+        {
+          "title": "湖南广电 AI播新闻",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "伯克希尔拒绝跟风押注AI，CEO延续巴菲特一贯的投资哲学",
@@ -132,6 +169,41 @@
           "time_info": "[01时35分 ~ 07时30分]"
         },
         {
+          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
+          "url": "https://wallstreetcn.com/articles/3771504",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 19时09分]"
+        },
+        {
+          "title": "35 岁男子收到岗位被 AI 取代通知，拒绝大幅降薪后被单位开除，法院判处公司支付赔偿金，怎样解读？",
+          "url": "https://www.zhihu.com/question/2034241896516510290",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
+          "url": "https://wallstreetcn.com/articles/3771503",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 19时09分]"
+        },
+        {
           "title": "五角大楼技术主管：Anthropic仍处于黑名单，但Mythos是另一个问题",
           "url": "https://wallstreetcn.com/livenews/3098181",
           "source": "华尔街见闻-快讯",
@@ -144,26 +216,15 @@
           "time_info": "[04时05分 ~ 07时30分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
+          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
+          "url": "https://wallstreetcn.com/articles/3771505",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 19时09分]"
         },
         {
           "title": "误导女子闯入毒蛇窝AI道歉",
@@ -178,15 +239,15 @@
           "time_info": "[01时35分 ~ 04时05分]"
         },
         {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
+          "title": "2个AI混入人类会被发现吗",
+          "url": "https://search.bilibili.com/all?keyword=2%E4%B8%AAAI%E6%B7%B7%E5%85%A5%E4%BA%BA%E7%B1%BB%E4%BC%9A%E8%A2%AB%E5%8F%91%E7%8E%B0%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
@@ -200,28 +261,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "AI CPU推高DDR5内存需求，存储芯片“超级周期”或延续至2027年",
           "url": "https://wallstreetcn.com/articles/3771481",
           "source": "华尔街见闻",
@@ -233,13 +272,24 @@
           "time_info": "07时30分"
         },
         {
+          "title": "既承传亦求变：伯克希尔新掌门释放谨慎投资与AI新信号",
+          "url": "https://www.cls.cn/detail/2362207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
           "url": "https://flash.jin10.com/detail/20260503120603824800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -250,7 +300,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -261,7 +311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -302,7 +352,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -310,11 +360,38 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 19时09分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时35分 ~ 19时09分]"
         },
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -328,28 +405,15 @@
           "time_info": "[01时35分 ~ 07时30分]"
         },
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
+          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
+          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 15时32分]"
-        },
-        {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 15时32分]"
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 19时09分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -364,15 +428,15 @@
           "time_info": "[01时35分 ~ 07时30分]"
         },
         {
-          "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
-          "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
           "source": "凤凰网",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 19时09分]"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
@@ -386,15 +450,16 @@
           "time_info": "[01时35分 ~ 04时05分]"
         },
         {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
+          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
+          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "source": "今日头条",
           "ranks": [
-            5
+            17,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
@@ -409,13 +474,35 @@
           "time_info": "[01时35分 ~ 04时05分]"
         },
         {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "据伊朗Press TV报道，伊朗革命卫队称，“特朗普必须在一个不可能的军事行动或与伊朗达成一个糟糕的协议之间做出选择。 美国的决策空间已经缩小。”",
+          "url": "https://flash.jin10.com/detail/20260503174401347800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
           "url": "https://wallstreetcn.com/livenews/3098221",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -423,18 +510,30 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全国共有共青团员7833.6万名，共青团组织515.0万个",
           "url": "https://m.thepaper.cn/newsDetail_forward_33094121",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 19时09分]"
+        },
+        {
+          "title": "罗马尼亚总统：明天我将组织一次非正式讨论，主题是垂直气体走廊对区域能源安全的影响，届时将有多位区域领导人参加。",
+          "url": "https://flash.jin10.com/detail/20260503182645526800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "19时09分"
         }
       ]
     }
