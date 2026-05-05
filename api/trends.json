@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T15:34:49.908179+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-05-05T19:54:42.166591+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -29,6 +29,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 15时34分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 19时54分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 19时54分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -56,28 +82,15 @@
           "time_info": "[04时49分 ~ 15时34分]"
         },
         {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
+          "title": "用AI写出20亿播放量神曲？音乐人发声",
+          "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E5%86%99%E5%87%BA20%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A5%9E%E6%9B%B2%EF%BC%9F%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            20
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 15时34分]"
-        },
-        {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 15时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -102,6 +115,52 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 07时43分]"
+        },
+        {
+          "title": "谷歌、xAI和微软同意对新人工智能模型进行美国国家安全审查。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3098780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 19时54分]"
+        },
+        {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 19时54分]"
+        },
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
@@ -138,26 +197,26 @@
           "time_info": "[07时42分 ~ 07时43分]"
         },
         {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "19时54分"
         },
         {
-          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
-          "url": "https://wallstreetcn.com/articles/3771568",
-          "source": "华尔街见闻",
+          "title": "Coinbase宣布重组计划，以优化运营，迎接AI时代",
+          "url": "https://wallstreetcn.com/livenews/3098768",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时34分"
+          "time_info": "19时54分"
         },
         {
           "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
@@ -166,7 +225,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -177,7 +236,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -188,7 +247,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -218,8 +277,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 19时54分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -227,11 +286,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 15时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 19时54分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -256,6 +316,18 @@
           "time_info": "[04时49分 ~ 07时43分]"
         },
         {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 19时54分]"
+        },
+        {
           "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
           "url": "https://flash.jin10.com/detail/20260505073807180800",
           "source": "金十数据",
@@ -278,15 +350,16 @@
           "time_info": "07时43分"
         },
         {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
           "ranks": [
+            8,
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 19时54分]"
         },
         {
           "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
@@ -298,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时34分"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -402,7 +464,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黑客组织“哈达拉（Handala）”宣称，他们对阿联酋的富查伊拉港发动了网络攻击，获取了超过43万份有关航运、财务和基础设施的机密文件，这些文件被用于支持有针对性的打击行动。",
@@ -422,7 +484,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -438,13 +500,24 @@
           "time_info": "04时49分"
         },
         {
+          "title": "辉瑞第一季度净利润26.87亿美元。 第一季度调整后EPS0.75美元，预期0.72美元。 第一季度营收144.51亿美元，预期137.85亿美元。 第一季度内部研发项目投资25亿美元。 2026年全年EPS预期2.96美元。 2026年全年营收预期614.2亿美元。 辉瑞表示，2026年财务指引未考虑任何股票回购计划。 自第一季度起，对全球生物制药业务的商业组织进行了调整。",
+          "url": "https://wallstreetcn.com/livenews/3098765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "长和将终止确认其于VodafoneThree的投资",
           "url": "https://wallstreetcn.com/livenews/3098709",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
