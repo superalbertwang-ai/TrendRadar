@@ -1,8 +1,175 @@
 {
-  "generated_at": "2026-05-08T07:42:47.383319+08:00",
-  "total_titles_processed": 492,
-  "failed_sources": [],
+  "generated_at": "2026-05-08T14:32:04.801808+08:00",
+  "total_titles_processed": 739,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
+    {
+      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 14时32分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 14时32分]"
+        },
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时53分 ~ 14时32分]"
+        },
+        {
+          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
+          "url": "https://www.zhihu.com/question/2035662942067225907",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时32分]"
+        },
+        {
+          "title": "科技行业裁员或体现在美国4月非农中，但AI担忧或被夸大",
+          "url": "https://flash.jin10.com/detail/20260508142001821800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
+          "url": "https://www.cls.cn/detail/2365554",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
+          "url": "https://wallstreetcn.com/livenews/3100252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "AI四小龙估值破万亿",
+          "url": "https://www.toutiao.com/trending/7637337803117825590/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        },
+        {
+          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
+          "url": "https://wallstreetcn.com/articles/3771688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "OpenAI推出新模型，以供网络安全团队使用",
+          "url": "https://flash.jin10.com/detail/20260508065544953800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "AI建设热潮持续，台积电4月营收增长17.5%",
+          "url": "https://flash.jin10.com/detail/20260508141054350800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "加码科技金融，中小银行盼AIC试点扩容",
+          "url": "https://wallstreetcn.com/livenews/3100243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时30分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 11,
@@ -23,11 +190,12 @@
           "url": "https://news.ifeng.com/c/8swugAgjYdA",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 14时32分]"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -69,7 +237,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -80,7 +248,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -91,7 +259,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -102,7 +270,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -113,7 +281,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -124,92 +292,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 07时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 07时42分]"
-        },
-        {
-          "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
-          "url": "https://wallstreetcn.com/livenews/3100252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
-          "url": "https://wallstreetcn.com/articles/3771688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "OpenAI推出新模型，以供网络安全团队使用",
-          "url": "https://flash.jin10.com/detail/20260508065544953800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "加码科技金融，中小银行盼AIC试点扩容",
-          "url": "https://wallstreetcn.com/livenews/3100243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -217,7 +300,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "联合国粮农组织警告：霍尔木兹海峡危机将导致全球粮食供应趋紧",
@@ -231,13 +314,35 @@
           "time_info": "00时22分"
         },
         {
+          "title": "阿根廷拒绝重新加入世卫组织",
+          "url": "https://wallstreetcn.com/livenews/3100442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗外交部：（当被问及美国制裁部分伊拉克官员及抵抗组织时）美国以毫无根据的理由针对伊拉克官员，实在令人感到羞耻和可悲。",
+          "url": "https://flash.jin10.com/detail/20260508141040396800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "刚果（金）东北部遭武装组织袭击 至少36人死亡",
           "url": "https://flash.jin10.com/detail/20260508062040741800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -254,7 +359,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
