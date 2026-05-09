@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T15:30:07.737169+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-09T19:16:05.090285+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "GAI新歌星梦MV",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时19分 ~ 15时30分]"
+        },
+        {
+          "title": "DeepSeek识图模式大范围开放",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时29分 ~ 19时16分]"
         },
         {
           "title": "私募和AI合体意味着什么",
@@ -43,15 +56,15 @@
           "time_info": "[00时06分 ~ 04时20分]"
         },
         {
-          "title": "DeepSeek识图模式大范围开放",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE",
-          "source": "bilibili 热搜",
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "time_info": "[15时30分 ~ 19时16分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -65,6 +78,65 @@
           "time_info": "[00时06分 ~ 04时20分]"
         },
         {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 19时16分]"
+        },
+        {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 19时16分]"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 19时16分]"
+        },
+        {
+          "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
+          "url": "https://flash.jin10.com/detail/20260509183702634800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 19时16分]"
+        },
+        {
           "title": "DeepSeek正式跨入图文交互时代",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -76,26 +148,27 @@
           "time_info": "[15时29分 ~ 15时30分]"
         },
         {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 19时16分]"
+        },
+        {
+          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://wallstreetcn.com/articles/3771900",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
-          "url": "https://www.cls.cn/detail/2366653",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "19时16分"
         },
         {
           "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
@@ -109,6 +182,17 @@
           "time_info": "08时14分"
         },
         {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 19时16分]"
+        },
+        {
           "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
           "url": "https://wallstreetcn.com/livenews/3100960",
           "source": "华尔街见闻-快讯",
@@ -120,26 +204,26 @@
           "time_info": "08时14分"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "19时16分"
         },
         {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "19时16分"
         },
         {
           "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
@@ -164,17 +248,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
           "title": "美国拟发布AI安全行政令，但将不包含强制性模型测试",
           "url": "https://flash.jin10.com/detail/20260509033607893800",
           "source": "金十数据",
@@ -197,26 +270,15 @@
           "time_info": "04时20分"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "19时16分"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国4月非农就业报告相当稳定。 并没有太多证据表明劳动力市场在崩溃。 通胀并不严重，（只是）处于错误的方向上。 通胀压力不仅仅来自能源（冲击），在美国和以色列发动伊朗战争前就已经处于高位。 正试图判断能源冲击是否会持续。 主要的担忧在于服务通胀。 美联储必须密切关注通胀形势。 美联储应当始终保留所有政策选项。 不怎么喜欢用言论来引导（口头干预）政策决策。 担心市场在 AI 生产力提升真正到来之前就提前将其计入定价。（CNBC）",
@@ -241,6 +303,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "Deepseek和阿里谈崩了？市场人士：双方应该没有进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3101032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
           "url": "https://wallstreetcn.com/livenews/3100934",
           "source": "华尔街见闻-快讯",
@@ -261,12 +334,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "世卫组织：汉坦病毒潜伏期长达6周",
@@ -311,13 +395,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "以色列国防军：今天早些时候，在以色列北部靠近以色列-黎巴嫩边界发现了一架由真主党恐怖组织发射的爆炸无人机。",
+          "url": "https://flash.jin10.com/detail/20260509181451875800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
           "url": "https://wallstreetcn.com/livenews/3100958",
