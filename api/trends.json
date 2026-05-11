@@ -1,378 +1,56 @@
 {
-  "generated_at": "2026-05-11T21:38:50.104078+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-05-12T00:25:36.488824+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 21时38分]"
-        },
-        {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "GAI新歌太费口红",
-          "url": "https://www.douyin.com/hot/2494398",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 21时38分]"
-        },
-        {
-          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2367918",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 21时38分]"
-        },
-        {
-          "title": "布鲁克菲尔德将投资5亿美元，与OpenAI建立战略合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3101686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "OpenAI将收购咨询公司以组建私募股权合资企业",
-          "url": "https://wallstreetcn.com/livenews/3101685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
-          "url": "https://www.cls.cn/detail/2367107",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
-          "url": "https://www.cls.cn/detail/2367192",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "南京大学校长谈AI教育悖论：把开放的课程装进了旧框架，形成“马车拉蒸汽机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149635",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "OpenAI：启动OpenAI部署公司；该部署公司帮助企业构建人工智能。",
-          "url": "https://flash.jin10.com/detail/20260511211207553800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "欧盟委员会：与Anthropic、OpenAI的谈判处于不同阶段。",
-          "url": "https://wallstreetcn.com/livenews/3101566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "加速渗透！宠物AI手机交付订单达数万台 距离真正“人宠互通”还有多远",
-          "url": "https://www.cls.cn/detail/2367714",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "欧盟委员会发言人：我们与Anthropic保持着良好的沟通，目前尚无法对可能获取该AI模型一事进行推测。",
-          "url": "https://flash.jin10.com/detail/20260511183423552800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "AI会取代哪些职业？多个AI意见不统一",
-          "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "欧盟委员会发言人：我们已经与Anthropic举行了四到五次会议，并在不同阶段与OpenAI和Anthropic进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260511183044315800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "ChatGPT被指为佛州枪击案“帮凶”，受害者家属提起诉讼",
-          "url": "https://wallstreetcn.com/livenews/3101667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "欧盟委员会发言人：与Anthropic就Mythos进行持续接触。",
-          "url": "https://flash.jin10.com/detail/20260511183034668800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "欧盟委员会发言人：OpenAI已与我们取得联系，目前正在就可能采取的下一步措施进行讨论。",
-          "url": "https://flash.jin10.com/detail/20260511183013733800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "机构：预计2027年AI服务器内存需求将占DRAM市场容量近50%",
-          "url": "https://wallstreetcn.com/livenews/3101547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "灵珠启动第二次内测：取消邀请码、全面接入DeepSeek V4",
-          "url": "https://wallstreetcn.com/livenews/3101660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "欧盟委员会发言人：欢迎OpenAI有意向提供模型的访问权限。",
-          "url": "https://flash.jin10.com/detail/20260511182844590800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "AI正把韩国推成全球最疯狂牛市",
-          "url": "https://www.toutiao.com/trending/7638535831472311827/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "欧盟委员会发言人：欧盟委员会正就最新版ChatGPT模型与OpenAI保持联系。",
-          "url": "https://flash.jin10.com/detail/20260511182753884800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "Kimi与DeepSeek到底谁更值钱",
-          "url": "https://www.toutiao.com/trending/7638234526786784804/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "OpenAI将与TPG和Brookfield合作成立新合资企业，推动人工智能应用。",
-          "url": "https://flash.jin10.com/detail/20260511210031661800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "OpenAI将收购咨询公司TOMORO以成立私募股权合资企业。",
-          "url": "https://flash.jin10.com/detail/20260511210017337800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        }
-      ]
-    },
     {
       "keyword_group": "特朗普",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美国总统特朗普：伊朗是一个美丽的国家，只是目前管理它的人不称职。",
+          "url": "https://flash.jin10.com/detail/20260512001112934800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判代表不断改变看法，他们真的完全缺乏诚信。",
+          "url": "https://flash.jin10.com/detail/20260512000832880800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
+          "url": "https://flash.jin10.com/detail/20260512000657529800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
+          "url": "https://wallstreetcn.com/livenews/3101777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
           "url": "https://wallstreetcn.com/articles/3771940",
@@ -381,181 +59,223 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 21时38分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
-          "url": "https://wallstreetcn.com/livenews/3101151",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：现在没人想当伊朗总统。",
+          "url": "https://flash.jin10.com/detail/20260512000601966800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "美元走高，特朗普声称“不喜欢伊朗”对和平方案的回复",
-          "url": "https://wallstreetcn.com/livenews/3101174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "00时25分"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2368275",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
-        },
-        {
-          "title": "伊媒：特朗普对伊朗回应的反应无关紧要",
-          "url": "https://flash.jin10.com/detail/20260511044544545800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普不喜欢伊朗的回应，称：“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗将无法再嘲笑美国。",
-          "url": "https://flash.jin10.com/detail/20260511020232071800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "00时25分"
         },
         {
-          "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
-          "url": "https://flash.jin10.com/detail/20260511043952589800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普：伊朗对和平方案的回应“完全不可接受”",
-          "url": "https://wallstreetcn.com/livenews/3101172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
-          "url": "https://wallstreetcn.com/livenews/3101160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "特朗普：伊朗的回应完全不可接受",
-          "url": "https://flash.jin10.com/detail/20260511041440041800",
+          "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
+          "url": "https://flash.jin10.com/detail/20260512000529423800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "00时25分"
         },
         {
-          "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
-          "url": "https://flash.jin10.com/detail/20260511015611933800",
+          "title": "美国总统特朗普：一旦与伊朗的事情结束，汽油和石油价格将会暴跌。",
+          "url": "https://flash.jin10.com/detail/20260512000354275800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "00时25分"
         },
         {
-          "title": "特朗普指责伊朗“拖延、戏弄”美国，称拜登比奥巴马更糟",
-          "url": "https://wallstreetcn.com/livenews/3101168",
+          "title": "【特朗普：“停火协议已岌岌可危”】美国总统特朗普5月11日在白宫对媒体表示，伊朗对美国所提方案的回应“愚蠢”，“停火协议已岌岌可危”。 (CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3101771",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "特朗普称伊朗对美方案的回应愚蠢",
+          "url": "https://flash.jin10.com/detail/20260512000040779800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普抱怨称，伊朗与美方达成共识，后来又反悔了。",
+          "url": "https://wallstreetcn.com/livenews/3101764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的提议是一个愚蠢的方案。 我有一个对伊朗的计划。 重申伊朗不能拥有核武器。 伊朗封锁是“军事天才”的一部分。 （发动伊朗战争）是在为全球服务。 （我）根本没有压力，将全胜。 （伊朗的）领袖们被（美国和以色列）杀害了。",
+          "url": "https://wallstreetcn.com/livenews/3101760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
+      "match_count": 11,
       "titles": [
         {
-          "title": "国家体育总局：希望大家关注运动员赛场表现，不组织、不参与庆生等活动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33151105",
-          "source": "澎湃新闻",
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 05时37分]"
-        },
-        {
-          "title": "世卫组织总干事：“洪迪厄斯”号邮轮乘客开始下船",
-          "url": "https://wallstreetcn.com/livenews/3101128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "00时25分"
         },
         {
-          "title": "世卫组织：已确认7例涉\"洪迪厄斯\"号邮轮的汉坦病毒感染病例",
-          "url": "https://wallstreetcn.com/livenews/3101651",
+          "title": "把AI用到了最有意义的场合",
+          "url": "https://www.douyin.com/hot/2495756",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "千问+淘宝！试水大模型变现新入口",
+          "url": "https://www.cls.cn/detail/2368276",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "AI时代如何评价各专业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
+          "url": "https://wallstreetcn.com/livenews/3101759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "CORTIS新歌ACAI的MV来了",
+          "url": "https://www.douyin.com/hot/2495749",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "AI正把韩国推成全球最疯狂牛市",
+          "url": "https://www.toutiao.com/trending/7638535831472311827/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "AI会取代哪些职业？多个AI意见不统一",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "Mosaic Co.（MOS）评估在美国的稀土机会。",
+          "url": "https://wallstreetcn.com/livenews/3101750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时25分"
         }
       ]
     },
@@ -564,15 +284,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：印度正在考虑采取措施增强外汇储备，包括限制非必要的黄金和电子产品进口，以及提高燃油价格。",
-          "url": "https://flash.jin10.com/detail/20260511211253879800",
-          "source": "金十数据",
+          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3101773",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时38分"
+          "time_info": "00时25分"
         }
       ]
     }
