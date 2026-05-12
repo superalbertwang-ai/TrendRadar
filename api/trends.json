@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:11:53.322433+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-05-12T21:33:35.560889+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -37,11 +37,12 @@
             24,
             13,
             14,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 21时33分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -58,8 +59,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 19时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 21时33分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -75,8 +76,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 21时33分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -87,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时30分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 21时33分]"
         },
         {
           "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
@@ -97,11 +98,12 @@
           "ranks": [
             11,
             12,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 21时33分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
@@ -110,11 +112,12 @@
           "ranks": [
             10,
             11,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 21时33分]"
         },
         {
           "title": "千问+淘宝！试水大模型变现新入口",
@@ -211,6 +214,28 @@
           "time_info": "[00时25分 ~ 05时58分]"
         },
         {
+          "title": "完美世界：《异环》游戏核心资产、角色立绘等不会使用AI创作",
+          "url": "https://flash.jin10.com/detail/20260512211526333800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "据The Information：OpenAI 200亿美元的注资承诺可能使其获得人工智能芯片制造商Cerebras 11%的股权。",
+          "url": "https://flash.jin10.com/detail/20260512211350102800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
           "title": "王腾AI睡眠公司获新一轮融资，多方资本加持",
           "url": "https://wallstreetcn.com/livenews/3102026",
           "source": "华尔街见闻-快讯",
@@ -220,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "据The Information：人工智能芯片制造商Cerebras本周将以55亿美元的IPO估值上市，这将为OpenAI带来一笔可能超过50亿美元的意外之财。",
+          "url": "https://flash.jin10.com/detail/20260512211335068800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -461,8 +497,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 19时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时47分 ~ 21时33分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -667,7 +703,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "世卫组织：涉疫邮轮病例增至9例 隔离检疫措施旨在降低传播风险",
@@ -679,6 +715,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "多地组织集中观看《给阿嬷的情书》，广东省文联解析出圈密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33161654",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 21时33分]"
         },
         {
           "title": "世卫组织：涉疫邮轮病例增至9例",
@@ -704,15 +752,15 @@
           "time_info": "16时20分"
         },
         {
-          "title": "多地组织集中观看《给阿嬷的情书》，广东省文联解析出圈密码",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161654",
-          "source": "澎湃新闻",
+          "title": "新华三发布面向万亿级大模型的全系列超节点产品UniPoD S80000",
+          "url": "https://wallstreetcn.com/livenews/3102330",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "21时33分"
         }
       ]
     },
