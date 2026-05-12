@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T09:33:06.129333+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-12T13:30:45.396144+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -15,11 +15,29 @@
             5,
             7,
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 09时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时30分]"
+        },
+        {
+          "title": "AI时代如何评价各专业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            18,
+            25,
+            17,
+            19,
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 13时30分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -34,8 +52,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 09时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时30分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -48,22 +66,6 @@
             27,
             22,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 09时32分]"
-        },
-        {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            18,
-            25,
-            17,
-            19,
-            24
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -104,6 +106,39 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
+          "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
+          "url": "https://www.zhihu.com/question/2037127514833646636",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
+        },
+        {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
           "url": "https://wallstreetcn.com/livenews/3101858",
           "source": "华尔街见闻-快讯",
@@ -114,6 +149,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时47分]"
+        },
+        {
+          "title": "孟子义AI换脸高叶",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89AI%E6%8D%A2%E8%84%B8%E9%AB%98%E5%8F%B6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -140,6 +186,28 @@
           "time_info": "[00时25分 ~ 05时58分]"
         },
         {
+          "title": "王腾AI睡眠公司获新一轮融资，多方资本加持",
+          "url": "https://wallstreetcn.com/livenews/3102026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3101803",
           "source": "华尔街见闻-快讯",
@@ -157,7 +225,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -171,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段",
+          "url": "https://wallstreetcn.com/livenews/3102020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
         },
         {
           "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
@@ -245,7 +324,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -261,6 +340,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "“全民分红”来了？韩国高层提议用AI税给公民发钱，韩股差点吓崩",
+          "url": "https://flash.jin10.com/detail/20260512121713832800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
+        },
+        {
           "title": "Mosaic Co.（MOS）评估在美国的稀土机会。",
           "url": "https://wallstreetcn.com/livenews/3101750",
           "source": "华尔街见闻-快讯",
@@ -270,6 +360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段",
+          "url": "https://flash.jin10.com/detail/20260512121155180800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时30分"
         }
       ]
     },
@@ -301,6 +402,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 07时47分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 13时30分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -379,18 +493,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时33分]"
         },
         {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
@@ -487,7 +589,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         },
@@ -509,7 +611,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
         }
@@ -553,11 +655,12 @@
           "url": "https://www.zhihu.com/question/2037104805538182041",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时30分]"
         }
       ]
     },
