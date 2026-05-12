@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T13:30:45.396144+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-12T16:20:26.327588+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -16,11 +16,12 @@
             7,
             2,
             1,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 13时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 16时20分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -33,11 +34,12 @@
             17,
             19,
             24,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 13时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 16时20分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -49,11 +51,12 @@
             16,
             24,
             15,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 13时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 16时20分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -65,11 +68,12 @@
             28,
             27,
             22,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 09时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 16时20分]"
         },
         {
           "title": "千问+淘宝！试水大模型变现新入口",
@@ -82,6 +86,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 05时59分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 16时20分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -106,37 +122,40 @@
           "time_info": "[09时32分 ~ 09时33分]"
         },
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时20分]"
         },
         {
           "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
           "url": "https://www.zhihu.com/question/2037127514833646636",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 16时20分]"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
+          "time_info": "[13时30分 ~ 16时20分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -192,18 +211,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时30分"
-        },
-        {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -247,7 +255,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         },
@@ -296,6 +304,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "理想汽车CTO谢炎：想成为头部公司，AI芯片是必须做的事",
+          "url": "https://wallstreetcn.com/livenews/3102127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
           "url": "https://wallstreetcn.com/livenews/3101759",
           "source": "华尔街见闻-快讯",
@@ -340,15 +359,37 @@
           "time_info": "00时25分"
         },
         {
+          "title": "看了短剧才知道为什么AI越来越像真人",
+          "url": "https://www.toutiao.com/trending/7638658104632020507/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "“全民分红”来了？韩国高层提议用AI税给公民发钱，韩股差点吓崩",
           "url": "https://flash.jin10.com/detail/20260512121713832800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
+        },
+        {
+          "title": "国产AI爱死机到底怎么做出来的",
+          "url": "https://www.douyin.com/hot/2495617",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "Mosaic Co.（MOS）评估在美国的稀土机会。",
@@ -368,7 +409,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时30分"
         }
@@ -410,11 +451,12 @@
           "ranks": [
             10,
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[07时47分 ~ 16时20分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -619,7 +661,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "世卫组织：涉疫邮轮病例增至9例 隔离检疫措施旨在降低传播风险",
@@ -643,6 +685,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时47分 ~ 09时33分]"
+        },
+        {
+          "title": "亚太经合组织电信工作组第72次会议在上海举行",
+          "url": "https://wallstreetcn.com/livenews/3102142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -656,11 +709,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 13时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 16时20分]"
         }
       ]
     },
