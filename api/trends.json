@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T04:26:00.466048+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-13T06:03:06.746108+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI原创短片国产爱死机",
@@ -14,11 +14,12 @@
           "ranks": [
             21,
             23,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -27,22 +28,12 @@
           "ranks": [
             19,
             24,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 04时26分]"
-        },
-        {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "Ai 时代，现在还有人在坚持古法编程吗？",
@@ -53,8 +44,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 06时03分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时32分 ~ 04时26分]"
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
@@ -62,11 +64,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -77,30 +80,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
           "url": "https://www.cls.cn/detail/2369195",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 06时03分]"
+        },
+        {
+          "title": "据知情人士透露， Anthropic正与投资者进行初步洽谈，计划筹集至少300亿美元的新资金，这可能成为该公司迄今为止规模最大的一轮融资。 Anthropic正以超过9000亿美元的估值筹集新一轮资金。",
+          "url": "https://flash.jin10.com/detail/20260513051630845800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "Anthropic进一步拓展法律行业，新工具可协助准备司法考试",
@@ -109,9 +125,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "新一轮融资：Anthropic洽谈按9000亿美元估值融资300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3102518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
@@ -120,7 +147,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -142,7 +169,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
@@ -150,7 +177,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国总统特朗普：伊朗要么做正确的事，要么我们来完成这项工作。",
@@ -252,6 +279,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "美国总统特朗普批评媒体有关伊朗“形势良好”的报道。",
+          "url": "https://wallstreetcn.com/livenews/3102507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国总统特朗普：对伊朗的制裁非常有效，之前德黑兰通过霍尔木兹海峡获得了大量资金。",
           "url": "https://flash.jin10.com/detail/20260513015506573800",
           "source": "金十数据",
@@ -288,8 +326,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 06时03分]"
         },
         {
           "title": "据路透社：一份请愿书显示，Meta美国员工组织抗议鼠标追踪技术。",
@@ -298,7 +336,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -325,11 +363,12 @@
           "source": "微博",
           "ranks": [
             15,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 06时03分]"
         },
         {
           "title": "女生每天去电竞馆学习十几小时获免单",
