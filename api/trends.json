@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T06:06:27.959866+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-14T07:48:11.634843+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "马化腾回应AI掉队",
@@ -13,23 +13,12 @@
           "source": "微博",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 06时06分]"
-        },
-        {
-          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
-          "url": "https://wallstreetcn.com/articles/3772197",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -42,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "保姆级Claude Code速成攻略",
@@ -53,11 +42,25 @@
             20,
             29,
             26,
-            22
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
+        },
+        {
+          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
+          "url": "https://wallstreetcn.com/articles/3772197",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
@@ -65,11 +68,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -78,11 +82,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -92,8 +97,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
@@ -106,8 +111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -133,6 +138,17 @@
           "time_info": "[04时29分 ~ 06时06分]"
         },
         {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时48分]"
+        },
+        {
           "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
           "url": "https://wallstreetcn.com/livenews/3103184",
           "source": "华尔街见闻-快讯",
@@ -145,24 +161,13 @@
           "time_info": "[02时54分 ~ 04时29分]"
         },
         {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
           "title": "微软寻求收购AI公司以摆脱对OpenAI依赖",
           "url": "https://flash.jin10.com/detail/20260514043922541800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -173,7 +178,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -189,13 +194,24 @@
           "time_info": "00时46分"
         },
         {
+          "title": "日本银行业、政府部门最快将于两周内Anthropic模型Mythos。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3103252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
           "title": "报道：微软寻求AI交易，为“后OpenAI时代”做准备",
           "url": "https://wallstreetcn.com/livenews/3103215",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -222,6 +238,28 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美国国会山两党议员们就AI网络威胁发函白宫，要求就此问题采取行动。 信函中提及Anthropic的大模型Mythos。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3103241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "美国会议员敦促白宫应对AI网络安全威胁",
+          "url": "https://flash.jin10.com/detail/20260514062007934800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
           "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
           "url": "https://wallstreetcn.com/livenews/3103166",
           "source": "华尔街见闻-快讯",
@@ -244,6 +282,17 @@
           "time_info": "02时54分"
         },
         {
+          "title": "据AXIOS：美国国会正敦促白宫回应日益加剧的AI网络安全威胁。美国议员要求白宫应对Anthropic旗下Mythos等前沿AI网络模型带来的风险。",
+          "url": "https://flash.jin10.com/detail/20260514061052798800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
           "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
           "url": "https://wallstreetcn.com/livenews/3103116",
           "source": "华尔街见闻-快讯",
@@ -258,7 +307,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么现在大多 Code Agent 的主形态是 CLI/TUI？",
@@ -267,7 +316,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -281,6 +330,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "世卫组织：将持续协调汉坦病毒国际应对工作",
+          "url": "https://wallstreetcn.com/livenews/3103237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         }
       ]
     },
