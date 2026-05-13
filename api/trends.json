@@ -1,33 +1,59 @@
 {
-  "generated_at": "2026-05-14T00:46:25.145509+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-14T02:54:12.027591+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "马化腾回应AI掉队",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时54分]"
         },
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
           "url": "https://wallstreetcn.com/articles/3772197",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时54分]"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时54分]"
+        },
+        {
+          "title": "保姆级Claude Code速成攻略",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时54分]"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
@@ -37,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时54分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -48,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时54分]"
         },
         {
           "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
@@ -59,8 +85,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时54分]"
+        },
+        {
+          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
+          "url": "https://www.cls.cn/detail/2370586",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时54分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -70,8 +108,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 02时54分]"
+        },
+        {
+          "title": "美国佛州枪击案律师：ChatGPT为枪手作案“出谋划策”",
+          "url": "https://wallstreetcn.com/livenews/3103184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "02时54分"
         },
         {
           "title": "Mistral为那些缺乏Mythos获取权限的银行开发新AI模型",
@@ -85,37 +134,37 @@
           "time_info": "00时46分"
         },
         {
-          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
-          "url": "https://www.cls.cn/detail/2370586",
-          "source": "财联社热门",
+          "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3103173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "02时54分"
         },
         {
-          "title": "AI续写轻音少女第三季",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
-          "source": "bilibili 热搜",
+          "title": "记者起诉英伟达、谷歌、微软，指控其AI语音模型侵权",
+          "url": "https://wallstreetcn.com/livenews/3103166",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "02时54分"
         },
         {
-          "title": "保姆级Claude Code速成攻略",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BF%9D%E5%A7%86%E7%BA%A7Claude%20Code%E9%80%9F%E6%88%90%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
+          "title": "苹果公司探索在应用商店APP Store纳入AI智能体。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3103164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时46分"
+          "time_info": "02时54分"
         },
         {
           "title": "加拿大央行：大约12%的受访加拿大企业使用人工智能（AI），在各行业的分部并不均衡。 诸多迹象表明，AI正带来生产力的小幅增长。 AI具备提振生产力、提高生活标准的潜力。 AI可能会改变人们的工作，但不会造成就业机会缩水。 AI尚未造成加拿大大规模失业。",
@@ -127,6 +176,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Modal预计年化收入大约3亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3103176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：金银交易商表示，印度黄金折扣因关税驱动的价格飙升，创下每盎司超过200美元的历史新高。",
+          "url": "https://flash.jin10.com/detail/20260514015625262800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时54分"
         }
       ]
     }
