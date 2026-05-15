@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T21:24:19.751500+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-05-15T23:56:17.172085+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -105,6 +105,19 @@
           "time_info": "[09时51分 ~ 21时24分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 23时56分]"
+        },
+        {
           "title": "AI还原烂梗有多毒",
           "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -115,19 +128,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时04分 ~ 07时46分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 21时24分]"
         },
         {
           "title": "腾讯辟谣“AI一号位即将离职”",
@@ -141,6 +141,18 @@
           "time_info": "[09时51分 ~ 19时11分]"
         },
         {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 23时56分]"
+        },
+        {
           "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
           "url": "https://www.cls.cn/detail/2372257",
           "source": "财联社热门",
@@ -151,17 +163,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时38分 ~ 21时24分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 21时24分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -283,6 +284,17 @@
           "time_info": "[06时54分 ~ 07时46分]"
         },
         {
+          "title": "据华尔街日报：Anthropic正寻求再融资300亿美元，人工智能实验室正在吸纳风险投资的大部分资金。",
+          "url": "https://flash.jin10.com/detail/20260515233259808800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "Codex登陆ChatGPT手机App",
           "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
           "source": "bilibili 热搜",
@@ -360,6 +372,28 @@
           "time_info": "16时38分"
         },
         {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "英国政府：企业应采取措施限制前沿AI模型的风险",
+          "url": "https://wallstreetcn.com/livenews/3104522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "如何看待 Anthropic 估值反超 OpenAI ？",
           "url": "https://www.zhihu.com/question/2038588162453104310",
           "source": "知乎",
@@ -404,6 +438,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "报道：腾讯AI再出招，推出探索型vibe coding产品“吐司”",
+          "url": "https://wallstreetcn.com/livenews/3104518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "xAI发布Grok Build的一个早期测试版。",
           "url": "https://wallstreetcn.com/livenews/3103859",
           "source": "华尔街见闻-快讯",
@@ -413,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "有消息人士称，委内瑞拉马拉开波湖（Lake Maracaibo）由委内瑞拉国家石油公司（PDVSA）运营的一处天然气设施发生火灾。 消息人士及相关视频显示，工人们正试图扑灭PDVSA天然气设施的火灾。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3104512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "我被AI短剧盗脸了",
@@ -572,7 +628,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         }
@@ -580,7 +636,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "智利为铜矿巨头Codelco选任新主席，来应对产量与债务担忧",
@@ -601,7 +657,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -615,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "世卫组织：已确认10例汉坦病毒感染病例。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "委内瑞拉央行代理行长：即将前往华盛顿，和国际货币基金组织开展相关会面磋商。",
@@ -678,7 +745,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
