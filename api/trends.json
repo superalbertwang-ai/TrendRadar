@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:54:12.955055+08:00",
-  "total_titles_processed": 1064,
+  "generated_at": "2026-05-17T20:49:17.746946+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 19时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 20时49分]"
         },
         {
           "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 19时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 20时49分]"
         },
         {
           "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
@@ -76,8 +76,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 19时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 20时49分]"
         },
         {
           "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
@@ -130,6 +130,19 @@
           "time_info": "[00时44分 ~ 16时09分]"
         },
         {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时49分]"
+        },
+        {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
           "url": "https://wallstreetcn.com/articles/3772431",
           "source": "华尔街见闻",
@@ -143,16 +156,28 @@
           "time_info": "[13时40分 ~ 18时17分]"
         },
         {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
-          "source": "华尔街见闻",
+          "title": "AI已经预测了世界杯",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B7%B2%E7%BB%8F%E9%A2%84%E6%B5%8B%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            6
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 20时49分]"
+        },
+        {
+          "title": "岗位被 AI 替代后，还可以去送外卖、跑网约车，如果这些兜底岗位也被取代，又该如何？",
+          "url": "https://www.zhihu.com/question/2037906428577277385",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 20时49分]"
         },
         {
           "title": "中信证券：今年的AI+能化或与2025年的AI+资源类似",
@@ -188,28 +213,6 @@
           "time_info": "[16时08分 ~ 16时09分]"
         },
         {
-          "title": "AI已经预测了世界杯",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%B7%B2%E7%BB%8F%E9%A2%84%E6%B5%8B%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
-        },
-        {
-          "title": "岗位被 AI 替代后，还可以去送外卖、跑网约车，如果这些兜底岗位也被取代，又该如何？",
-          "url": "https://www.zhihu.com/question/2037906428577277385",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 19时54分]"
-        },
-        {
           "title": "业内人士：AI算力的本质是石油",
           "url": "https://www.toutiao.com/trending/7639691637426159662/",
           "source": "今日头条",
@@ -242,6 +245,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 09时49分]"
+        },
+        {
+          "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
+          "url": "https://flash.jin10.com/detail/20260517015331327800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            14,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时46分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普暗示伊朗局势是“风暴前的平静”",
+          "url": "https://flash.jin10.com/detail/20260517042429937800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时39分 ~ 09时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
+          "url": "https://flash.jin10.com/detail/20260517181926076800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时49分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 20时49分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡表示将于今天与特朗普总统通话，同时暗示两人也将讨论伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517185935987800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
+          "url": "https://flash.jin10.com/detail/20260517180941712800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     },
@@ -314,87 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/2039019083463488463",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 09时49分]"
-        },
-        {
-          "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
-          "url": "https://flash.jin10.com/detail/20260517015331327800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            14,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时46分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普暗示伊朗局势是“风暴前的平静”",
-          "url": "https://flash.jin10.com/detail/20260517042429937800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 09时49分]"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，特朗普称他会阅读那份2010年巴西和土耳其与伊朗谈判达成的核协议副本。",
-          "url": "https://flash.jin10.com/detail/20260517181926076800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
-          "url": "https://flash.jin10.com/detail/20260517181846468800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
-          "url": "https://flash.jin10.com/detail/20260517180941712800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         }
       ]
     }
