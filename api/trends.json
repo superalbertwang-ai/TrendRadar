@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T19:42:48.255456+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-05-20T22:43:53.872172+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时34分 ~ 16时51分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 22时43分]"
         },
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -45,19 +59,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时34分 ~ 13时57分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 19时42分]"
         },
         {
           "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
@@ -136,6 +137,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时57分 ~ 16时51分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 22时43分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -231,18 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 19时42分]"
         },
         {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
@@ -359,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "OpenAI：积极选择下一个国家教育合作伙伴，预计将在今年晚些时候公布。",
@@ -661,7 +674,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -697,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普说在伊朗问题上内塔尼亚胡“听我的”",
+          "url": "https://wallstreetcn.com/livenews/3106805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗战事）希望我们能以一种好的方式解决它。",
@@ -812,7 +836,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/6/accumulated_gold/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/o_IIQNm02kgR9jQOdPazy.jpg/lite\" height=\"120\"/></a>",
@@ -824,6 +848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "世卫组织：埃博拉病毒或已在刚果金传播两个月，疫情规模恐将进一步扩大",
+          "url": "https://wallstreetcn.com/livenews/3106789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "根据行业组织Unicon的估计，高管教育项目市场未来十年规模预计将超过12亿美元。",
