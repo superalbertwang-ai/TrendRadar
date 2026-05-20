@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T09:57:58.029811+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-05-20T13:57:44.380194+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -20,29 +20,17 @@
           "time_info": "[01时34分 ~ 09时57分]"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 09时57分]"
-        },
-        {
           "title": "赢!米哈游携千亿进军AI行业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 09时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 13时57分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -50,7 +38,21 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 13时57分]"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -109,6 +111,30 @@
           "time_info": "[01时34分 ~ 07时53分]"
         },
         {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 13时57分]"
+        },
+        {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 13时57分]"
+        },
+        {
           "title": "中专生花10天手搓AI短片火遍全网",
           "url": "https://www.toutiao.com/trending/7640988449969864731/",
           "source": "今日头条",
@@ -122,16 +148,17 @@
           "time_info": "[05时11分 ~ 07时53分]"
         },
         {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 13时57分]"
         },
         {
           "title": "千问App可生成淫秽小说？客服回应",
@@ -145,6 +172,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时34分 ~ 07时53分]"
+        },
+        {
+          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
+          "url": "https://www.cls.cn/detail/2376131",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 13时57分]"
         },
         {
           "title": "谷歌发布Gemini Omni AI模型，可以接受任何形式的输入（多模态），用户可以利用自然语言来编辑视频。 面向agents和编程发布Gemini 3.5 Flash模型。 新款AI编程功能存在于谷歌桌面反重力平台（Google Desktop Antigravity Platform）。",
@@ -181,27 +220,16 @@
           "time_info": "[06时57分 ~ 07时53分]"
         },
         {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
           "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
           "ranks": [
             10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时33分 ~ 09时57分]"
+          "time_info": "[09时57分 ~ 13时57分]"
         },
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -269,31 +297,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
         {
-          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
-          "url": "https://www.cls.cn/detail/2376131",
-          "source": "财联社热门",
+          "title": "UP主专访前谷歌AI核心科学家",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%93%E8%AE%BF%E5%89%8D%E8%B0%B7%E6%AD%8CAI%E6%A0%B8%E5%BF%83%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时57分"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时57分"
+          "time_info": "13时57分"
         },
         {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
@@ -324,9 +341,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
@@ -335,7 +363,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -351,6 +379,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "新加坡与谷歌公司、OpenAI签署AI协议。 OpenAI承诺对狮城生态系统投资2.34亿美元（折合3亿坡元），成立海外（美国之外）第一个AI实验室。 谷歌将AI协作扩展至教育、医疗保健、科学研究。 新加坡希望在全球部署AI方面发挥更大作用。",
+          "url": "https://wallstreetcn.com/livenews/3106486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "xAI允许在OpenClaw中使用Grok。",
           "url": "https://wallstreetcn.com/livenews/3106232",
           "source": "华尔街见闻-快讯",
@@ -360,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "如何看待 Google I/O 发布的 Gemini 3.5 Flash？在大模型竞争中处于什么位置？",
+          "url": "https://www.zhihu.com/question/2040264585383507841",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
@@ -412,7 +462,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -426,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "英伟达将在新加坡设立研究中心，助力该国全面提速AI战略布局",
+          "url": "https://wallstreetcn.com/livenews/3106479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
@@ -445,7 +506,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -478,7 +539,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -511,7 +572,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -522,7 +583,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         }
@@ -544,6 +605,19 @@
           "time_info": "[01时34分 ~ 07时53分]"
         },
         {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 13时57分]"
+        },
+        {
           "title": "国际油价短线小幅走低。特朗普发表讲话称，将很快结束伊朗战争，伊朗非常想达成协议。",
           "url": "https://wallstreetcn.com/livenews/3106302",
           "source": "华尔街见闻-快讯",
@@ -553,18 +627,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
-        },
-        {
-          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
-          "url": "https://www.cls.cn/detail/2375999",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 09时57分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗战事）希望我们能以一种好的方式解决它。",
@@ -617,7 +679,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
@@ -661,7 +723,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
         },
