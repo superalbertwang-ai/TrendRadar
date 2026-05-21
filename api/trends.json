@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-05-21T07:04:36.148876+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-05-21T09:56:59.129223+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
-          "url": "https://www.zhihu.com/question/2040450519303288568",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时50分 ~ 07时04分]"
-        },
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
           "url": "https://www.zhihu.com/question/2040264998916712429",
@@ -28,6 +15,19 @@
             16,
             15,
             13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时50分 ~ 09时56分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -52,7 +52,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -75,7 +75,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -98,7 +98,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -147,6 +147,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
+          "url": "https://www.cls.cn/detail/2377170",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
           "url": "https://flash.jin10.com/detail/20260521051358120800",
           "source": "金十数据",
@@ -175,7 +186,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -186,9 +197,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
@@ -197,9 +219,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "软银集团股价大涨近20%，受OpenAI和SB Energy的IPO消息提振。",
+          "url": "https://wallstreetcn.com/livenews/3107041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
@@ -263,7 +296,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -387,8 +420,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时51分 ~ 07时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 09时56分]"
         },
         {
           "title": "国际货币基金组织：IMF工作人员结束对巴基斯坦的访问。工作人员访问聚焦于该国近期经济发展、改革实施及2027财年的预算战略。关于巴基斯坦2027财年预算的讨论将在未来几天继续进行。",
@@ -397,7 +430,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -411,6 +444,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "学习 教培 在线教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中科大数院大二在读，突然对自己的人生感到很悲观，对自己的专业丧失学习兴趣，要如何做出调整应对？",
+          "url": "https://www.zhihu.com/question/2039351590176432832",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
