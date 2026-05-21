@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-05-21T14:01:56.038503+08:00",
-  "total_titles_processed": 873,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-05-21T17:34:06.030540+08:00",
+  "total_titles_processed": 1076,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
@@ -36,6 +34,40 @@
           "time_info": "[01时50分 ~ 07时04分]"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 17时34分]"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
           "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
           "url": "https://wallstreetcn.com/livenews/3106952",
           "source": "华尔街见闻-快讯",
@@ -57,6 +89,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 17时34分]"
         },
         {
           "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
@@ -105,15 +149,28 @@
           "time_info": "07时04分"
         },
         {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 17时34分]"
+        },
+        {
+          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
+          "url": "https://wallstreetcn.com/articles/3772764",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时01分 ~ 17时34分]"
         },
         {
           "title": "英伟达CEO黄仁勋：公司的增速将超过超大规模云服务商（Hyperscaler）的资本开支。 超大规模云服务商们将继续大规模开支。 Anthropic的（计算）能力将是巨大的。",
@@ -138,6 +195,18 @@
           "time_info": "[14时00分 ~ 14时01分]"
         },
         {
+          "title": "阿里云陈宇森透露 MuleRun 为阿里产品，AI Native 转型窗口期仅 18 个月，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040758441325618022",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
           "title": "韩警方称金赛纶的声音是AI造假",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E7%A7%B0%E9%87%91%E8%B5%9B%E7%BA%B6%E7%9A%84%E5%A3%B0%E9%9F%B3%E6%98%AFAI%E9%80%A0%E5%81%87%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -160,15 +229,15 @@
           "time_info": "04时01分"
         },
         {
-          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
-          "url": "https://wallstreetcn.com/articles/3772764",
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "17时34分"
         },
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
@@ -193,15 +262,37 @@
           "time_info": "01时51分"
         },
         {
-          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
-          "url": "https://www.cls.cn/detail/2377636",
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时01分"
+          "time_info": "17时34分"
+        },
+        {
+          "title": "分析师：英伟达新业务板块增长表明AI热潮才刚开始",
+          "url": "https://flash.jin10.com/detail/20260521172813884800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
@@ -257,17 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
-        },
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
         },
         {
           "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
@@ -331,7 +411,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -389,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "腾讯会议推出“AI同传”功能",
+          "url": "https://wallstreetcn.com/livenews/3107303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
@@ -403,7 +494,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -488,7 +579,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "粮农组织警告：霍尔木兹海峡问题或引发严重的全球粮食价格危机",
@@ -520,7 +611,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -542,16 +633,50 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "6岁患癌女孩冻卵巢组织保生育能力",
+          "url": "https://www.baidu.com/s?wd=6%E5%B2%81%E6%82%A3%E7%99%8C%E5%A5%B3%E5%AD%A9%E5%86%BB%E5%8D%B5%E5%B7%A2%E7%BB%84%E7%BB%87%E4%BF%9D%E7%94%9F%E8%82%B2%E8%83%BD%E5%8A%9B",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待现在普通家庭对孩子最好的托举方式是多吃肉，而可以忽视学习成绩的观点？",
+          "url": "https://www.zhihu.com/question/2039438592494278578",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
+        {
+          "title": "赵露思曼谷演唱会学习泰语幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%9B%BC%E8%B0%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AD%A6%E4%B9%A0%E6%B3%B0%E8%AF%AD%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
         {
           "title": "中科大数院大二在读，突然对自己的人生感到很悲观，对自己的专业丧失学习兴趣，要如何做出调整应对？",
           "url": "https://www.zhihu.com/question/2039351590176432832",
