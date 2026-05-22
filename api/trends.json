@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T09:58:09.451108+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-05-22T13:57:26.319467+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -18,8 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 09时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 13时57分]"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -135,6 +135,17 @@
           "time_info": "[00时14分 ~ 06时10分]"
         },
         {
+          "title": "用上AI后工作时间反而更长了",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 13时57分]"
+        },
+        {
           "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
           "url": "https://www.zhihu.com/question/2040751125725278389",
           "source": "知乎",
@@ -146,26 +157,38 @@
           "time_info": "[00时13分 ~ 00时14分]"
         },
         {
-          "title": "用上AI后工作时间反而更长了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%8AAI%E5%90%8E%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%97%B4%E5%8F%8D%E8%80%8C%E6%9B%B4%E9%95%BF%E4%BA%86&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "港股AI应用板块持续走强，智谱(02513.HK)涨超30%，MINIMAX-W(00100.HK)涨超20%，佑驾创新(02431.HK)、范式智能(06682.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522135009699800",
+          "source": "金十数据",
           "ranks": [
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 09时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "为何AI总会一本正经地胡说八道",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BD%95AI%E6%80%BB%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E5%9C%B0%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
           "source": "百度热搜",
           "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 13时57分]"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "13时57分"
         },
         {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
@@ -177,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "Anthropic 被曝 300 亿美元融资，投前估值超 9000 亿，AI 泡沫到底有没有天花板？",
@@ -201,13 +235,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
           "title": "AMD首席执行官苏姿丰：没有人真正从AI训练中赚钱。但我们现在所看到的是，人工智能不仅进入了推理阶段，还能真正做一些智能的事情。",
           "url": "https://flash.jin10.com/detail/20260522094909706800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -328,9 +373,31 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "瑞银升石药集团评级至买入 估值尚未反映AI药物研发实力",
+          "url": "https://flash.jin10.com/detail/20260522130039568800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "学生用AI降论文AIGC率",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%94%A8AI%E9%99%8D%E8%AE%BA%E6%96%87AIGC%E7%8E%87%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
@@ -391,11 +458,12 @@
           "url": "https://www.cls.cn/detail/2378400",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 13时57分]"
         },
         {
           "title": "商务部部长王文涛就举办亚太经合组织贸易部长会议接受采访",
@@ -404,7 +472,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -415,7 +483,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -431,11 +499,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时48分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 13时57分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
