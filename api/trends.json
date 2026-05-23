@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:43:59.572519+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-24T06:42:22.782535+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "据Axios报道，一名以色列官员称，美国总统特朗普预计将在周六与以色列总理内塔尼亚胡通话，讨论正在酝酿中的伊朗协议。",
@@ -51,11 +51,12 @@
           "ranks": [
             3,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
@@ -63,33 +64,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时42分]"
         },
         {
           "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
           "url": "https://flash.jin10.com/detail/20260524052546981800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：尽管美国总统特朗普声称霍尔木兹海峡将恢复原状，但该海峡仍将处于伊朗控制之下。",
-          "url": "https://flash.jin10.com/detail/20260524052423890800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普：伊朗协议的最终细节目前正在讨论中，预计将很快公布。",
@@ -97,22 +89,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时42分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：尽管美国总统特朗普声称霍尔木兹海峡将恢复原状，但该海峡仍将处于伊朗控制之下。",
+          "url": "https://flash.jin10.com/detail/20260524052423890800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时43分]"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：美国总统特朗普关于霍尔木兹海峡恢复原状的说法不实。",
-          "url": "https://flash.jin10.com/detail/20260524052344173800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "[05时43分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普：伊朗协议已基本谈妥。",
@@ -120,11 +114,24 @@
           "source": "金十数据",
           "ranks": [
             6,
-            12
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时47分 ~ 06时42分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：美国总统特朗普关于霍尔木兹海峡恢复原状的说法不实。",
+          "url": "https://flash.jin10.com/detail/20260524052344173800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时47分 ~ 05时43分]"
+          "time_info": "[05时43分 ~ 06时42分]"
         },
         {
           "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
@@ -245,6 +252,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
+        },
+        {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
@@ -252,20 +272,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
-        },
-        {
-          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -275,8 +283,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -288,8 +296,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -300,11 +308,12 @@
             15,
             22,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -316,8 +325,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -327,8 +336,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 06时42分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
@@ -366,11 +375,12 @@
             2,
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 06时42分]"
         },
         {
           "title": "非洲疾控中心与世卫组织联合应对本轮埃博拉疫情",
