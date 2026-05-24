@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T00:49:04.191009+08:00",
-  "total_titles_processed": 320,
+  "generated_at": "2026-05-25T01:50:25.086353+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -25,9 +25,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -36,9 +36,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -47,9 +47,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时50分"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -58,9 +69,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -69,9 +80,20 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "01时50分"
         }
       ]
     },
@@ -86,9 +108,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -97,9 +119,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
@@ -108,9 +130,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         },
         {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
@@ -119,9 +141,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时50分]"
         }
       ]
     }
