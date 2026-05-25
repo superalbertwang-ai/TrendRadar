@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T10:02:06.619739+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-05-25T14:28:09.311670+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 10时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 14时28分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 10时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 14时28分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -38,11 +38,25 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 10时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 14时28分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 14时28分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -55,18 +69,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时49分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 10时02分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -124,6 +126,30 @@
           "time_info": "[01时50分 ~ 02时58分]"
         },
         {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时28分]"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时28分]"
+        },
+        {
           "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
           "source": "澎湃新闻",
@@ -136,26 +162,15 @@
           "time_info": "[06时46分 ~ 07时49分]"
         },
         {
-          "title": "券商晨会精华：看好AI产业链与算力网建设",
-          "url": "https://www.cls.cn/detail/2380227",
-          "source": "财联社热门",
+          "title": "软银再发2600亿日元次级债融资AI投资",
+          "url": "https://flash.jin10.com/detail/20260525141056604800",
+          "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
-          "url": "https://www.cls.cn/detail/2380061",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时28分"
         }
       ]
     },
@@ -275,7 +290,7 @@
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "青年大学习之招聘信息黑话",
@@ -287,6 +302,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "马斯克：Grok基础模型V9-Medium（1.5T）已完成训练。评估结果良好。在补充训练中加入了大量Cursor数据，后续还将继续添加。微调工作正在进行中，强化学习将于数日后启动。预计2至3周后正式发布。",
+          "url": "https://flash.jin10.com/detail/20260525135012890800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     }
