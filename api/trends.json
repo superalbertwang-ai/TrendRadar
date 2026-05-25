@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:49:32.085171+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-25T10:02:06.619739+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 10时02分]"
         },
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -25,11 +25,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 10时02分]"
+        },
+        {
+          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
+          "url": "https://wallstreetcn.com/articles/3772995",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 10时02分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -44,26 +57,16 @@
           "time_info": "[00时49分 ~ 07时49分]"
         },
         {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时49分]"
-        },
-        {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 10时02分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -74,11 +77,12 @@
             24,
             26,
             27,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时50分 ~ 07时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时50分 ~ 10时02分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -130,6 +134,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时49分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -244,6 +270,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "学习 教培 在线教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "青年大学习之招聘信息黑话",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0%E4%B9%8B%E6%8B%9B%E8%81%98%E4%BF%A1%E6%81%AF%E9%BB%91%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         }
       ]
     }
