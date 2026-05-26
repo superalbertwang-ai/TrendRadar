@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T00:37:21.672786+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-27T03:14:24.968866+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 03时14分]"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 03时14分]"
         },
         {
           "title": "一人之下被指用AI作画",
           "url": "https://www.douyin.com/hot/2512287",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 03时14分]"
         },
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -48,8 +49,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 03时14分]"
+        },
+        {
+          "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
+          "url": "https://www.zhihu.com/question/2042336304244019752",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "03时14分"
         },
         {
           "title": "美国公司用AI辅助设计高超音速发动机",
