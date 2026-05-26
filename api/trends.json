@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-26T13:58:43.803326+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-05-26T17:33:08.768067+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI吸附挂泛滥,力度碾压端游",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 13时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 17时33分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -73,6 +74,31 @@
           "time_info": "[00时58分 ~ 06时57分]"
         },
         {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 17时33分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 17时33分]"
+        },
+        {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
           "url": "https://www.zhihu.com/question/649375328",
           "source": "知乎",
@@ -82,30 +108,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时23分]"
-        },
-        {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时58分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 连续多次降价？",
-          "url": "https://www.zhihu.com/question/2033335202307647295",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时58分]"
         },
         {
           "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
@@ -129,6 +131,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 06时01分]"
+        },
+        {
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "天工AI发布SkyClaw-v1.0",
+          "url": "https://wallstreetcn.com/livenews/3109302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "AI改编庾澄庆歌手舞台",
@@ -157,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 17时33分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
@@ -280,7 +304,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "智利国家铜业公司（Codelco）通报Antofagasta地区地震造成的影响：正在矿场多个区域进行检查。 由于露天采矿场能见度不足或特定区域发生停电，部分生产运营活动已暂停。",
@@ -316,6 +340,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 04时19分]"
+        },
+        {
+          "title": "福建海警组织舰艇编队位金门附近海域开展执法巡查",
+          "url": "https://flash.jin10.com/detail/20260526171353013800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
