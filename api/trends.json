@@ -1,187 +1,237 @@
 {
-  "generated_at": "2026-05-27T22:50:28.415098+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-05-28T01:51:36.039105+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 29,
+      "keyword_group": "特朗普",
+      "match_count": 18,
       "titles": [
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
+          "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
+          "url": "https://wallstreetcn.com/livenews/3110214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            19,
-            26,
-            30,
-            29
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：伊朗已经发生政权更迭，因为该国现处于新领导层的治理之下。",
+          "url": "https://flash.jin10.com/detail/20260528011859815800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2,
-            1,
-            4,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 22时50分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
+          "title": "美国总统特朗普：（谈伊朗）我们并不是为了政权而来。",
+          "url": "https://flash.jin10.com/detail/20260528011751426800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
         {
-          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
-          "url": "https://www.cls.cn/detail/2382007",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 08时03分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
-          "url": "https://www.cls.cn/detail/2381769",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 07时01分]"
-        },
-        {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时55分 ~ 22时50分]"
-        },
-        {
-          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
-          "url": "https://www.cls.cn/detail/2382213",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时27分 ~ 11时55分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 22时50分]"
-        },
-        {
-          "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
-          "url": "https://www.zhihu.com/question/2042336304244019752",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时27分]"
-        },
-        {
-          "title": "野村上调日本东证指数和日经指数目标位，看好业绩和AI板块增长",
-          "url": "https://wallstreetcn.com/livenews/3109696",
+          "title": "特朗普称伊朗“表现得当”后才能拿回资金",
+          "url": "https://wallstreetcn.com/livenews/3110209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时51分"
         },
         {
-          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
-          "url": "https://wallstreetcn.com/livenews/3109929",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260528011427030800",
+          "source": "金十数据",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "01时51分"
         },
         {
-          "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
-          "url": "https://wallstreetcn.com/livenews/3109683",
+          "title": "美国总统特朗普：如果（沙特等）多个国家不加入《亚伯拉罕协议》，不确定是否应当达成伊朗协议。 如果伊朗协议不伟大，我们就不会努力。 （关于伊朗问题的时间框架）事情进展很快。 我们可能必须迅速结束此事。 我们正在更迭伊朗政权。",
+          "url": "https://wallstreetcn.com/livenews/3110207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们现在对伊朗的情况有了了解。",
+          "url": "https://flash.jin10.com/detail/20260528011353178800",
+          "source": "金十数据",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时03分]"
+          "appearance_count": 1,
+          "time_info": "01时51分"
         },
+        {
+          "title": "美国总统特朗普：与伊朗达成框架协议后，霍尔木兹海峡将立即开放。",
+          "url": "https://flash.jin10.com/detail/20260528011138275800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以很快结束与伊朗的战争，可能还必须这样做。不过我认为我们不需要这样做。",
+          "url": "https://flash.jin10.com/detail/20260528010825402800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我认为我们做得很好。",
+          "url": "https://flash.jin10.com/detail/20260528010808953800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）他们表现好时，我们会让他们拿回资金。",
+          "url": "https://flash.jin10.com/detail/20260528010757308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗开始向我们提供我们想要的东西，如果事情不顺利，美国国防部长赫格塞思将完成这项工作。",
+          "url": "https://flash.jin10.com/detail/20260528010450368800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：对俄罗斯获取伊朗的高浓缩铀库存感到不安。",
+          "url": "https://flash.jin10.com/detail/20260528010318730800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国国务卿卢比奥：总统特朗普倾向于与伊朗谈判。 相信一直都朝着达成协议取得进展。 我们将紧盯未来数小时、未来数日。",
+          "url": "https://wallstreetcn.com/livenews/3110189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：美国将继续控制伊朗的资产。",
+          "url": "https://flash.jin10.com/detail/20260528010308850800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国总统特朗普：没有在讨论放松对伊朗的制裁。",
+          "url": "https://flash.jin10.com/detail/20260528010230452800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁",
+          "url": "https://wallstreetcn.com/livenews/3110180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "特朗普：对目前同伊朗谈判进程“不满意”",
+          "url": "https://wallstreetcn.com/livenews/3110185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
+      "match_count": 7,
+      "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时50分"
+          "time_info": "01时51分"
         },
         {
-          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
-          "url": "https://wallstreetcn.com/livenews/3109694",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
+          "url": "https://flash.jin10.com/detail/20260528013305878800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时51分"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -190,164 +240,53 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "多家AI回应高考期间是否禁用解题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 15时56分]"
-        },
-        {
-          "title": "AI让我遇见小时候的自己",
-          "url": "https://www.douyin.com/hot/2512835",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 05时27分]"
-        },
-        {
-          "title": "中信建投：机器人是AI最好的物理载体之一，看好板块行情演绎",
-          "url": "https://flash.jin10.com/detail/20260527074333860800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时51分"
         },
         {
-          "title": "华为 “韬定律”：国产芯片的DeepSeek 时刻！",
-          "url": "https://wallstreetcn.com/articles/3773150",
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时51分"
         },
         {
-          "title": "高考期间AI工具被禁用或功能被限制？豆包客服：暂未接到相关通知",
-          "url": "https://wallstreetcn.com/livenews/3109915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
-          "url": "https://www.zhihu.com/question/2041893027963262258",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
-          "url": "https://www.cls.cn/detail/2382316",
-          "source": "财联社热门",
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "01时51分"
         },
         {
-          "title": "大语言模型成本六个月内翻番 或威胁AI看涨逻辑",
-          "url": "https://wallstreetcn.com/livenews/3110122",
-          "source": "华尔街见闻-快讯",
+          "title": "千问“拒聊”盒马粉木耳事件？人民网：大模型不能内嵌企业立场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33245808",
+          "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "黄仁勋：反感很多CEO将AI与失业关联",
-          "url": "https://www.toutiao.com/trending/7643647082553655338/",
-          "source": "今日头条",
-          "ranks": [
-            16
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
+          "time_info": "01时51分"
         },
         {
-          "title": "GGL Capital的Luk称AI领域流动性过剩构成风险",
-          "url": "https://wallstreetcn.com/livenews/3109910",
-          "source": "华尔街见闻-快讯",
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时56分"
-        },
-        {
-          "title": "美国公司用AI辅助设计高超音速发动机",
-          "url": "https://www.toutiao.com/trending/7644167363171978778/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
-          "url": "https://www.zhihu.com/question/12005197517",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "最高法：研究制定涉AI案件和数据产权司法保护规范性文件",
-          "url": "https://wallstreetcn.com/livenews/3109781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
-          "url": "https://wallstreetcn.com/livenews/3109624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
+          "time_info": "01时51分"
         }
       ]
     },
@@ -356,54 +295,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3110049",
+          "title": "世卫组织：邮轮相关汉坦病毒感染13例 无新增死亡。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3110212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "01时51分"
         },
         {
           "title": "浙江一公司员工发现管理漏洞，组织同事只打卡不上班，14 人因涉嫌职务侵占罪被刑拘，这一操作有多离谱？",
           "url": "https://www.zhihu.com/question/2042313064389891238",
           "source": "知乎",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
-          "url": "https://wallstreetcn.com/articles/3773076",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "伊朗寻求经济纾困，但避免让特朗普宣告胜利",
-          "url": "https://flash.jin10.com/detail/20260527072115517800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "01时51分"
         }
       ]
     }
