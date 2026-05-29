@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-30T01:26:50.840731+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-30T04:05:52.910219+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
       "match_count": 12,
       "titles": [
+        {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
+        },
         {
           "title": "美联储戴利：AI并没有造成美国大规模失业。",
           "url": "https://wallstreetcn.com/livenews/3111573",
@@ -19,48 +41,28 @@
           "time_info": "01时26分"
         },
         {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
           "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
@@ -70,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -81,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -92,8 +94,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "“广东夏季高考将用AI批卷”不实",
@@ -103,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -114,8 +116,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
@@ -125,26 +127,49 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美债价格回吐涨幅，报道称特朗普并没有在周五会议上围绕伊朗问题做决定。",
+          "url": "https://wallstreetcn.com/livenews/3111605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "美媒：特朗普未就与伊朗达成任何新协议做出决定",
+          "url": "https://wallstreetcn.com/livenews/3111599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
         {
           "title": "【伊朗知情人士：特朗普言论“真假参半”】据伊朗法尔斯通讯社29日报道，伊朗知情人士驳斥了美国总统特朗普关于可能与伊朗达成协议的言论，称其“真假参半”，试图描绘一场捏造的胜利。“几乎所有人都已清楚，这些说法缺乏可信度。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3111555",
@@ -179,6 +204,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "美媒：特朗普未就与伊朗达成任何新协议做出决定",
+          "url": "https://flash.jin10.com/detail/20260530025113287800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
           "title": "据伊朗媒体：伊朗消息人士否认了美国总统特朗普的最新评论。 与美国的协议在伊朗的批准阶段已接近尾声，但尚未做出最终决定。 谅解备忘录（MoU）包括在黎巴嫩停火。",
           "url": "https://wallstreetcn.com/livenews/3111547",
           "source": "华尔街见闻-快讯",
@@ -193,7 +229,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "智利国家铜业公司（Codelco）一季度铜产量27.2万吨。 一季度营收50.3亿美元，EBITDA为21.4亿美元。",
@@ -205,6 +241,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）、世界银行、国际能源署（IEA）、世贸组织（WTO）的主管们5月28日开会，随后发布联合声明。 据世贸组织：IEA、IMF、世界银行和世贸组织举行会晤，共同商讨如何应对中东战争对能源、贸易以及经济造成的冲击。 探讨了通过多边和双边行动，进一步加大集体支持力度的可行方案。",
+          "url": "https://wallstreetcn.com/livenews/3111596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "世卫组织：刚果（金）及乌干达共报告134例埃博拉确诊病例。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3111591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         }
       ]
     },
@@ -220,8 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 04时05分]"
         }
       ]
     }
