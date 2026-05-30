@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T14:14:51.938194+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-05-30T17:10:15.278667+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "官方出手,AI吸附遭刑事打击",
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 14时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 17时10分]"
         },
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -186,6 +187,18 @@
           "time_info": "[06时25分 ~ 08时02分]"
         },
         {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 17时10分]"
+        },
+        {
           "title": "传奇对冲基金经理Dan Loeb：拒绝进化的“死硬价值派”都死了，不学AI注定灭绝",
           "url": "https://wallstreetcn.com/articles/3773413",
           "source": "华尔街见闻",
@@ -244,24 +257,13 @@
           "time_info": "[06时25分 ~ 08时02分]"
         },
         {
-          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
-          "url": "https://wallstreetcn.com/articles/3773482",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时14分"
-        },
-        {
           "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
           "url": "https://wallstreetcn.com/articles/3773430",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -272,9 +274,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "网易副总裁、网易智企总经理阮良：正帮助企业构建“AI员工”",
+          "url": "https://wallstreetcn.com/livenews/3111746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
@@ -283,7 +296,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
@@ -291,7 +304,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -304,8 +317,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 17时10分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 17时10分]"
         },
         {
           "title": "美债价格回吐涨幅，报道称特朗普并没有在周五会议上围绕伊朗问题做决定。",
@@ -388,8 +412,19 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "国际组织警告：中东战事若持续，今夏或现能源短缺",
+          "url": "https://wallstreetcn.com/livenews/3111757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时10分"
+        },
         {
           "title": "智利国家铜业公司（Codelco）一季度铜产量27.2万吨。 一季度营收50.3亿美元，EBITDA为21.4亿美元。",
           "url": "https://wallstreetcn.com/livenews/3111563",
@@ -430,7 +465,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         },
@@ -441,7 +476,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
         }
@@ -449,7 +484,7 @@
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "学习时报头版：发展党员要防止两种错误倾向",
@@ -461,6 +496,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 08时02分]"
+        },
+        {
+          "title": "现在很多网络的梗都取笑外卖小哥，甚至用「以后送外卖”准时宝」来讽刺学习不好的人，那外卖小哥知道这些吗？",
+          "url": "https://www.zhihu.com/question/2037487506585822445",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时09分 ~ 17时10分]"
         }
       ]
     }
