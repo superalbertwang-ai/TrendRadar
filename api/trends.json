@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T16:19:34.097136+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-06-01T22:46:13.270459+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
@@ -131,6 +131,18 @@
           "time_info": "[07时55分 ~ 10时11分]"
         },
         {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 22时46分]"
+        },
+        {
           "title": "媒体：莫让AI加剧医患“沟通危机”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
           "source": "澎湃新闻",
@@ -144,15 +156,37 @@
           "time_info": "[07时55分 ~ 16时19分]"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
+          "title": "物理AI爆发临近？英伟达发布“全能”世界模型 机器人、自动驾驶有望获强力助推",
+          "url": "https://www.cls.cn/detail/2386991",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "22时46分"
+        },
+        {
+          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
+          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
+          "url": "https://www.cls.cn/detail/2387170",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
@@ -173,9 +207,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "“烧Token”游戏将终结？亚马逊关停词元跟踪榜单 直呼“不要为了用AI而用AI”",
@@ -189,13 +234,24 @@
           "time_info": "10时11分"
         },
         {
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "黄仁勋即将发表主题演讲 AIPC新时代要来了？",
           "url": "https://www.cls.cn/detail/2386623",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -206,7 +262,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -236,8 +292,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 16时19分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 22时46分]"
         },
         {
           "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
@@ -309,7 +365,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
