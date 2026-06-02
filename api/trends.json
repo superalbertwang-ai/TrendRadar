@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-02T08:06:38.089085+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-06-02T13:21:36.134900+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 26,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 13时21分]"
+        },
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
           "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
@@ -19,28 +32,28 @@
           "time_info": "[03时51分 ~ 08时06分]"
         },
         {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 08时06分]"
-        },
-        {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 08时06分]"
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 13时21分]"
+        },
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 13时21分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -67,17 +80,6 @@
           "time_info": "[03时51分 ~ 06时30分]"
         },
         {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
           "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
           "url": "https://flash.jin10.com/detail/20260602032624584800",
           "source": "金十数据",
@@ -87,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "新华社：美股AI热潮是否面临“泡沫破裂”风险",
+          "url": "https://flash.jin10.com/detail/20260602130607740800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
@@ -101,13 +114,24 @@
           "time_info": "[06时30分 ~ 08时06分]"
         },
         {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "AI软件指数涨超8.7%，MongoDB涨超20.3%，HubSpot涨超18.8%",
           "url": "https://wallstreetcn.com/livenews/3112692",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -152,7 +176,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -166,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
+          "url": "https://wallstreetcn.com/articles/3773569",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "OpenAI：与Related Digital、甲骨文、沃尔布里奇、黑石集团合作，贡献1000万美元用于萨林娱乐中心的改善。",
@@ -196,9 +231,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "Alphabet拟融资800亿美元推进AI战略 伯克希尔将认购100亿美元股份",
+          "url": "https://www.cls.cn/detail/2387726",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
@@ -212,6 +258,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "Anthropic官宣秘交招股书 上周刚问鼎全球最值钱AI创企",
+          "url": "https://www.cls.cn/detail/2387696",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
           "url": "https://flash.jin10.com/detail/20260602024757153800",
           "source": "金十数据",
@@ -221,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
@@ -262,7 +330,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -289,22 +357,57 @@
           "time_info": "06时30分"
         },
         {
+          "title": "据韩联社：韩国SK集团会长崔泰源1日会见英伟达(NVDA.O)CEO黄仁勋，两人就AI存储芯片合作进行交流。",
+          "url": "https://flash.jin10.com/detail/20260602123157650800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "阿里发布Qwen3.7-Plus多模态智能体模型",
           "url": "https://flash.jin10.com/detail/20260602070707308800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.11%，深成指涨0.93%，算力硬件、AI PC、存储芯片等方向领涨，沪深京三市上涨个股超1500只。",
+          "url": "https://wallstreetcn.com/livenews/3112781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时30分 ~ 13时21分]"
+        },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
           "url": "https://news.ifeng.com/c/8taubWZltKg",
@@ -329,24 +432,23 @@
           "time_info": "[06时30分 ~ 08时06分]"
         },
         {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。 在谅解备忘录（MoU）上还需要再敲定几点，将在下周完成。（ABC）",
           "url": "https://wallstreetcn.com/livenews/3112661",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 08时06分]"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -362,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
+          "url": "https://www.cls.cn/detail/2387700",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "特朗普：与伊朗的谈判正“快速推进”",
@@ -410,7 +523,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
