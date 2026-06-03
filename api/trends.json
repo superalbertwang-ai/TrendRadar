@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T13:55:32.291270+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-06-03T18:30:22.400102+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时00分 ~ 18时30分]"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -54,6 +55,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时00分 ~ 06时55分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时24分 ~ 18时30分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -80,16 +93,28 @@
           "time_info": "[06时55分 ~ 13时55分]"
         },
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
+          "title": "AI脸 生理性厌恶",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            1
+            22,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时24分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 18时30分]"
+        },
+        {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 18时30分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -121,20 +146,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
         {
-          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
-          "url": "https://www.zhihu.com/question/2045210107105862467",
-          "source": "知乎",
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            6
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "18时30分"
+        },
+        {
+          "title": "“订单处于历史较高水平”！数据中心、AI开辟新应用场景 超级电容进入高景气周期",
+          "url": "https://www.cls.cn/detail/2389349",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 18时30分]"
         },
         {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。",
@@ -209,7 +257,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -247,6 +295,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "【午报】创业板指震荡走高涨近4%，AI硬件与芯片产业联袂领涨",
+          "url": "https://www.cls.cn/detail/2389313",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "微软推出“Project Solara” 旨在将AI融入企业移动设备中",
           "url": "https://flash.jin10.com/detail/20260603034649380800",
           "source": "金十数据",
@@ -258,6 +317,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
+          "url": "https://wallstreetcn.com/livenews/3113678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "报道：欧盟AI数据中心计划因延误和资金问题受挫",
           "url": "https://wallstreetcn.com/livenews/3113206",
           "source": "华尔街见闻-快讯",
@@ -267,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "杭州13岁小孩哥AI识毒果断报警",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E13%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%93%A5AI%E8%AF%86%E6%AF%92%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "业内人士：供给偏紧、AI需求托底，锡价中长期上行可期",
@@ -286,18 +367,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "网民利用AI造谣“女子搭乘地铁遭掀裙摆”，被长沙警方行政拘留7日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33291195",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -322,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
-        },
-        {
-          "title": "AI脸 生理性厌恶",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%84%B8%20%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "微软(MSFT.O)首席执行官宣布推出AION推理与规划模型。",
@@ -385,7 +444,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -435,7 +494,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -465,8 +524,30 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "特朗普：有可能在美国劳动节前解除对伊朗的封锁。 美国没有多少通胀问题。",
+          "url": "https://wallstreetcn.com/livenews/3113707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "特朗普：正在与伊朗商讨达成协议。 美国股市表现良好。 伊朗已同意不会拥有核武器。 从未想过要会见任何伊朗领导人。 未来可能会与伊朗领导人会面，这取决于谈判结果。",
+          "url": "https://wallstreetcn.com/livenews/3113705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
         {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3113212",
