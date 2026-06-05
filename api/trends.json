@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T17:02:43.234220+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-06-05T20:09:33.958629+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "男子AI写歌月收入十几万",
@@ -47,6 +47,17 @@
           "time_info": "[00时17分 ~ 13时08分]"
         },
         {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 20时09分]"
+        },
+        {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
           "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
@@ -72,17 +83,6 @@
           "time_info": "[03时12分 ~ 08时05分]"
         },
         {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 17时02分]"
-        },
-        {
           "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
           "url": "https://wallstreetcn.com/articles/3773858",
           "source": "华尔街见闻",
@@ -94,6 +94,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 13时08分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 20时09分]"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 20时09分]"
         },
         {
           "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
@@ -133,16 +158,16 @@
           "time_info": "[08时05分 ~ 13时08分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 20时09分]"
         },
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -194,6 +219,18 @@
           "time_info": "[07时01分 ~ 08时05分]"
         },
         {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 20时09分]"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://wallstreetcn.com/livenews/3114639",
           "source": "华尔街见闻-快讯",
@@ -206,28 +243,16 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时02分]"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 17时02分]"
+          "time_info": "[17时02分 ~ 20时09分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -274,24 +299,25 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 20时09分]"
+        },
+        {
           "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态",
           "url": "https://wallstreetcn.com/livenews/3114949",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -307,6 +333,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
           "url": "https://www.zhihu.com/question/2045914979002315116",
           "source": "知乎",
@@ -318,15 +355,15 @@
           "time_info": "13时08分"
         },
         {
-          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
-          "url": "https://www.cls.cn/detail/2391541",
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时02分"
+          "time_info": "20时09分"
         },
         {
           "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
@@ -351,6 +388,17 @@
           "time_info": "13时08分"
         },
         {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
           "url": "https://www.cls.cn/detail/2391250",
           "source": "财联社热门",
@@ -362,24 +410,46 @@
           "time_info": "13时08分"
         },
         {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
+          "title": "湖北成立工业物理AI实验室，围绕“AI+工业软件+物理机理+制造数据”开展研发攻关",
+          "url": "https://wallstreetcn.com/livenews/3115097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
+        },
+        {
           "title": "英伟达推出全模态物理AI模型 物理AI规模化落地时代加速到来",
           "url": "https://www.cls.cn/detail/2391303",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "中方回应外媒称AI进入“中美争霸”",
-          "url": "https://www.toutiao.com/trending/7647807825645699126/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -401,7 +471,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -497,7 +567,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
@@ -543,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时09分"
         },
         {
           "title": "美国总统特朗普：在处理完伊朗后，我们会处理古巴。",
@@ -701,7 +782,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -723,7 +804,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -753,11 +834,12 @@
             4,
             8,
             20,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 17时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 20时09分]"
         }
       ]
     }
