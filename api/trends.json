@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T13:08:45.552777+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-06-05T17:02:43.234220+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "男子AI写歌月收入十几万",
@@ -72,6 +72,17 @@
           "time_info": "[03时12分 ~ 08时05分]"
         },
         {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 17时02分]"
+        },
+        {
           "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
           "url": "https://wallstreetcn.com/articles/3773858",
           "source": "华尔街见闻",
@@ -83,17 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时22分 ~ 13时08分]"
-        },
-        {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时08分]"
         },
         {
           "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
@@ -131,6 +131,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 13时08分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时02分]"
         },
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -194,15 +206,28 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
           "ranks": [
+            10,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时02分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 17时02分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -249,6 +274,28 @@
           "time_info": "[00时16分 ~ 00时17分]"
         },
         {
+          "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态",
+          "url": "https://wallstreetcn.com/livenews/3114949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
           "url": "https://wallstreetcn.com/livenews/3114535",
           "source": "华尔街见闻-快讯",
@@ -266,9 +313,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
@@ -288,18 +346,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -310,20 +357,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
         {
-          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
-          "url": "https://www.cls.cn/detail/2391554",
+          "title": "英伟达推出全模态物理AI模型 物理AI规模化落地时代加速到来",
+          "url": "https://www.cls.cn/detail/2391303",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "17时02分"
+        },
+        {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
@@ -337,13 +395,24 @@
           "time_info": "08时05分"
         },
         {
+          "title": "千帆星座在轨卫星增至200颗，AIS卫星系统完成组网",
+          "url": "https://wallstreetcn.com/livenews/3114931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "腾讯AI慢了吗？姚顺雨回答汤道生：AI是长期游戏，下半场才开始",
           "url": "https://wallstreetcn.com/livenews/3114800",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -354,7 +423,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -420,7 +489,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -460,7 +529,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -589,7 +658,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "商务部驳斥经合组织称中国企业获补贴最多：报告结论片面武断",
@@ -610,7 +679,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -626,6 +695,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "李成钢国际贸易谈判代表兼副部长会见瑞士联邦主席兼经济和教研部长帕姆兰及经合组织秘书长科尔曼",
+          "url": "https://flash.jin10.com/detail/20260605162824698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "国际货币基金组织（IMF）：尚未介入委内瑞拉债务重组问题。 6月15日当周，IMF代表团将前往塞内加尔。",
           "url": "https://wallstreetcn.com/livenews/3114517",
           "source": "华尔街见闻-快讯",
@@ -635,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "李成钢国际贸易谈判代表兼副部长会见世贸组织总干事伊维拉",
+          "url": "https://flash.jin10.com/detail/20260605162603548800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "世卫组织说不安全食品每年导致超8亿人患病",
@@ -661,11 +752,12 @@
             5,
             4,
             8,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 13时08分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 17时02分]"
         }
       ]
     }
