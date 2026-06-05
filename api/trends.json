@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-05T07:01:45.477653+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-06-05T08:05:13.121673+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 08时05分]"
+        },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
           "url": "https://www.zhihu.com/question/2045546609027408734",
@@ -21,18 +34,6 @@
           "time_info": "[00时16分 ~ 07时01分]"
         },
         {
-          "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 07时01分]"
-        },
-        {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
           "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
@@ -41,8 +42,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 08时05分]"
+        },
+        {
+          "title": "好怕现实中也有人长AI这样",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 08时05分]"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -53,8 +67,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
@@ -82,6 +96,19 @@
           "time_info": "[00时17分 ~ 05时22分]"
         },
         {
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 08时05分]"
+        },
+        {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
           "url": "https://wallstreetcn.com/articles/3773793",
           "source": "华尔街见闻",
@@ -92,18 +119,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 05时22分]"
-        },
-        {
-          "title": "好怕现实中也有人长AI这样",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 07时01分]"
         },
         {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
@@ -119,15 +134,39 @@
           "time_info": "[03时12分 ~ 07时01分]"
         },
         {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 08时05分]"
+        },
+        {
           "title": "聪明钱提前布局AI上游环节，部分基础材料成新宠",
           "url": "https://wallstreetcn.com/livenews/3114667",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时05分]"
+        },
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时05分"
         },
         {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
@@ -142,16 +181,15 @@
           "time_info": "[05时22分 ~ 07时01分]"
         },
         {
-          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
-          "url": "https://wallstreetcn.com/articles/3773858",
-          "source": "华尔街见闻",
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 07时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -171,9 +209,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "巴克莱称AI还不会取代信贷对冲基金交易员，仅7%投资人预期大裁员",
+          "url": "https://wallstreetcn.com/livenews/3114686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "Gemini 美国豆包",
@@ -209,6 +258,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
           "url": "https://wallstreetcn.com/livenews/3114519",
           "source": "华尔街见闻-快讯",
@@ -231,13 +291,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍",
+          "url": "https://wallstreetcn.com/livenews/3114666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://flash.jin10.com/detail/20260605050144173800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -251,23 +322,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称若达成协议 不排除与伊朗最高领袖会晤",
@@ -324,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）你们终会知道协议的内容。主要部分是海峡将立即开放。",
@@ -413,11 +484,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33306324",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 07时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 08时05分]"
         },
         {
           "title": "网红券商Robinhood：客户可以在本平台上交易2026年世界杯（赛事预测相关的赌注）。",
@@ -468,8 +540,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 08时05分]"
         }
       ]
     }
