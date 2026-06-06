@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T03:03:13.520209+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-07T04:11:31.207814+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             28,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时11分]"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -27,11 +28,12 @@
           "ranks": [
             18,
             17,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 04时11分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -41,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时11分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -52,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时11分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -61,11 +63,12 @@
           "source": "微博",
           "ranks": [
             8,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时11分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -76,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时11分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -88,8 +91,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时11分]"
         },
         {
           "title": "严防作弊!高考期间AI搜题关停",
@@ -99,8 +102,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 04时11分]"
         }
       ]
     },
