@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T05:00:07.242785+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-06-08T06:01:37.255188+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -20,13 +20,37 @@
           "time_info": "[01时04分 ~ 03时03分]"
         },
         {
+          "title": "美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。 伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。 如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。 以色列和伊朗“这两个国家都很有趣”。 我们非常接近与伊朗达成一份协议，我可不想因为当前发生的事而失控。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普建议伊朗发射了导弹就够了",
+          "url": "https://wallstreetcn.com/livenews/3115617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 06时01分]"
+        },
+        {
           "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
           "url": "https://wallstreetcn.com/livenews/3115623",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -37,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -48,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -70,29 +94,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。 伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。 如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。 以色列和伊朗“这两个国家都很有趣”。 我们非常接近与伊朗达成一份协议，我可不想因为当前发生的事而失控。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3115619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "特朗普建议伊朗发射了导弹就够了",
-          "url": "https://wallstreetcn.com/livenews/3115617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
@@ -108,13 +110,24 @@
           "time_info": "01时04分"
         },
         {
+          "title": "特朗普对伊朗喊话：行了，回来谈判吧",
+          "url": "https://wallstreetcn.com/livenews/3115623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
           "url": "https://wallstreetcn.com/livenews/3115608",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         }
@@ -134,8 +147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -145,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -156,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -169,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -181,8 +194,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -192,8 +205,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 06时01分]"
         },
         {
           "title": "Anthropic警告AI失控",
