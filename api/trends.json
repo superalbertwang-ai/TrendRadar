@@ -1,96 +1,11 @@
 {
-  "generated_at": "2026-06-08T03:03:52.013688+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-06-08T05:00:07.242785+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时03分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时03分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时03分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时03分]"
-        },
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时03分]"
-        },
-        {
-          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
-          "url": "https://www.cls.cn/detail/2392589",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时03分]"
-        },
-        {
-          "title": "Anthropic警告AI失控",
-          "url": "https://s.weibo.com/weibo?q=Anthropic%E8%AD%A6%E5%91%8AAI%E5%A4%B1%E6%8E%A7&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -105,6 +20,39 @@
           "time_info": "[01时04分 ~ 03时03分]"
         },
         {
+          "title": "【特朗普对伊朗喊话：行了，回来谈判吧】美国总统特朗普7日接受美媒采访时称, 伊朗当天稍早时向以色列实施导弹打击“无助于谈判”。他催促伊朗重返谈判桌。特朗普对美国福克斯新闻频道说：“我对伊朗的建议是：你们已经发射了导弹，就行了。回到谈判桌前，达成协议吧。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3115623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普：我们与伊朗非常接近达成最终协议，我不希望因为现在发生的事情而让协议破裂。",
+          "url": "https://flash.jin10.com/detail/20260608042036369800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普对AXIOS表示：伊朗的袭击没有造成任何伤害。希望以色列不会进行报复。",
+          "url": "https://flash.jin10.com/detail/20260608041930227800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
           "url": "https://flash.jin10.com/detail/20260607231712644800",
           "source": "金十数据",
@@ -116,11 +64,143 @@
           "time_info": "01时04分"
         },
         {
+          "title": "伊导弹袭击以色列，特朗普：伊朗够了 以色列别反击",
+          "url": "https://flash.jin10.com/detail/20260608041810242800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "美国总统特朗普：将打电话给以色列总理内塔尼亚胡，要求他不要回击（伊朗）。 伊朗对以色列的打击没有伤害到任何人，希望以色列不要打击报复。 如果内塔尼亚胡回击，将重演过去47年、或者过去3000年的历史。 以色列和伊朗“这两个国家都很有趣”。 我们非常接近与伊朗达成一份协议，我可不想因为当前发生的事而失控。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "特朗普建议伊朗发射了导弹就够了",
+          "url": "https://wallstreetcn.com/livenews/3115617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
           "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成）。 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3115561",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "伊朗向以色列发射第三波导弹，特朗普已听取局势升级的简报",
+          "url": "https://wallstreetcn.com/livenews/3115608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 05时00分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时00分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时00分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时00分]"
+        },
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时00分]"
+        },
+        {
+          "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
+          "url": "https://www.cls.cn/detail/2392589",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 05时00分]"
+        },
+        {
+          "title": "Anthropic警告AI失控",
+          "url": "https://s.weibo.com/weibo?q=Anthropic%E8%AD%A6%E5%91%8AAI%E5%A4%B1%E6%8E%A7&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
