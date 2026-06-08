@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T07:02:58.953658+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-06-08T08:09:37.413720+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -72,7 +72,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -94,7 +94,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -116,7 +116,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -127,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -138,7 +138,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -212,7 +212,7 @@
     },
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -224,30 +224,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时02分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时09分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 08时09分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 08时09分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -259,8 +261,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 08时09分]"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
@@ -271,8 +273,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 08时09分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -290,11 +292,56 @@
           "url": "https://www.zhihu.com/question/1969653840065332479",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时09分]"
+        },
+        {
+          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
+          "url": "https://wallstreetcn.com/livenews/3115671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时09分"
+        },
+        {
+          "title": "SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。 将使用英伟达Blackwell GPU进行AI训练和推理。 在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台。",
+          "url": "https://wallstreetcn.com/livenews/3115669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。 考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。 通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。 将继续供应满足英伟达基础设施路线图以及全球AI基础设施需求的内存/显存。 将利用英伟达的数字孪生技术，在虚拟世界中重现芯片工厂。",
+          "url": "https://wallstreetcn.com/livenews/3115668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
+          "url": "https://wallstreetcn.com/livenews/3115665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -306,13 +353,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "AI如何写全国I卷高考作文",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "纽约一监狱组织囚犯观看NBA总决赛",
+          "url": "https://www.toutiao.com/trending/7648633552652894244/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
         {
           "title": "声明称，欧佩克在周日会议上决定维持组织范围内的石油产量政策不变。",
           "url": "https://flash.jin10.com/detail/20260607224344114800",
