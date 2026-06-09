@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-09T17:02:29.170575+08:00",
-  "total_titles_processed": 1111,
-  "failed_sources": [],
+  "generated_at": "2026-06-09T20:02:23.371867+08:00",
+  "total_titles_processed": 1296,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
@@ -44,6 +46,18 @@
           "time_info": "[01时44分 ~ 09时50分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 20时02分]"
+        },
+        {
           "title": "当我把今年高考语文作文题喂给AI",
           "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
           "source": "百度热搜",
@@ -59,17 +73,6 @@
           "time_info": "[01时44分 ~ 09时50分]"
         },
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 17时02分]"
-        },
-        {
           "title": "Siri AI",
           "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -81,6 +84,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时59分 ~ 07时08分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 20时02分]"
         },
         {
           "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
@@ -144,6 +159,30 @@
           "time_info": "[09时50分 ~ 13时59分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时02分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 20时02分]"
+        },
+        {
           "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
@@ -162,18 +201,6 @@
           "ranks": [
             10,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 17时02分]"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -226,18 +253,6 @@
           "time_info": "[05时45分 ~ 07时08分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时02分]"
-        },
-        {
           "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
           "url": "https://flash.jin10.com/detail/20260609034950828800",
           "source": "金十数据",
@@ -247,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
         },
         {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
@@ -390,7 +394,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -401,9 +405,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "前程无忧：AI技能从“加分项”变成“分水岭”，具备AI能力人才平均薪资溢价最高接近50%",
+          "url": "https://wallstreetcn.com/livenews/3116802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "猫眼娱乐与腾讯围绕AI Agent达成合作：打造智能化票务新体验",
+          "url": "https://wallstreetcn.com/livenews/3116801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "中证协启动证券行业AI应用案例征集 涵盖六大类场景",
@@ -412,7 +438,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -423,7 +449,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -500,7 +526,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -549,6 +575,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "AI智能体市场或迎爆发式增长 开发AI智能体的人被企业争抢",
+          "url": "https://wallstreetcn.com/livenews/3116779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
           "url": "https://wallstreetcn.com/livenews/3116301",
           "source": "华尔街见闻-快讯",
@@ -569,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "苹果宣布新版Siri AI因DMA监管分歧无缘欧盟iOS 27，上线时间表未定",
+          "url": "https://wallstreetcn.com/livenews/3116777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
@@ -620,8 +668,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 20时02分]"
         },
         {
           "title": "特朗普：未来两周将对伊朗全面胜利",
@@ -652,7 +700,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
