@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T01:50:26.600464+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-11T04:06:04.979045+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -15,30 +15,67 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 04时06分]"
+        },
+        {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 04时06分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
           "url": "https://wallstreetcn.com/articles/3774282",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
+        },
+        {
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
         },
         {
           "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
@@ -52,26 +89,26 @@
           "time_info": "01时50分"
         },
         {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
+          "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
+          "url": "https://wallstreetcn.com/livenews/3117664",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "04时06分"
         },
         {
-          "title": "于娜看到已故丈夫AI形象崩溃大哭",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
+          "title": "Anthropic CEO：政府应有权阻止新模型部署",
+          "url": "https://flash.jin10.com/detail/20260611025528893800",
+          "source": "金十数据",
           "ranks": [
-            13
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "04时06分"
         },
         {
           "title": "阿波罗：过多AI支出被用于“低智商”任务",
@@ -96,15 +133,37 @@
           "time_info": "01时50分"
         },
         {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "04时06分"
+        },
+        {
+          "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
+          "url": "https://flash.jin10.com/detail/20260611023504794800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
+          "url": "https://wallstreetcn.com/livenews/3117649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普称将与AI公司高管讨论回馈公众",
@@ -124,44 +183,47 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "特朗普称每晚从伊朗运出数百万桶石油 美能源部长称不知情",
-          "url": "https://flash.jin10.com/detail/20260611011238354800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
           "url": "https://wallstreetcn.com/articles/3774340",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
         },
         {
           "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
           "url": "https://wallstreetcn.com/articles/3774257",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 04时06分]"
+        },
+        {
+          "title": "特朗普称每晚从伊朗运出数百万桶石油 美能源部长称不知情",
+          "url": "https://flash.jin10.com/detail/20260611011238354800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
