@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T05:01:26.727683+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-06-14T06:01:50.197492+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
@@ -49,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -62,11 +63,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
@@ -76,8 +78,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "全猿 AI Coding 会不会导致研发 Leader 或 PM 这种管理大量失业，因为不需要了？",
@@ -85,11 +87,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时05分 ~ 06时01分]"
         },
         {
           "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
@@ -99,8 +102,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -119,11 +122,12 @@
           "url": "https://flash.jin10.com/detail/20260614041529668800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时01分]"
         },
         {
           "title": "这才是AI发展真正的意义",
@@ -161,8 +165,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
         },
         {
           "title": "美媒细数特朗普曾39次说与伊朗谈好",
@@ -172,8 +176,21 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时08分 ~ 06时01分]"
+        },
+        {
+          "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
+          "url": "https://flash.jin10.com/detail/20260614021404765800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时08分 ~ 05时01分]"
+          "time_info": "[03时05分 ~ 06时01分]"
         },
         {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默表示支持美国总统特朗普结束与伊朗冲突的努力。",
@@ -198,18 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 03时05分]"
-        },
-        {
-          "title": "一名以色列高级官员就特朗普的伊朗协议对以色列第12频道表示：“这是一笔糟糕透顶的协议。”",
-          "url": "https://flash.jin10.com/detail/20260614021404765800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 05时01分]"
         },
         {
           "title": "美国总统特朗普就伊朗问题表示：希望这一进程能快速、简单、顺利地完成；如果不行，我们还有终极备选方案。",
