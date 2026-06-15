@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-15T06:03:56.163317+08:00",
-  "total_titles_processed": 495,
-  "failed_sources": [],
+  "generated_at": "2026-06-15T08:01:38.041488+08:00",
+  "total_titles_processed": 586,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -15,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
@@ -26,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -72,7 +74,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -105,9 +107,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普：伊朗协议是在内塔尼亚胡反对的情况下达成的。 若无法达成核协议，美国将恢复对伊朗的打击。 谅解备忘录将暂停霍尔木兹海峡的收费60天。 协议将确保海峡永远不收通行费。 内塔尼亚胡“很难”说服。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3119311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "据以色列媒体报道，以色列评估认为，尽管特朗普试图遏制伊朗的反应，但伊朗仍将发动攻击。",
@@ -127,7 +140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -174,12 +187,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普可能出席伊朗协议签署仪式。 我当然计划出席伊朗协议签署仪式。",
+          "url": "https://wallstreetcn.com/livenews/3119292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -189,8 +213,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -200,8 +224,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
@@ -211,19 +235,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
           "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -233,8 +258,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
@@ -244,30 +269,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
-        },
-        {
-          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
-          "url": "https://www.cls.cn/detail/2399104",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 06时03分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
         },
         {
           "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
@@ -275,7 +290,19 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 08时01分]"
+        },
+        {
+          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
+          "url": "https://www.cls.cn/detail/2399104",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -291,6 +318,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 04时58分]"
+        },
+        {
+          "title": "什么是系统级AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E7%B3%BB%E7%BB%9F%E7%BA%A7AI%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
         },
         {
           "title": "Anthropic派技术人员赴华盛顿 力图化解白宫争端",
@@ -313,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
+          "url": "https://wallstreetcn.com/livenews/3119301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
