@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-15T11:01:45.032019+08:00",
-  "total_titles_processed": 761,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-06-15T16:56:50.931968+08:00",
+  "total_titles_processed": 985,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -30,6 +28,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 08时01分]"
+        },
+        {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 16时56分]"
         },
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -68,17 +78,6 @@
           "time_info": "[04时58分 ~ 06时03分]"
         },
         {
-          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
-          "url": "https://wallstreetcn.com/articles/3774634",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
           "title": "特朗普称即将确认与伊朗达成协议",
           "url": "https://wallstreetcn.com/livenews/3119280",
           "source": "华尔街见闻-快讯",
@@ -88,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普将用和平协议“编织”伟大胜利，伊朗坐实“海峡掌控者” | 每日市场观察06.15",
+          "url": "https://flash.jin10.com/detail/20260615164753350800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "美国总统特朗普对福克斯新闻表示：与伊朗的协议将先以远程方式签署，随后可能在一周后于欧洲举行面对面签字仪式。",
@@ -195,7 +205,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -225,20 +235,8 @@
     },
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 11时01分]"
-        },
         {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
           "url": "https://wallstreetcn.com/articles/3774621",
@@ -247,6 +245,18 @@
             7,
             6,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 16时56分]"
+        },
+        {
+          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
+          "url": "https://www.cls.cn/detail/2399163",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -356,6 +366,17 @@
           "time_info": "[08时00分 ~ 08时01分]"
         },
         {
+          "title": "如何用AI模型预测世界杯",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%94%A8AI%E6%A8%A1%E5%9E%8B%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "Anthropic派技术人员赴华盛顿 力图化解白宫争端",
           "url": "https://flash.jin10.com/detail/20260615022208495800",
           "source": "金十数据",
@@ -365,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "银行界争聘首席AI官 年薪上看350万美元但该职位寿命可能有限",
+          "url": "https://wallstreetcn.com/livenews/3119568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "据AXIOS网站：Anthropic公司派员工飞往华盛顿，以平息与白宫的争执。",
@@ -378,6 +410,28 @@
           "time_info": "03时05分"
         },
         {
+          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
+          "url": "https://wallstreetcn.com/articles/3774655",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "分析师用AI写研报搞了个大乌龙，互联网信息该如何排污？",
+          "url": "https://www.cls.cn/detail/2399644",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
           "url": "https://wallstreetcn.com/livenews/3119301",
           "source": "华尔街见闻-快讯",
@@ -387,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "AI式演技vs晋江式演技",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%BC%8F%E6%BC%94%E6%8A%80vs%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
@@ -423,7 +488,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
