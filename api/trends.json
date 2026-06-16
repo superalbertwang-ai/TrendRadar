@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T10:19:12.601346+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-06-16T16:38:48.721488+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -107,15 +107,70 @@
           "time_info": "[03时01分 ~ 07时30分]"
         },
         {
+          "title": "报道：2025年OpenAI净亏损增加七倍 成本高达340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3120179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "机构全面看好AI赋能的锡稀土钨钼 稀土板块有望演绎估值业绩双升",
+          "url": "https://www.cls.cn/detail/2400646",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "如果一门文科课程的作业可以用 AI 完成，这门课该不该取消？",
+          "url": "https://www.zhihu.com/question/2045831566538924509",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
           "url": "https://www.cls.cn/detail/2400563",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
+        },
+        {
+          "title": "五年来首次！英伟达加入“AI发债大军”……",
+          "url": "https://www.cls.cn/detail/2400703",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
@@ -129,13 +184,24 @@
           "time_info": "07时31分"
         },
         {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "理想汽车推出动态数据流AI芯片马赫M100 构建完整具身智能系统",
           "url": "https://flash.jin10.com/detail/20260616095450153800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时19分"
         },
@@ -149,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://www.toutiao.com/trending/7651870742430092836/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
@@ -264,6 +341,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "学习 教培 在线教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "重庆市树立和践行正确政绩观学习教育工作成果交流会举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33384225",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
