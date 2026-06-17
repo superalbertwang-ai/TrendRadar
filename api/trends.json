@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-18T05:52:51.314157+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-06-18T07:15:31.799958+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时15分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时15分]"
         },
         {
           "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
@@ -39,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时15分]"
         },
         {
           "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
@@ -53,6 +55,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 03时19分]"
+        },
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 07时15分]"
         },
         {
           "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
@@ -102,6 +116,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
+          "url": "https://wallstreetcn.com/livenews/3121289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "美联储主席沃什：任命五个货币政策领域的特别工作组。 包括沟通、资产负债表、数据源、生产力、就业。 生产力工作组将审查人工智能（AI）的影响。 通胀工作组将检查通胀的驱动因素。 资产负债表工作组将评估合适的储备职责。 预期沟通工作组将围绕经济预期概要（SEP）的调整提供建议，未来数周将开始工作。 预计所有工作组都将在年底之前完成，或大部分完成。",
           "url": "https://wallstreetcn.com/livenews/3121202",
           "source": "华尔街见闻-快讯",
@@ -111,17 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         },
         {
           "title": "新加坡冬海集团悄然进军美国市场，测试AI聊天机器人Migoo",
@@ -163,7 +177,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         },
@@ -174,7 +188,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
@@ -182,7 +196,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -193,8 +207,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时15分]"
         },
         {
           "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
@@ -296,6 +310,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国官员：上周日美国副总统万斯和伊朗议会议长卡利巴夫签署了美伊电子谅解备忘录，并由美国总统特朗普见证。",
+          "url": "https://flash.jin10.com/detail/20260618061907048800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
           "title": "美国总统特朗普重申与伊朗的协议将让霍尔木兹海峡重新开放。",
           "url": "https://wallstreetcn.com/livenews/3121135",
           "source": "华尔街见闻-快讯",
@@ -343,8 +368,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时15分]"
         },
         {
           "title": "胡彦斌coding进行曲",
@@ -365,7 +390,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
         }
