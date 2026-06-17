@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T16:20:55.718294+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-06-17T20:45:45.124512+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -120,6 +120,28 @@
           "time_info": "[02时26分 ~ 07时19分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 20时45分]"
+        },
+        {
+          "title": "联想计划发行20亿美元零息可转债：资本市场重估AI与ISG增长潜力",
+          "url": "https://wallstreetcn.com/livenews/3120911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
           "url": "https://www.cls.cn/detail/2401773",
           "source": "财联社热门",
@@ -132,15 +154,15 @@
           "time_info": "[10时14分 ~ 16时20分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
+          "title": "微信支付宝打响AI支付战",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%93%E5%93%8DAI%E6%94%AF%E4%BB%98%E6%88%98",
+          "source": "百度热搜",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 16时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "豆包DeepSeek答题两极分化",
@@ -149,7 +171,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -176,6 +198,28 @@
           "time_info": "10时14分"
         },
         {
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/2050039889400435846",
           "source": "知乎",
@@ -187,13 +231,35 @@
           "time_info": "05时40分"
         },
         {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic、谷歌及其他科技公司承诺投资9.15亿美元以清除空气中的碳。",
+          "url": "https://flash.jin10.com/detail/20260617200030090800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -204,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -303,7 +369,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
@@ -318,11 +384,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时45分]"
         },
         {
           "title": "上合组织收到约20份加入申请说明什么",
@@ -343,7 +410,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -354,7 +421,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
@@ -362,7 +429,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -370,11 +437,23 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 20时45分]"
+        },
+        {
+          "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
+          "url": "https://wallstreetcn.com/livenews/3120964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
@@ -386,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普：昨晚在七国集团晚宴上很开心。 七国集团之行非常成功。 市场对伊朗协议非常满意。 将在今天的新闻发布会上讨论伊朗协议的细节。 油价正在下跌。 霍尔木兹海峡将在未来一两天内开放。 海峡已部分开放，将全面开放。 没有什么比市场更聪明。",
+          "url": "https://wallstreetcn.com/livenews/3120957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         }
       ]
     }
