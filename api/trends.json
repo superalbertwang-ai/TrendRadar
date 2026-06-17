@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T10:14:47.284535+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-06-17T16:20:55.718294+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时26分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 16时20分]"
         },
         {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
@@ -120,13 +120,47 @@
           "time_info": "[02时26分 ~ 07时19分]"
         },
         {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 16时20分]"
+        },
+        {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 16时20分]"
+        },
+        {
+          "title": "豆包DeepSeek答题两极分化",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "GENERAL ATLANTIC据悉洽谈领投快手视频AI部门20亿美元融资。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3120618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -137,29 +171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -173,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "微软考虑用DeepSeek替换美国AI模型",
+          "url": "https://www.toutiao.com/trending/7652220920047603254/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "据英国金融时报：在Anthropic模型相关争议之后，美国和欧洲讨论人工智能模型的准入问题。",
@@ -225,7 +259,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -236,7 +270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -261,6 +295,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "美国商务部暂缓将DeepSeek等中企加入限制清单，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3120818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "上合组织收到约20份加入申请说明什么",
+          "url": "https://www.toutiao.com/trending/7651971814205165110/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 07时19分]"
+        },
+        {
+          "title": "IEA月报：伊朗冲突期间经合组织政府库存降至20世纪90年代初以来最低水平。 自冲突爆发以来，全球库存平均下降380万桶/日。 5月全球观测石油库存减少1.43亿桶。",
+          "url": "https://wallstreetcn.com/livenews/3120846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "IEA月报：经合组织政府库存降至1990年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260617160159186800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -273,11 +369,12 @@
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 16时20分]"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
@@ -289,24 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上合组织收到约20份加入申请说明什么",
-          "url": "https://www.toutiao.com/trending/7651971814205165110/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 07时19分]"
         }
       ]
     }
