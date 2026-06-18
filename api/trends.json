@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T19:47:28.863086+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-06-18T22:40:37.581039+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
@@ -23,6 +23,20 @@
           "time_info": "[05时52分 ~ 19时47分]"
         },
         {
+          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
+          "url": "https://www.zhihu.com/question/2050272536898835791",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 22时40分]"
+        },
+        {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
           "source": "华尔街见闻",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 07时15分]"
-        },
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 19时47分]"
         },
         {
           "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "黄金和AI：谁在见顶？",
@@ -200,13 +212,24 @@
           "time_info": "07时15分"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
           "url": "https://www.cls.cn/detail/2403255",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -244,6 +267,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850554&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/GMOMYRjGaax9gpq7FcO2G.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260618220943916800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "SK海力士下一代AI内存芯片样品已向客户交付",
           "url": "https://wallstreetcn.com/livenews/3121334",
           "source": "华尔街见闻-快讯",
@@ -277,6 +311,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "AI贡献最大的一道题出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "惠与（HPE）：Vultr为AI基础设施选择本公司和英伟达。",
           "url": "https://wallstreetcn.com/livenews/3121129",
           "source": "华尔街见闻-快讯",
@@ -305,7 +350,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -338,7 +383,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
         },
@@ -368,7 +413,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
@@ -496,6 +541,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国总统特朗普谈及伊朗，声称：石油在流动。",
+          "url": "https://wallstreetcn.com/livenews/3121767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "美国总统特朗普：伊朗同意不生产或采购核武器。",
           "url": "https://flash.jin10.com/detail/20260618001841690800",
           "source": "金十数据",
@@ -549,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普：石油正在流动 伊朗永远不可能拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260618220417210800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
