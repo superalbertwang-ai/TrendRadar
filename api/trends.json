@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T19:12:33.940921+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-06-19T22:36:56.668686+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,19 @@
           "time_info": "[06时53分 ~ 19时12分]"
         },
         {
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 22时36分]"
+        },
+        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
@@ -74,19 +87,6 @@
           "time_info": "[06时53分 ~ 14时06分]"
         },
         {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 19时12分]"
-        },
-        {
           "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
           "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
           "source": "澎湃新闻",
@@ -98,6 +98,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时20分 ~ 19时12分]"
+        },
+        {
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时06分 ~ 22时36分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -146,18 +159,6 @@
           "time_info": "[08时20分 ~ 14时06分]"
         },
         {
-          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 19时12分]"
-        },
-        {
           "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
           "url": "https://wallstreetcn.com/articles/3775011",
           "source": "华尔街见闻",
@@ -168,6 +169,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时20分 ~ 14时06分]"
+        },
+        {
+          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
+          "url": "https://wallstreetcn.com/articles/3775047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 22时36分]"
         },
         {
           "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
@@ -204,17 +217,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
-          "url": "https://wallstreetcn.com/articles/3775047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "OpenAI：ChatGPT企业版管理员即日起可使用新的分析功能和更新的支出控制工具。",
           "url": "https://flash.jin10.com/detail/20260619030734047800",
           "source": "金十数据",
@@ -232,7 +234,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -327,7 +329,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -338,7 +340,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -349,7 +351,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -360,7 +362,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -399,7 +401,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -413,6 +415,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "学习 教培 在线教育",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中央党的建设工作领导小组印发《关于学习贯彻习近平党建思想的通知》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33409937",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "新华社评论员：以更高标准、更实举措抓好全面从严治党——三论学习贯彻习近平党建思想",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412891",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         }
       ]
     },
@@ -441,23 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中央党的建设工作领导小组印发《关于学习贯彻习近平党建思想的通知》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33409937",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         }
       ]
     }
