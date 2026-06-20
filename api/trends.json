@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T03:07:29.545613+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-06-21T05:02:55.164027+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -46,11 +47,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -61,8 +63,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
+        },
+        {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "time_info": "[03时07分 ~ 05时02分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -76,24 +89,13 @@
           "time_info": "01时13分"
         },
         {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -101,7 +103,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -109,11 +111,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -123,8 +126,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260621035019632800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
@@ -133,7 +147,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
         }
@@ -151,26 +165,38 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 05时02分]"
         },
         {
           "title": "极端组织“伊斯兰国”宣称对叙利亚阿勒颇东北部的袭击事件负责。",
           "url": "https://flash.jin10.com/detail/20260621020248982800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时07分 ~ 05时02分]"
         }
       ]
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "怎么才能心无旁骛地学习？",
+          "url": "https://www.zhihu.com/question/324702775",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
         {
           "title": "新华社评论员：牢记初心使命，永葆政治本色——四论学习贯彻习近平党建思想",
           "url": "https://m.thepaper.cn/newsDetail_forward_33418715",
