@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:50:44.207281+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-06-20T21:21:43.938891+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时10分 ~ 07时58分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 21时21分]"
         },
         {
           "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
@@ -73,19 +86,6 @@
           "time_info": "[05时01分 ~ 10时03分]"
         },
         {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 19时50分]"
-        },
-        {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
           "url": "https://wallstreetcn.com/livenews/3122191",
           "source": "华尔街见闻-快讯",
@@ -97,6 +97,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时03分 ~ 10时03分]"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时21分]"
+        },
+        {
+          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
+          "url": "https://wallstreetcn.com/livenews/3122233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时21分]"
         },
         {
           "title": "第一次见心眼这么多的AI",
@@ -111,16 +137,16 @@
           "time_info": "[14时53分 ~ 17时57分]"
         },
         {
-          "title": "美国电网扛不住AI热潮",
-          "url": "https://wallstreetcn.com/livenews/3122234",
-          "source": "华尔街见闻-快讯",
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            11
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时21分]"
         },
         {
           "title": "男子称高价挂专家号 医生竟悄悄问AI",
@@ -141,18 +167,6 @@
           "ranks": [
             4,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时50分]"
-        },
-        {
-          "title": "腾讯：微信正在灰度测试 AI助手“小微”",
-          "url": "https://wallstreetcn.com/livenews/3122233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -194,16 +208,26 @@
           "time_info": "[10时03分 ~ 14时53分]"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时50分]"
+          "time_info": "[19时50分 ~ 21时21分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时21分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -215,28 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
-        },
-        {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
         },
         {
           "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
@@ -256,9 +258,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "DeepSeek估值接近4000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%B0%E5%80%BC%E6%8E%A5%E8%BF%914000%E4%BA%BF%E5%85%83%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "1年500元你会把脸卖给AI短剧吗",
@@ -267,7 +291,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -286,7 +310,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
@@ -296,11 +320,12 @@
             7,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 21时21分]"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -328,6 +353,17 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 21时21分]"
+        },
+        {
           "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
           "url": "https://flash.jin10.com/detail/20260620034905170800",
           "source": "金十数据",
@@ -339,15 +375,16 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
-          "title": "特朗普坚称伊朗无条件投降了",
-          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
+          "url": "https://wallstreetcn.com/livenews/3122240",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时57分 ~ 19时50分]"
+          "time_info": "[19时50分 ~ 21时21分]"
         },
         {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
@@ -362,15 +399,15 @@
           "time_info": "[01时10分 ~ 03时23分]"
         },
         {
-          "title": "美国总统特朗普：伊朗在军事上正被“彻底击败”。",
-          "url": "https://wallstreetcn.com/livenews/3122240",
-          "source": "华尔街见闻-快讯",
+          "title": "据福克斯新闻：美国副总统万斯表示美国总统特使威特科夫和特朗普女婿库什纳已抵达与伊朗的谈判现场，谈判可能在周日举行。",
+          "url": "https://flash.jin10.com/detail/20260620210824596800",
+          "source": "金十数据",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普自夸对伊战争成果：伊朗被“完全击败”，美国不再软弱",
@@ -379,7 +416,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -415,6 +452,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "特朗普：伊朗已被打垮 民主党是一帮“蠢货”",
+          "url": "https://flash.jin10.com/detail/20260620195852892800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊拉克国家石油营销组织（SOMO）负责人Ali Nizar：目前有两艘船正在该国南部码头装载原油，但需要更多船只进入霍尔木兹海峡，产量才能继续上升。（伊拉克24电视台）",
+          "url": "https://wallstreetcn.com/livenews/3122252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "美国德克萨斯州最高法院表示，SpaceX可以继续在德克萨斯州公共海滩附近发射火箭，并得出结论，以安全为由寻求阻止SpaceX发射火箭的私人环保组织缺乏法律救济途径。",
+          "url": "https://flash.jin10.com/detail/20260619233143578800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
         }
       ]
     },
@@ -439,23 +515,6 @@
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国德克萨斯州最高法院表示，SpaceX可以继续在德克萨斯州公共海滩附近发射火箭，并得出结论，以安全为由寻求阻止SpaceX发射火箭的私人环保组织缺乏法律救济途径。",
-          "url": "https://flash.jin10.com/detail/20260619233143578800",
-          "source": "金十数据",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
