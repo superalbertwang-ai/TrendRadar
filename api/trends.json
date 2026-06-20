@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T01:13:45.917718+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-21T03:07:29.545613+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -37,8 +37,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
+        },
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
+        },
+        {
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
         },
         {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
@@ -52,43 +76,44 @@
           "time_info": "01时13分"
         },
         {
-          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
-          "source": "澎湃新闻",
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时07分"
         },
         {
-          "title": "AI短剧“买脸” 每张脸500元一年",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
-          "source": "百度热搜",
+          "title": "谐音歌词版WAIYA",
+          "url": "https://www.douyin.com/hot/2541878",
+          "source": "抖音",
           "ranks": [
-            22
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
           "url": "https://wallstreetcn.com/articles/3775098",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -98,14 +123,25 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
+        },
+        {
+          "title": "学者：伊朗效仿特朗普采取“周末战略”",
+          "url": "https://flash.jin10.com/detail/20260621012943584800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时07分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊拉克国家石油营销组织（SOMO）负责人Ali Nizar：目前有两艘船正在该国南部码头装载原油，但需要更多船只进入霍尔木兹海峡，产量才能继续上升。（伊拉克24电视台）",
@@ -115,8 +151,19 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时07分]"
+        },
+        {
+          "title": "极端组织“伊斯兰国”宣称对叙利亚阿勒颇东北部的袭击事件负责。",
+          "url": "https://flash.jin10.com/detail/20260621020248982800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "03时07分"
         }
       ]
     },
