@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T10:44:56.494404+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-06-21T15:24:18.027143+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -88,6 +88,18 @@
           "time_info": "[01时13分 ~ 07时59分]"
         },
         {
+          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
+          "url": "https://wallstreetcn.com/articles/3775114",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 15时24分]"
+        },
+        {
           "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
           "url": "https://wallstreetcn.com/articles/3775105",
           "source": "华尔街见闻",
@@ -98,6 +110,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 07时59分]"
+        },
+        {
+          "title": "女子用AI写3000字股市谣言被罚",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 15时24分]"
         },
         {
           "title": "谐音歌词版WAIYA",
@@ -125,26 +148,26 @@
           "time_info": "[07时59分 ~ 10时44分]"
         },
         {
-          "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
-          "url": "https://wallstreetcn.com/articles/3775114",
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "15时24分"
         },
         {
-          "title": "女子用AI写3000字股市谣言被罚",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E5%86%993000%E5%AD%97%E8%82%A1%E5%B8%82%E8%B0%A3%E8%A8%80%E8%A2%AB%E7%BD%9A",
-          "source": "百度热搜",
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 10时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "华泰证券：AI服务器测试电源或迎国产替代机遇",
@@ -153,15 +176,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "数学博士生2年研究被AI抢发",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%8D%9A%E5%A3%AB%E7%94%9F2%E5%B9%B4%E7%A0%94%E7%A9%B6%E8%A2%ABAI%E6%8A%A2%E5%8F%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "如果给人文社科专业增加一门 AI 相关课程，你觉得最应该开哪门？",
+          "url": "https://www.zhihu.com/question/2045843902720995741",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -201,6 +246,17 @@
           "time_info": "[05时02分 ~ 07时59分]"
         },
         {
+          "title": "伊朗议会议员诺文：特朗普在战争的叙事中，将失败粉饰为胜利。当今世界已将伊朗视为一个第四极力量和一个新兴大国。",
+          "url": "https://flash.jin10.com/detail/20260621150913040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
           "url": "https://flash.jin10.com/detail/20260621012943584800",
           "source": "金十数据",
@@ -218,7 +274,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
@@ -226,7 +282,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊拉克国家石油营销组织（SOMO）负责人Ali Nizar：目前有两艘船正在该国南部码头装载原油，但需要更多船只进入霍尔木兹海峡，产量才能继续上升。（伊拉克24电视台）",
@@ -251,6 +307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 05时02分]"
+        },
+        {
+          "title": "以色列军方：已击毙哈马斯和伊斯兰圣战组织军事分支成员侯赛因·卡德拉和穆罕默德·法拉。",
+          "url": "https://flash.jin10.com/detail/20260621142009612800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
