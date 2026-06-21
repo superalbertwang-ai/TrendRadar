@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T21:04:07.288345+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-06-21T23:45:28.012706+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -48,6 +48,19 @@
           "time_info": "[01时13分 ~ 10时44分]"
         },
         {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 23时45分]"
+        },
+        {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
           "source": "澎湃新闻",
@@ -62,17 +75,18 @@
           "time_info": "[01时13分 ~ 07时59分]"
         },
         {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            2,
+            8,
+            10,
+            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 23时45分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -112,17 +126,17 @@
           "time_info": "[01时13分 ~ 07时59分]"
         },
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
-          "url": "https://wallstreetcn.com/articles/3775117",
-          "source": "华尔街见闻",
+          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
+          "source": "澎湃新闻",
           "ranks": [
+            11,
             8,
-            10,
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时24分 ~ 21时04分]"
+          "time_info": "[18时59分 ~ 23时45分]"
         },
         {
           "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
@@ -162,6 +176,17 @@
           "time_info": "[01时13分 ~ 07时59分]"
         },
         {
+          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
+          "url": "https://www.cls.cn/detail/2404757",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 23时45分]"
+        },
+        {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
@@ -187,16 +212,16 @@
           "time_info": "[18时59分 ~ 21时04分]"
         },
         {
-          "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
-          "source": "澎湃新闻",
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时59分 ~ 21时04分]"
+          "time_info": "[21时04分 ~ 23时45分]"
         },
         {
           "title": "普通人适合学AI专业吗",
@@ -208,28 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时03分 ~ 21时04分]"
-        },
-        {
-          "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
-          "url": "https://www.cls.cn/detail/2404757",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 21时04分]"
-        },
-        {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时04分"
         },
         {
           "title": "AI短剧严重“缺脸” 500元买一张脸",
@@ -274,12 +277,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "中信建投：继续看好AI算力后续表现",
+          "url": "https://www.toutiao.com/trending/7653819354932920363/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -330,6 +344,61 @@
           "time_info": "15时24分"
         },
         {
+          "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3122368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
+          "url": "https://news.ifeng.com/c/8u90rSz0ftO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3122364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
+          "url": "https://wallstreetcn.com/livenews/3122359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
           "url": "https://flash.jin10.com/detail/20260621012943584800",
           "source": "金十数据",
@@ -341,6 +410,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
+          "url": "https://wallstreetcn.com/livenews/3122351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普回应伊朗关闭霍尔木兹海峡",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -350,12 +430,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "特朗普威胁伊朗控制真主党 否则将再次发动打击",
+          "url": "https://flash.jin10.com/detail/20260621213111218800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊拉克国家石油营销组织（SOMO）负责人Ali Nizar：目前有两艘船正在该国南部码头装载原油，但需要更多船只进入霍尔木兹海峡，产量才能继续上升。（伊拉克24电视台）",
@@ -380,6 +471,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 05时02分]"
+        },
+        {
+          "title": "英国海事贸易组织：该船在遭遇突发事件后正前往下一个停靠港口。",
+          "url": "https://flash.jin10.com/detail/20260621220826623800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "英国海事贸易组织：船只采取了闪避动作，并改变了航向以远离载有持枪人员的小艇。",
+          "url": "https://flash.jin10.com/detail/20260621220810283800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "英国海事贸易组织：一艘成品油轮的船长报告称，曾被一艘载有五名持枪人员的小艇接近，这些人似乎试图登船。",
+          "url": "https://flash.jin10.com/detail/20260621220651299800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "英国海事贸易组织：已收到关于在也门阿尔希赫尔东南50海里发生事件的报告。",
+          "url": "https://flash.jin10.com/detail/20260621220550408800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "以色列军方：已击毙哈马斯和伊斯兰圣战组织军事分支成员侯赛因·卡德拉和穆罕默德·法拉。",
