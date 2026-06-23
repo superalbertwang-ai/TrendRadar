@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-24T00:19:51.483863+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T03:04:20.895492+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
         {
           "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2407151",
@@ -26,8 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
+        },
+        {
+          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
+          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -37,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
         },
         {
           "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
@@ -48,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
         },
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -59,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
         },
         {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
@@ -70,30 +83,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
         },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
-          "url": "https://www.zhihu.com/question/2052673340993811952",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -103,8 +106,52 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 03时04分]"
+        },
+        {
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3123596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
+          "url": "https://www.zhihu.com/question/2051696278954946774",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
@@ -118,15 +165,26 @@
           "time_info": "00时19分"
         },
         {
-          "title": "大模型横评:多款AI翻车实录",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
-          "source": "贴吧",
+          "title": "Grok融资6.5亿美元，旨在扩大数据中心算力，并成为一家AI计算供应商。",
+          "url": "https://wallstreetcn.com/livenews/3123591",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "03时04分"
+        },
+        {
+          "title": "用AI小卡应援世界杯",
+          "url": "https://www.douyin.com/hot/2544441",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         },
         {
           "title": "Baird分析师称，特斯拉第二季度预计将交付39.29万辆汽车",
@@ -138,6 +196,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普称国际原子能机构核查人员将适时访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3123598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美国总统特朗普：正与伊朗达成一份协议，将观察后续进展。 伊朗关于国际原子能机构（IAEA）观察员的立场是错误的。 并不急于实地调查伊朗的核问题。 伊朗在饥饿、食品、医药、通胀方面存在问题。",
+          "url": "https://wallstreetcn.com/livenews/3123594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时04分"
         }
       ]
     },
