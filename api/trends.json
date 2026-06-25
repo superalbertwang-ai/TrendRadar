@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T19:33:26.838680+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-06-25T21:58:17.355456+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 53,
+      "match_count": 63,
       "titles": [
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -20,8 +20,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 19时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 21时58分]"
         },
         {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
@@ -36,6 +36,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时28分 ~ 19时33分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 21时58分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -63,19 +76,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 13时58分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 19时33分]"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -116,6 +116,18 @@
           "time_info": "[00时15分 ~ 07时57分]"
         },
         {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 21时58分]"
+        },
+        {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
           "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
@@ -144,18 +156,6 @@
           "time_info": "[02时28分 ~ 09时58分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 19时33分]"
-        },
-        {
           "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
           "source": "澎湃新闻",
@@ -179,6 +179,18 @@
           "time_info": "[00时15分 ~ 06时07分]"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 21时58分]"
+        },
+        {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
           "url": "https://wallstreetcn.com/articles/3775365",
           "source": "华尔街见闻",
@@ -190,6 +202,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 09时58分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 21时58分]"
         },
         {
           "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
@@ -205,6 +230,31 @@
           "time_info": "[07时57分 ~ 13时58分]"
         },
         {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时58分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 21时58分]"
+        },
+        {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
@@ -216,30 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 13时58分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时33分]"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 19时33分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -277,6 +303,17 @@
           "time_info": "02时28分"
         },
         {
+          "title": "谷歌重组AI编码“特遣队” 加速追赶Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625213526169800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
           "url": "https://wallstreetcn.com/livenews/3124193",
           "source": "华尔街见闻-快讯",
@@ -299,29 +336,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时33分]"
-        },
-        {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
           "source": "百度热搜",
@@ -342,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "高考志愿要选AI专业吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E8%A6%81%E9%80%89AI%E4%B8%93%E4%B8%9A%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "Scale AI与Circadence构建合作伙伴关系。",
@@ -388,6 +413,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
           "url": "https://flash.jin10.com/detail/20260625071208706800",
           "source": "金十数据",
@@ -397,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "广电总局发布AI微短剧分类分层标准",
+          "url": "https://wallstreetcn.com/livenews/3124710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "AI时代计算机专业怎么选",
@@ -410,6 +457,17 @@
           "time_info": "16时47分"
         },
         {
+          "title": "广电总局发布AI微短剧分类分层标准",
+          "url": "https://flash.jin10.com/detail/20260625212733615800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "“下一个英伟达”？高通剑指AI算力赛道 发布全新CPU并收购AI软件企业",
           "url": "https://www.cls.cn/detail/2408607",
           "source": "财联社热门",
@@ -419,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -432,13 +501,24 @@
           "time_info": "06时07分"
         },
         {
+          "title": "美国银行策略师质疑AI热潮 建议关注防御性板块",
+          "url": "https://wallstreetcn.com/livenews/3124707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "UP主手搓AI实时生成游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -454,6 +534,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "谷歌正对新的AI编码工具“突击队”进行重组",
+          "url": "https://wallstreetcn.com/livenews/3124704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "黄仁勋股东大会放言：本轮AI基建周期长达数十年",
           "url": "https://wallstreetcn.com/livenews/3124282",
           "source": "华尔街见闻-快讯",
@@ -463,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "谷歌前CEO批中国AI开源",
@@ -551,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "屎山BUG半决赛之DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "宁泉资产：AI泡沫被严重低估",
@@ -664,7 +777,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -749,7 +862,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场消息：美国国家运输安全委员会（NTSB）针对6月19日发生的特斯拉(TSLA.O)Model 3车祸展开安全调查。",
@@ -774,6 +887,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "国防部回应福建舰过航台湾海峡：例行训练，今后还会继续组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33451753",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
           "title": "智利国有矿业公司Codelco董事长表示，公司将着手评估各项投资并确定优先顺序。",
           "url": "https://flash.jin10.com/detail/20260625035331756800",
           "source": "金十数据",
@@ -794,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "在委华侨华人组织力量搜救被困侨胞",
+          "url": "https://www.toutiao.com/trending/7655272034927263794/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "科特迪瓦从国际货币基金组织（IMF）解锁8.328亿美元资金支持，此前IMF完成了对该国的（财政健康状况）评估。",
@@ -842,17 +977,18 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 21时58分]"
         }
       ]
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高考707分考生分享学习方法",
@@ -868,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 07时57分]"
+        },
+        {
+          "title": "705分考生分享学习经验",
+          "url": "https://www.toutiao.com/trending/7654022058679500843/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         }
       ]
     }
