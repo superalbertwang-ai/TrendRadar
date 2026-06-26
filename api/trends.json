@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-26T13:03:35.943372+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-06-26T16:32:35.210488+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            9,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 16时32分]"
+        },
         {
           "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
           "url": "https://www.cls.cn/detail/2409082",
@@ -18,20 +33,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 08时04分]"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 13时03分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -133,6 +134,17 @@
           "time_info": "[00时15分 ~ 06时16分]"
         },
         {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时32分]"
+        },
+        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -203,15 +215,16 @@
           "time_info": "[06时16分 ~ 08时04分]"
         },
         {
-          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
-          "url": "https://www.cls.cn/detail/2409672",
-          "source": "财联社热门",
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时32分]"
         },
         {
           "title": "蒙罗能源：应急人员已扑灭位于宾夕法尼亚州特雷纳（Trainer）炼油厂的火灾，目前已宣布火势“已得到控制”。",
@@ -235,6 +248,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时16分]"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 16时32分]"
         },
         {
           "title": "美国防部更新目标定位指南 放宽AI参与作战决策限制",
@@ -290,29 +315,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -334,7 +337,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -345,7 +348,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -356,7 +359,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -370,6 +373,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
+          "url": "https://www.cls.cn/detail/2409699",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，美光科技(MU.O)跌超4%，英特尔(INTC.O)跌3.2%，百度(BIDU.O)、AMD(AMD.O)跌2.7%，高通(QCOM.O)、博通(AVGO.O)跌超1%，微软(MSFT.O)涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260626160313852800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美联储威廉姆斯：通胀水平“无疑处于高位，且远超”目标，这反映了关税、能源价格以及人工智能（AI）相关科技产品需求的影响。",
@@ -389,7 +425,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -439,11 +475,12 @@
           "ranks": [
             15,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 13时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 16时32分]"
         },
         {
           "title": "纳入65个品种 第12批国家组织药品集采启动",
@@ -529,7 +566,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
