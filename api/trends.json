@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:53:16.151796+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-06-28T06:52:46.558779+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -27,11 +27,12 @@
             8,
             5,
             9,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 04时09分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -41,19 +42,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -64,30 +66,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
           "url": "https://wallstreetcn.com/articles/3775663",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -99,8 +103,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[03时01分 ~ 06时52分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -110,8 +114,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制",
@@ -136,11 +140,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 05时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 06时52分]"
         },
         {
           "title": "亚太经合组织第十三届旅游部长会议在澳门举行",
@@ -150,8 +155,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "中俄两国空军在日本海、东海、太平洋西部空域组织联合巡航",
@@ -162,8 +167,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "中俄两军组织实施第11次联合空中战略巡航",
@@ -173,8 +178,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         }
       ]
     },
@@ -190,19 +195,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时52分]"
         }
       ]
     }
