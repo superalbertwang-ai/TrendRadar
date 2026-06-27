@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-27T13:52:05.140900+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-06-27T16:24:19.331855+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 16时24分]"
+        },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
           "url": "https://www.zhihu.com/question/2053625552725079594",
@@ -21,18 +35,20 @@
           "time_info": "[00时06分 ~ 09时54分]"
         },
         {
-          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
-          "url": "https://wallstreetcn.com/articles/3775599",
-          "source": "华尔街见闻",
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
           "ranks": [
-            5,
-            4,
-            2,
-            3
+            7,
+            10,
+            11,
+            12,
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 13时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 16时24分]"
         },
         {
           "title": "AI时代如何选专业",
@@ -48,21 +64,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 09时54分]"
-        },
-        {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10,
-            11,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 13时52分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -139,28 +140,42 @@
           "time_info": "[00时07分 ~ 07时05分]"
         },
         {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 16时24分]"
+        },
+        {
           "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
           "url": "https://wallstreetcn.com/articles/3775640",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时05分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时05分 ~ 16时24分]"
         },
         {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 13时52分]"
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时24分]"
         },
         {
           "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
@@ -233,6 +248,18 @@
           "time_info": "[09时54分 ~ 13时52分]"
         },
         {
+          "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260627112200280800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时24分]"
+        },
+        {
           "title": "Anthropic仍在与美国政府接触，希望能让Mythos重返市场。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3125437",
           "source": "华尔街见闻-快讯",
@@ -256,15 +283,16 @@
           "time_info": "[00时06分 ~ 00时07分]"
         },
         {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
+          "title": "韩国政府组建跨部门机构应对涉AI犯罪",
+          "url": "https://wallstreetcn.com/livenews/3125531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 16时24分]"
         },
         {
           "title": "当AI成为通胀发动机：一条央行从未见过的传导链条",
@@ -278,17 +306,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260627112200280800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
           "url": "https://www.zhihu.com/question/2054058863066886644",
           "source": "知乎",
@@ -298,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "伊朗革命卫队称将回应美军袭击 OpenAI推出旗舰大模型GPT‑5.6系列 | 环球市场",
+          "url": "https://www.cls.cn/detail/2410782",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
@@ -331,17 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "韩国政府组建跨部门机构应对涉AI犯罪",
-          "url": "https://wallstreetcn.com/livenews/3125531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
         },
         {
           "title": "市场消息：OpenAI开启GPT-5.6系列有限预览版测试。",
@@ -397,6 +414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "OpenAI发布GPT5.6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -404,6 +432,18 @@
       "keyword_group": "特朗普",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 16时24分]"
+        },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
           "url": "https://flash.jin10.com/detail/20260626235210506800",
@@ -461,18 +501,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 04时27分]"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 13时52分]"
         },
         {
           "title": "伊朗称特朗普不遵守谈判和停火原则",
@@ -533,7 +561,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "警方通报湖南「浸猪笼」游行事件，系摆拍，组织者多次摆拍低俗场景被刑拘，其还将承担哪些法律责任？",
@@ -560,6 +588,17 @@
           "time_info": "[00时07分 ~ 06时01分]"
         },
         {
+          "title": "美国国家公路交通安全管理局（NHTSA）结束对约376241辆特斯拉Model 3和Model Y美国车辆转向失控问题的工程分析（EA）。",
+          "url": "https://flash.jin10.com/detail/20260627151134945800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "国际海事组织：约2500名海员已撤离霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3125415",
           "source": "华尔街见闻-快讯",
@@ -580,6 +619,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "VibeCoding作品夯爆了",
+          "url": "https://www.douyin.com/hot/2549554",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "村支书组织清除村内护坡便利村民出行",
+          "url": "https://www.toutiao.com/trending/7655389535513395242/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "伊拉克石油部：石油输出国组织（OPEC，欧佩克）已开始逐步恢复伊拉克在战前的产量配额，此举将加强伊拉克的生产能力，并支持石油行业的复苏。 OPEC内部已达成高层共识，充分考虑了伊拉克过去的特殊处境以及当前的实际需求。",
