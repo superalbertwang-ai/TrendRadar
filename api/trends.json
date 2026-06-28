@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T03:03:43.008804+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-06-29T04:17:02.113258+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
@@ -50,8 +50,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
+        },
+        {
+          "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
+          "url": "https://www.zhihu.com/question/2054005413406946147",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -61,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -72,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -84,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -95,8 +109,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时17分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -106,21 +120,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
-        },
-        {
-          "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
-          "url": "https://www.zhihu.com/question/2054005413406946147",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -131,8 +132,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
@@ -184,8 +185,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -196,20 +210,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -219,8 +221,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         }
       ]
     },
@@ -237,8 +239,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 04时17分]"
         }
       ]
     }
