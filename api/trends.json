@@ -1,14 +1,75 @@
 {
-  "generated_at": "2026-06-29T08:01:45.527911+08:00",
-  "total_titles_processed": 595,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-06-29T10:35:11.431389+08:00",
+  "total_titles_processed": 758,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
       "match_count": 17,
       "titles": [
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时35分]"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时35分]"
+        },
+        {
+          "title": "人民日报评“AI脸看腻了”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时35分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 10时35分]"
+        },
+        {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时35分]"
+        },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
           "url": "https://www.cls.cn/detail/2410894",
@@ -27,66 +88,6 @@
           "ranks": [
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
-        },
-        {
-          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
-          "url": "https://wallstreetcn.com/articles/3775696",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 08时01分]"
-        },
-        {
-          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
-          "url": "https://www.cls.cn/detail/2411046",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -170,6 +171,18 @@
           "time_info": "[06时53分 ~ 08时01分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 10时35分]"
+        },
+        {
           "title": "豆包和DeepSeek的博弈",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -188,18 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -250,11 +252,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 10时35分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -292,22 +295,25 @@
           "url": "https://www.zhihu.com/question/2054642851380826744",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 4,
+          "time_info": "[08时00分 ~ 10时35分]"
         },
         {
           "title": "有哪些烂大街的 Vibe Coding 作品类型让你一看到就想马上划走？",
           "url": "https://www.zhihu.com/question/2044081845021803766",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时00分 ~ 08时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时00分 ~ 10时34分]"
         }
       ]
     }
