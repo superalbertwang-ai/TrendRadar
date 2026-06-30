@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T07:52:09.537053+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-06-30T09:59:42.720944+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -45,6 +45,18 @@
           "time_info": "[00时33分 ~ 07时52分]"
         },
         {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 09时59分]"
+        },
+        {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
           "url": "https://www.cls.cn/detail/2411644",
           "source": "财联社热门",
@@ -75,17 +87,6 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时04分]"
-        },
-        {
-          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
-          "url": "https://www.cls.cn/detail/2411865",
-          "source": "财联社热门",
-          "ranks": [
             11
           ],
           "is_new": false,
@@ -142,11 +143,45 @@
           "url": "https://wallstreetcn.com/articles/3775756",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 09时59分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时52分"
+          "time_info": "09时59分"
+        },
+        {
+          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
+          "url": "https://www.cls.cn/detail/2412167",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -180,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "吴启华卖肖像权拍AI电影",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%90%AF%E5%8D%8E%E5%8D%96%E8%82%96%E5%83%8F%E6%9D%83%E6%8B%8DAI%E7%94%B5%E5%BD%B1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -194,7 +240,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
