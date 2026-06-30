@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T01:48:01.866463+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-01T03:29:57.435976+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
@@ -15,19 +15,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时29分]"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "Anthropic推出Claude Science，助力科研自动化",
           "url": "https://wallstreetcn.com/livenews/3126932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时29分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时29分]"
         },
         {
           "title": "Anthropic推出Claude Science助力科研自动化",
@@ -36,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
         },
@@ -52,37 +75,37 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
           "url": "https://flash.jin10.com/detail/20260701010526378800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "Anthropic推出Claude Sonnet 5。",
+          "url": "https://wallstreetcn.com/livenews/3126941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
+          "url": "https://wallstreetcn.com/livenews/3126939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         },
         {
           "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
@@ -91,9 +114,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "亚马逊云服务（AWS）宣布Anthropic新推出的Claude Sonnet 5模型现已在Amazon Bedrock和AWS上的Claude平台上提供。",
+          "url": "https://flash.jin10.com/detail/20260701024433824800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         }
       ]
     },
@@ -106,11 +140,12 @@
           "url": "https://www.zhihu.com/question/2055329815301813727",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时29分]"
         }
       ]
     },
@@ -125,9 +160,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时29分]"
         }
       ]
     }
