@@ -1,433 +1,33 @@
 {
-  "generated_at": "2026-07-03T23:48:59.096316+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2026-07-04T01:11:05.653879+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 69,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
-          "url": "https://www.zhihu.com/question/2056064893745193207",
-          "source": "知乎",
-          "ranks": [
-            18,
-            10,
-            9,
-            8,
-            5,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 09时28分]"
-        },
-        {
-          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2415745",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 13时41分]"
-        },
-        {
-          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
-          "url": "https://www.cls.cn/detail/2415670",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 09时28分]"
-        },
-        {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 09时28分]"
-        },
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16,
-            11,
-            12,
-            10,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 09时28分]"
-        },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            3,
             2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 23时48分]"
-        },
-        {
-          "title": "出现性能下降问题 DeepSeek回应",
-          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            25,
-            19,
-            20,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
-        },
-        {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时55分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时56分]"
-        },
-        {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 23时48分]"
-        },
-        {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 23时48分]"
-        },
-        {
-          "title": "如何评价AI巨头之间的混战",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24,
-            26,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 07时55分]"
-        },
-        {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 19时25分]"
-        },
-        {
-          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
-          "url": "https://www.cls.cn/detail/2416232",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 21时29分]"
-        },
-        {
-          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2056384180200498322",
-          "source": "知乎",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 23时48分]"
-        },
-        {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时52分]"
-        },
-        {
-          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
-          "url": "https://www.cls.cn/detail/2416215",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 21时29分]"
-        },
-        {
-          "title": "AI演员已经能演出情绪变化了",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
           "url": "https://wallstreetcn.com/articles/3776124",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 23时48分]"
-        },
-        {
-          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
-          "url": "https://wallstreetcn.com/articles/3776055",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时55分]"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 16时45分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 23时48分]"
-        },
-        {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 23时48分]"
-        },
-        {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 09时28分]"
-        },
-        {
-          "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发",
-          "url": "https://wallstreetcn.com/livenews/3128284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
-          "url": "https://wallstreetcn.com/livenews/3128681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
-          "url": "https://wallstreetcn.com/livenews/3128187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 04时52分]"
-        },
-        {
-          "title": "据悉Meta正考虑与三星合作，生产价值10万亿韩元的定制AI芯片",
-          "url": "https://flash.jin10.com/detail/20260703162128323800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "全球最大编程助手GitHub Copilot宣布接入首个开源模型Kimi K2.7 Code",
-          "url": "https://wallstreetcn.com/livenews/3128677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
-          "url": "https://flash.jin10.com/detail/20260703061710084800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
-        },
-        {
-          "title": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
-          "url": "https://wallstreetcn.com/livenews/3128134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时34分]"
-        },
-        {
-          "title": "黑石面向富裕人士的基金5月创下最强单月表现，得益于投资Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3128132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时34分]"
-        },
-        {
-          "title": "报道：美国政府和Anthropic并未讨论政府参股事宜",
-          "url": "https://wallstreetcn.com/livenews/3128160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时07分]"
+          "time_info": "01时11分"
         },
         {
           "title": "4名大学生出题 AI考了0分",
@@ -438,131 +38,62 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "01时11分"
         },
         {
-          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
-          "url": "https://flash.jin10.com/detail/20260703053218844800",
-          "source": "金十数据",
+          "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2056384180200498322",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
-          "url": "https://flash.jin10.com/detail/20260703060215958800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3128155",
-          "source": "华尔街见闻-快讯",
+          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056394331271999624",
+          "source": "知乎",
           "ranks": [
-            14,
-            30
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时07分]"
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 成分股闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究至少收跌10.19%表现最差，在收涨的六只成分股中，核电股CEG涨1.16%表现第四，微软涨1.62%，公共服务企业集团（PEG）涨1.68%，Palantir涨2.84%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。 成分股C3.ai收跌3.92%，新思科技跌3.82%，甲骨文跌1.56%跌幅第三大，HubSpot则涨2.34%、与Palantir、Adobe领跑。",
-          "url": "https://wallstreetcn.com/livenews/3128253",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
           "ranks": [
-            15,
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "AI泡沫要破了吗",
-          "url": "https://www.toutiao.com/trending/7657924279471705610/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 00时02分]"
-        },
-        {
-          "title": "美国AI三大巨头争抢哲学家",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E4%B8%89%E5%A4%A7%E5%B7%A8%E5%A4%B4%E4%BA%89%E6%8A%A2%E5%93%B2%E5%AD%A6%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时07分]"
-        },
-        {
-          "title": "Meta据悉考虑由三星代工10万亿韩元定制AI芯片生产",
-          "url": "https://wallstreetcn.com/livenews/3128547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
-          "url": "https://flash.jin10.com/detail/20260703025612811800",
-          "source": "金十数据",
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "01时11分"
         },
         {
-          "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
-          "url": "https://wallstreetcn.com/livenews/3128237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
-          "url": "https://flash.jin10.com/detail/20260703004456845800",
-          "source": "金十数据",
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "美国总统特朗普：无论好坏，我们都有AI。",
-          "url": "https://wallstreetcn.com/livenews/3128236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "01时11分"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -573,474 +104,57 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "01时11分"
         },
         {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "快手：投资者同意向AI模型可灵注资20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3128128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "全球AI疯狂重创千元机市场",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "01时11分"
         },
         {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850564&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/Xy_H9tvf-pSqtepf7NNpf.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260702233050949800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
-          "url": "https://wallstreetcn.com/livenews/3128427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3128176",
-          "source": "华尔街见闻-快讯",
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "哈塞特称在与所有AI公司对话，探讨如何分享收益",
-          "url": "https://wallstreetcn.com/livenews/3128125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时11分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
           "url": "https://wallstreetcn.com/livenews/3128769",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "微软高管：微软可以帮助企业改进AI使用方式",
-          "url": "https://wallstreetcn.com/livenews/3128153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "Meta回应鼠标追踪软件审查结果：员工数据未被用于AI训练",
-          "url": "https://flash.jin10.com/detail/20260703051247176800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "微软动员6000名员工，助客户采用AI技术",
-          "url": "https://wallstreetcn.com/livenews/3128151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "报道：AI基建遇阻，黑石旗下QTS放弃美国弗吉尼亚数据中心建设项目",
-          "url": "https://wallstreetcn.com/livenews/3128197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "AI拍剧成常态 人真的会被取代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E6%8B%8D%E5%89%A7%E6%88%90%E5%B8%B8%E6%80%81+%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%AB%E5%8F%96%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "报道：特斯拉将雇员的AI开销控制在最高每周200美元",
-          "url": "https://wallstreetcn.com/livenews/3128196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "分析师：Meta承认AI进展未达预期，但并非“举白旗”",
-          "url": "https://flash.jin10.com/detail/20260703033634561800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "传特斯拉控AI成本 员工每周不得超过200美元",
-          "url": "https://flash.jin10.com/detail/20260703032727582800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
-          "url": "https://flash.jin10.com/detail/20260703124717082800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "阿里达摩院：AI智能体发现4种全新超导材料，已获实验验证",
-          "url": "https://wallstreetcn.com/livenews/3128407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3128759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "樊登谈AI时代孩子要怎么学",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E7%99%BB%E8%B0%88AI%E6%97%B6%E4%BB%A3%E5%AD%A9%E5%AD%90%E8%A6%81%E6%80%8E%E4%B9%88%E5%AD%A6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
-          "url": "https://wallstreetcn.com/livenews/3128190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "据The Information：特斯拉(TSLA.O)将员工AI支出上限设定为每周200美元。",
-          "url": "https://flash.jin10.com/detail/20260703031430269800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "杰夫·贝索斯家族办公室在6月领投五家AI初创企业",
-          "url": "https://wallstreetcn.com/livenews/3128312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
-          "url": "https://wallstreetcn.com/livenews/3128242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普重申：伊朗将从美国购买食品",
-          "url": "https://flash.jin10.com/detail/20260703060408656800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
-        },
-        {
-          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
-          "url": "https://flash.jin10.com/detail/20260703055024068800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时55分]"
-        },
-        {
-          "title": "美国总统特朗普：重申计划动用伊朗资金用于购买（美国）食品。",
-          "url": "https://flash.jin10.com/detail/20260703054732236800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）我认为他们几乎同意了我们所需的一切。",
-          "url": "https://flash.jin10.com/detail/20260703054432548800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗局势关乎去核化，而非战争。美国的做法仍然专注于消除核威胁。",
-          "url": "https://flash.jin10.com/detail/20260703054407301800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗没有海军，没有空军。",
-          "url": "https://flash.jin10.com/detail/20260703054317374800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美国总统特朗普：认为与新的伊朗领导层相处融洽。",
-          "url": "https://flash.jin10.com/detail/20260703054312787800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时56分"
+          "time_info": "01时11分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "阿里云发布Qoder企业版",
-          "url": "https://wallstreetcn.com/livenews/3128551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "世界气象组织：未来数月极端天气可能性加大",
-          "url": "https://wallstreetcn.com/livenews/3128728",
-          "source": "华尔街见闻-快讯",
+          "title": "世界卫生组织：截至7月1日，刚果民主共和国累计报告确诊病例1460例，其中包括452例死亡病例。",
+          "url": "https://flash.jin10.com/detail/20260704003055101800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "特斯拉推出Model Y长轴距版，现已在美国上市。",
-          "url": "https://wallstreetcn.com/livenews/3128179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "国际刑警组织就摩纳哥爆炸案通缉一名乌克兰人",
-          "url": "https://flash.jin10.com/detail/20260703185714671800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "世卫组织：乌干达出现马尔堡病毒感染病例",
-          "url": "https://wallstreetcn.com/livenews/3128108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "教育部：不得以“夏令营”等名义变相组织考试",
-          "url": "https://wallstreetcn.com/livenews/3128399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "北京市经济和信息化局与联合国工业发展组织签署联合声明",
-          "url": "https://flash.jin10.com/detail/20260703204633868800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "证监会举行“两优一先”表彰大会暨学习教育专题党课报告会",
-          "url": "https://wallstreetcn.com/livenews/3128710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "赤峰黄金：近期，公司黄金产品的市场价格波动较大，预计将对公司经营业绩产生一定影响。",
-          "url": "https://wallstreetcn.com/livenews/3128645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "01时11分"
         }
       ]
     }
