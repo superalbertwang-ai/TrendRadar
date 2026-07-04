@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T13:35:18.430775+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-07-04T16:19:05.389416+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -120,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 13时35分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 16时19分]"
         },
         {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
@@ -238,6 +238,29 @@
           "time_info": "[05时55分 ~ 07时55分]"
         },
         {
+          "title": "豆包、千问：将下线智能体功能",
+          "url": "https://wallstreetcn.com/articles/3776193",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 16时19分]"
+        },
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 16时19分]"
+        },
+        {
           "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
           "url": "https://flash.jin10.com/detail/20260704084017236800",
           "source": "金十数据",
@@ -273,26 +296,15 @@
           "time_info": "[02时59分 ~ 04时11分]"
         },
         {
-          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
-          "url": "https://wallstreetcn.com/articles/3776170",
-          "source": "华尔街见闻",
+          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
+          "url": "https://www.cls.cn/detail/2417079",
+          "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时35分"
-        },
-        {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "time_info": "16时19分"
         },
         {
           "title": "韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心",
@@ -312,7 +324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -323,9 +335,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://wallstreetcn.com/livenews/3128902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "如何看待AI模型蒸馏",
@@ -345,7 +368,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -356,7 +379,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -375,7 +398,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "世卫组织：刚果（金）埃博拉疫情仍在扩散",
@@ -389,6 +412,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 05时55分]"
+        },
+        {
+          "title": "三部门发文规范国际科技组织成立登记",
+          "url": "https://wallstreetcn.com/livenews/3128918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "世界卫生组织：截至7月1日，刚果民主共和国累计报告确诊病例1460例，其中包括452例死亡病例。",
@@ -423,11 +457,12 @@
           "url": "https://flash.jin10.com/detail/20260704124044168800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时35分 ~ 16时19分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -436,7 +471,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         },
@@ -447,7 +482,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
         }
