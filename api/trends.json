@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:55:25.008968+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-07-05T02:51:27.223224+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -60,8 +60,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
+        },
+        {
+          "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517511",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
@@ -74,24 +87,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时55分]"
-        },
-        {
-          "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517511",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -101,19 +102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
-        },
-        {
-          "title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织",
-          "url": "https://flash.jin10.com/detail/20260705011249100800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -123,8 +113,31 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
+        },
+        {
+          "title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织",
+          "url": "https://flash.jin10.com/detail/20260705011249100800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "time_info": "[01时55分 ~ 02时51分]"
+        },
+        {
+          "title": "身着白人至上主义组织服饰的示威者在国会山抗议",
+          "url": "https://flash.jin10.com/detail/20260705022418945800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时51分"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -141,7 +154,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -151,30 +164,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 02时51分]"
         },
         {
           "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
           "url": "https://flash.jin10.com/detail/20260705011006115800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时51分]"
         },
         {
           "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
           "url": "https://flash.jin10.com/detail/20260705005401003800",
           "source": "金十数据",
           "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时51分]"
+        },
+        {
+          "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
+          "url": "https://flash.jin10.com/detail/20260705015152155800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "02时51分"
         }
       ]
     },
@@ -187,11 +213,12 @@
           "url": "https://www.toutiao.com/trending/7658415549945249802/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时51分]"
         }
       ]
     }
