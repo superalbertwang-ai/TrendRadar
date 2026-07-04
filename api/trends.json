@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T06:46:21.448593+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-07-05T07:52:24.413213+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "豆包、千问：将下线智能体功能",
@@ -15,19 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -37,20 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -59,6 +49,17 @@
           "ranks": [
             4,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -90,6 +91,40 @@
           "time_info": "[00时50分 ~ 01时55分]"
         },
         {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时52分]"
+        },
+        {
+          "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776186",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
           "url": "https://flash.jin10.com/detail/20260705041238253800",
           "source": "金十数据",
@@ -99,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
-        },
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
         }
       ]
     },
@@ -125,8 +149,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -136,8 +160,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
+        },
+        {
+          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
+          "url": "https://wallstreetcn.com/articles/3776197",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时47分 ~ 07时52分]"
         },
         {
           "title": "伊朗情报部门称已消灭四个与美国和以色列有关联的武装组织",
@@ -162,17 +198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 04时05分]"
-        },
-        {
-          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
-          "url": "https://wallstreetcn.com/articles/3776197",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时47分 ~ 06时46分]"
         },
         {
           "title": "美国副总统万斯：英国历届领导人未能履职，期待下任首相带来变革",
@@ -210,8 +235,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 07时52分]"
         },
         {
           "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
