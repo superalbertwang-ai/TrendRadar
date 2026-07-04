@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T09:28:54.344163+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-04T13:35:18.430775+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -23,6 +23,21 @@
           "time_info": "[01时10分 ~ 09时28分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 13时35分]"
+        },
+        {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
           "url": "https://wallstreetcn.com/articles/3776101",
           "source": "华尔街见闻",
@@ -33,20 +48,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时11分 ~ 07时55分]"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 09时28分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -109,6 +110,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时11分 ~ 06时53分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 13时35分]"
         },
         {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
@@ -176,18 +189,6 @@
           "time_info": "[05时55分 ~ 09时28分]"
         },
         {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 09时28分]"
-        },
-        {
           "title": "韩国AI大跃进",
           "url": "https://wallstreetcn.com/articles/3776121",
           "source": "华尔街见闻",
@@ -243,9 +244,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 13时35分]"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -260,15 +273,26 @@
           "time_info": "[02时59分 ~ 04时11分]"
         },
         {
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://wallstreetcn.com/articles/3776134",
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时28分"
+          "time_info": "13时35分"
+        },
+        {
+          "title": "豆包、千问：将下线智能体功能",
+          "url": "https://wallstreetcn.com/articles/3776193",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心",
@@ -282,6 +306,28 @@
           "time_info": "07时55分"
         },
         {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
+          "url": "https://wallstreetcn.com/livenews/3128878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -291,6 +337,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "千问：拟人化互动类智能体及用户自建智能体功能将于7月10日正式下线",
+          "url": "https://flash.jin10.com/detail/20260704102911165800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "行业最直观的风向标闪烁红灯，词元经济学动摇AI热潮叙事",
@@ -343,6 +411,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
+          "url": "https://flash.jin10.com/detail/20260704124044168800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
+          "url": "https://flash.jin10.com/detail/20260704113342386800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        },
+        {
+          "title": "特朗普：伊朗非常想达成协议。 因葬礼给伊朗放了一周假。",
+          "url": "https://wallstreetcn.com/livenews/3128882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         }
       ]
     },
