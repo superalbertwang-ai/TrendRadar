@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T09:48:15.500708+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-07-06T14:16:18.985010+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 14时16分]"
         },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -27,11 +27,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 14时16分]"
         },
         {
           "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
@@ -52,11 +53,28 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 14时16分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9,
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时01分 ~ 09时48分]"
+          "time_info": "[01时03分 ~ 14时16分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -81,21 +99,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 07时55分]"
-        },
-        {
-          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2417353",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 09时48分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -124,6 +127,28 @@
           "time_info": "[05时48分 ~ 07时55分]"
         },
         {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "研究人员借助AI技术发现两种新型超导体",
+          "url": "https://wallstreetcn.com/livenews/3129164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
           "url": "https://flash.jin10.com/detail/20260705225805600800",
           "source": "金十数据",
@@ -133,6 +158,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "摩根大通维持腾讯“增持”评级 微信AI Agent降低风险溢价",
+          "url": "https://flash.jin10.com/detail/20260706132727676800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "金山办公回应“WPS滥收费、背刺用户” ：言论不实。免费基础功能绝不收费，少数AI办公智能体等高成本服务，会独立计费，用户按需购买。",
+          "url": "https://wallstreetcn.com/livenews/3129154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
@@ -159,8 +206,69 @@
       ]
     },
     {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "url": "https://www.toutiao.com/trending/7659275962617433619/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "海军成功组织潜射战略导弹试射",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%B7%E5%86%9B%E6%88%90%E5%8A%9F%E7%BB%84%E7%BB%87%E6%BD%9C%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "海军成功组织潜射战略导弹试射",
+          "url": "https://www.douyin.com/hot/2560439",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "中国海军成功组织潜射战略导弹试射",
+          "url": "https://wallstreetcn.com/livenews/3129169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "你觉得 Vibe Coding 是昙花一现还是真的在改变编程这件事？",
+          "url": "https://www.zhihu.com/question/2056791474608366568",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -175,6 +283,18 @@
           "time_info": "[00时01分 ~ 09时48分]"
         },
         {
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 14时16分]"
+        },
+        {
           "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
           "url": "https://flash.jin10.com/detail/20260706001649875800",
           "source": "金十数据",
@@ -187,15 +307,15 @@
           "time_info": "[01时03分 ~ 02时04分]"
         },
         {
-          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
-          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
-          "source": "凤凰网",
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "14时16分"
         }
       ]
     }
