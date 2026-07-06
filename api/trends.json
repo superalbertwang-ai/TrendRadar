@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T03:29:35.351599+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-07-07T05:20:12.992298+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -26,8 +26,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -48,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -65,17 +76,6 @@
           "time_info": "[01时34分 ~ 03时29分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时29分]"
-        },
-        {
           "title": "AI预测葡萄牙vs西班牙赛果",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%E8%B5%9B%E6%9E%9C",
           "source": "bilibili 热搜",
@@ -85,6 +85,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "xAI将旗下X账号更名为SpaceXAI。",
+          "url": "https://flash.jin10.com/detail/20260707042933753800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "黑石出售 3 处数据中心，又叫停全球最大数据中心建设，这对「AI 经济」影响几何？",
@@ -119,11 +141,12 @@
           "url": "https://www.zhihu.com/question/2057451748705448806",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "中国海军成功组织潜射战略导弹试射",
@@ -134,25 +157,26 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时20分]"
         },
         {
           "title": "海军成功组织潜射战略导弹试射",
           "url": "https://www.douyin.com/hot/2560439",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时20分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
@@ -161,9 +185,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时20分]"
         },
         {
           "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
@@ -175,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
+          "url": "https://wallstreetcn.com/livenews/3129533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         }
       ]
     },
@@ -189,7 +224,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         }
