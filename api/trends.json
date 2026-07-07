@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T14:36:56.483547+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-07-07T18:18:35.194098+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
@@ -47,6 +47,19 @@
           "time_info": "[08时02分 ~ 14时36分]"
         },
         {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 18时18分]"
+        },
+        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -56,6 +69,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时34分 ~ 05时20分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时18分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时18分]"
+        },
+        {
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 18时18分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -82,18 +131,6 @@
           "time_info": "[05时20分 ~ 08时02分]"
         },
         {
-          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
-          "url": "https://wallstreetcn.com/articles/3776319",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时36分]"
-        },
-        {
           "title": "英国监管机构审查凸显金融服务AI风险",
           "url": "https://wallstreetcn.com/livenews/3129510",
           "source": "华尔街见闻-快讯",
@@ -117,15 +154,15 @@
           "time_info": "10时46分"
         },
         {
-          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
-          "url": "https://wallstreetcn.com/articles/3776296",
-          "source": "华尔街见闻",
+          "title": "美国AI巨头打起价格战 争夺初创企业客户",
+          "url": "https://flash.jin10.com/detail/20260707181650615800",
+          "source": "金十数据",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 14时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
@@ -150,6 +187,18 @@
           "time_info": "08时02分"
         },
         {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 18时18分]"
+        },
+        {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
           "url": "https://wallstreetcn.com/articles/3776266",
           "source": "华尔街见闻",
@@ -162,26 +211,15 @@
           "time_info": "[08时02分 ~ 10时46分]"
         },
         {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "18时18分"
         },
         {
           "title": "英伟达回应AI服务器架构延后的报道，称：公司路线图保持不变",
@@ -207,15 +245,37 @@
           "time_info": "01时34分"
         },
         {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
-          "source": "百度热搜",
+          "title": "极兔速递(01519.HK)宣布已正式接入支付宝AI生态。",
+          "url": "https://flash.jin10.com/detail/20260707181236177800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "18时18分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "连美国政府都在担忧AI泡沫？财政部一份报告草案揭秘“隐忧”……",
+          "url": "https://www.cls.cn/detail/2418646",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
@@ -251,13 +311,24 @@
           "time_info": "08时02分"
         },
         {
+          "title": "烽火通信旗下长江计算中标中国邮储银行AI算力集群采购项目",
+          "url": "https://wallstreetcn.com/livenews/3129871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "DeepSeek面试",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -290,7 +361,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -298,7 +369,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国海军成功组织潜射战略导弹试射，有哪些亮点？释放哪些信号？",
@@ -340,6 +411,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时29分 ~ 06时59分]"
+        },
+        {
+          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/2057806206094284336",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
