@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T18:06:03.210557+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-07-08T20:13:20.700430+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -62,6 +62,20 @@
           "time_info": "[07时45分 ~ 15时22分]"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 20时13分]"
+        },
+        {
           "title": "SpaceX申请部署10万颗卫星 建立面向AI时代的空基通信底座",
           "url": "https://www.cls.cn/detail/2419748",
           "source": "财联社热门",
@@ -72,19 +86,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时20分 ~ 15时22分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 18时06分]"
         },
         {
           "title": "DeepSeek被曝自研芯片",
@@ -146,6 +147,18 @@
           "time_info": "[18时05分 ~ 18时06分]"
         },
         {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时13分]"
+        },
+        {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
           "url": "https://wallstreetcn.com/livenews/3130132",
           "source": "华尔街见闻-快讯",
@@ -155,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 20时13分]"
         },
         {
           "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
@@ -235,26 +259,15 @@
           "time_info": "12时57分"
         },
         {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时13分"
         },
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
@@ -334,6 +347,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "告别“无差别上涨”，AI行情进入下半场",
           "url": "https://wallstreetcn.com/livenews/3130209",
           "source": "华尔街见闻-快讯",
@@ -411,6 +435,17 @@
           "time_info": "12时57分"
         },
         {
+          "title": "张雨霏发视频AI模仿哈兰德",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E8%A7%86%E9%A2%91AI%E6%A8%A1%E4%BB%BF%E5%93%88%E5%85%B0%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
           "url": "https://wallstreetcn.com/livenews/3130107",
           "source": "华尔街见闻-快讯",
@@ -439,7 +474,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
         },
@@ -501,81 +536,21 @@
       ]
     },
     {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 6,
+      "keyword_group": "特朗普",
+      "match_count": 8,
       "titles": [
         {
-          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/2057806206094284336",
-          "source": "知乎",
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时45分]"
-        },
-        {
-          "title": "工信部发布ClaudeCode风险提示",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83ClaudeCode%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
+            4,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时05分 ~ 18时06分]"
+          "time_info": "[18时06分 ~ 20时13分]"
         },
-        {
-          "title": "据半岛电视台：黎巴嫩外交消息人士表示，以色列威胁将在美国法院提起诉讼，指控黎巴嫩窝藏恐怖组织。",
-          "url": "https://flash.jin10.com/detail/20260708015917744800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "国际海事组织秘书长呼吁各方保持最大克制，避免局势升级。",
-          "url": "https://flash.jin10.com/detail/20260708173725142800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "国际海事组织秘书长谴责霍尔木兹海峡新一轮针对船只的袭击。",
-          "url": "https://flash.jin10.com/detail/20260708173629135800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时06分"
-        },
-        {
-          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
-          "url": "https://wallstreetcn.com/livenews/3130075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
         {
           "title": "特朗普批准了对伊朗的打击计划，特朗普在土耳其期间下令打击伊朗。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3130232",
@@ -599,15 +574,26 @@
           "time_info": "07时45分"
         },
         {
-          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
-          "url": "https://wallstreetcn.com/articles/3776459",
-          "source": "华尔街见闻",
+          "title": "消息人士称，特朗普在北约领导人峰会期间未再重复对西班牙的批评，未再重复终止与伊朗临时协议的说法，未提及格陵兰。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3130675",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "20时13分"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "特朗普发布“美军打击伊朗”视频",
@@ -630,6 +616,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "知情人士：特朗普峰会期间未再提及终止伊朗协议",
+          "url": "https://flash.jin10.com/detail/20260708195059294800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/2057806206094284336",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 07时45分]"
+        },
+        {
+          "title": "工信部发布ClaudeCode风险提示",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83ClaudeCode%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 20时13分]"
+        },
+        {
+          "title": "据半岛电视台：黎巴嫩外交消息人士表示，以色列威胁将在美国法院提起诉讼，指控黎巴嫩窝藏恐怖组织。",
+          "url": "https://flash.jin10.com/detail/20260708015917744800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "国际海事组织秘书长呼吁各方保持最大克制，避免局势升级。",
+          "url": "https://flash.jin10.com/detail/20260708173725142800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "国际海事组织秘书长谴责霍尔木兹海峡新一轮针对船只的袭击。",
+          "url": "https://flash.jin10.com/detail/20260708173629135800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
+          "url": "https://wallstreetcn.com/livenews/3130075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
