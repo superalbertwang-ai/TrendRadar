@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T15:22:55.350760+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-07-08T18:06:03.210557+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -74,6 +74,19 @@
           "time_info": "[09时20分 ~ 15时22分]"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 18时06分]"
+        },
+        {
           "title": "DeepSeek被曝自研芯片",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
@@ -85,18 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 09时20分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 15时22分]"
         },
         {
           "title": "Anthropic：Claude CoWork投放到移动端和网页。",
@@ -133,6 +134,18 @@
           "time_info": "[00时17分 ~ 02时55分]"
         },
         {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
           "url": "https://wallstreetcn.com/livenews/3130132",
           "source": "华尔街见闻-快讯",
@@ -165,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 09时20分]"
+        },
+        {
+          "title": "gemini为了偷懒不择手段",
+          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
         },
         {
           "title": "AI沉浸式亲历四渡赤水",
@@ -209,6 +233,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
         },
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
@@ -305,7 +351,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -338,7 +384,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -387,6 +433,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "中兴全球首款AI智能体手机将亮相2026WAIC",
+          "url": "https://wallstreetcn.com/livenews/3130543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "前华为天才少年吐槽DeepSeek面试",
           "url": "https://www.toutiao.com/trending/7658530038409969718/",
           "source": "今日头条",
@@ -426,7 +483,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -444,8 +501,80 @@
       ]
     },
     {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/2057806206094284336",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 07时45分]"
+        },
+        {
+          "title": "工信部发布ClaudeCode风险提示",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83ClaudeCode%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 18时06分]"
+        },
+        {
+          "title": "据半岛电视台：黎巴嫩外交消息人士表示，以色列威胁将在美国法院提起诉讼，指控黎巴嫩窝藏恐怖组织。",
+          "url": "https://flash.jin10.com/detail/20260708015917744800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时55分"
+        },
+        {
+          "title": "国际海事组织秘书长呼吁各方保持最大克制，避免局势升级。",
+          "url": "https://flash.jin10.com/detail/20260708173725142800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "国际海事组织秘书长谴责霍尔木兹海峡新一轮针对船只的袭击。",
+          "url": "https://flash.jin10.com/detail/20260708173629135800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
+          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
+          "url": "https://wallstreetcn.com/livenews/3130075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普批准了对伊朗的打击计划，特朗普在土耳其期间下令打击伊朗。（AXIOS）",
@@ -470,6 +599,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时06分"
+        },
+        {
           "title": "特朗普发布“美军打击伊朗”视频",
           "url": "https://wallstreetcn.com/livenews/3130364",
           "source": "华尔街见闻-快讯",
@@ -490,45 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/2057806206094284336",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 07时45分]"
-        },
-        {
-          "title": "据半岛电视台：黎巴嫩外交消息人士表示，以色列威胁将在美国法院提起诉讼，指控黎巴嫩窝藏恐怖组织。",
-          "url": "https://flash.jin10.com/detail/20260708015917744800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
-        },
-        {
-          "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
-          "url": "https://wallstreetcn.com/livenews/3130075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
         }
       ]
     }
