@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T19:53:29.695086+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-07-09T22:24:41.369993+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 40,
+      "match_count": 53,
       "titles": [
         {
           "title": "日本高中生携AI爆破被捕",
@@ -18,8 +18,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 19时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 22时24分]"
         },
         {
           "title": "日本合体搞AI试图突围中美",
@@ -76,6 +76,18 @@
           "time_info": "[01时17分 ~ 07时59分]"
         },
         {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 22时24分]"
+        },
+        {
           "title": "高盛重磅发声：做多中国AI价值链",
           "url": "https://www.cls.cn/detail/2421215",
           "source": "财联社热门",
@@ -116,18 +128,6 @@
           "time_info": "[13时55分 ~ 19时53分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 19时53分]"
-        },
-        {
           "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
@@ -139,6 +139,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 04时22分]"
+        },
+        {
+          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
+          "url": "https://wallstreetcn.com/articles/3776515",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 22时24分]"
+        },
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 22时24分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman：OpenAI最新AI模型在智能体编程中Token效率提升54%。 与（美国）政府在AI问题上“更加平稳地”推进。 与（特朗普）政府对话之后，本公司做出了“许许多多的改变”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -163,16 +197,15 @@
           "time_info": "13时55分"
         },
         {
-          "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
-          "url": "https://wallstreetcn.com/articles/3776515",
-          "source": "华尔街见闻",
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 19时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
@@ -186,15 +219,26 @@
           "time_info": "01时17分"
         },
         {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
+          "title": "市场消息：《纽约时报》申请对OpenAI实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260709220607288800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Meta面向开发者发布付费AI模型",
+          "url": "https://wallstreetcn.com/livenews/3131424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "OpenAI：推出GPT-LIVE。",
@@ -281,7 +325,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -297,6 +341,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
           "url": "https://www.cls.cn/detail/2421094",
           "source": "财联社热门",
@@ -306,6 +361,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "Meta：Muse Spark 1.1 现已上线，支持思考模式，可在Meta AI应用及Meta.ai网站使用。",
+          "url": "https://flash.jin10.com/detail/20260709220108877800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "Meta首次推出付费AI开发者模型",
+          "url": "https://flash.jin10.com/detail/20260709220046240800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "日本央行：多个地区表示，出口和产出急剧下降的风险已有所减弱。 企业维持了强劲的资本支出计划，因全球AI需求扩大，芯片设备和芯片订单有所增加。 包括中小企业在内的企业今年提供了较高的工资涨幅，尽管也有部分企业表示持续加薪可能较为困难。 企业继续通过提价来转嫁不断上升的劳动力和流通成本。 与中东冲突相关的原材料成本上涨的转嫁速度比过去更快。 企业正在考虑自夏季起上调食品和日用品价格。 中小企业难以将上涨的投入成本转嫁出去，这正在挤压其利润空间。",
@@ -325,7 +402,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -347,7 +424,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -358,7 +435,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -402,9 +479,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "苹果洽谈AI公司PrismML 拟将270亿参数大模型部署至iPhone",
+          "url": "https://wallstreetcn.com/livenews/3131410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "星巴克借助AI减少对微软、IBM软件的依赖",
@@ -413,7 +501,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -427,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.08%，标普500指数涨0.2%，纳指涨0.2%。明星科技股多数反弹，闪迪、美光科技涨超6%，康宁涨超8%，迈威尔科技涨超6%。META下跌4.3%，创7月2日以来最大跌幅；IBM下跌5.8%，微软下跌2.6%，此前报道称星巴克借助AI减少对微软、IBM软件的依赖；百事下跌4.6%，创2025年4月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3131408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "Meta测试“超级感知”AI眼镜 “全视全听”挑战隐私边界",
@@ -471,6 +570,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：基准情景预计AI将得到更广泛的应用，从而提高生产率。 我们将使通胀回到2%。 关键是要关注潜在通胀因素，而不仅仅是某一特定指标。 政府的技术性调整可以更好地协调PCE通胀与CPI之间的差异。 美联储政策仍需依赖数据。 劳动力市场非常稳定。 对于长期中性利率仍存在不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3131402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "一条AI短片演绎杨戬劈山",
+          "url": "https://www.douyin.com/hot/2564959",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "阳光电源发布全自研SST固态变压器，800V直流架构切入AIDC赛道",
+          "url": "https://wallstreetcn.com/livenews/3131401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：通胀仍然“过高”。 市场仍预计油价将在未来6至12个月内回落，这一看法是合理的。 货币政策关注能源价格如何影响通胀。 AI投资是通胀的一个驱动因素。 美联储正在积极讨论围绕通胀的各种情景。 美联储会议纪要捕捉到了一种“集体应对机制”。 从长远来看，AI投资将是一次积极的供给冲击。",
+          "url": "https://wallstreetcn.com/livenews/3131400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -478,6 +621,23 @@
       "keyword_group": "特朗普",
       "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            14,
+            9,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时03分 ~ 22时24分]"
+        },
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
           "url": "https://wallstreetcn.com/articles/3776459",
@@ -492,20 +652,18 @@
           "time_info": "[01时17分 ~ 13时55分]"
         },
         {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            16,
-            15,
-            14,
-            9,
-            6
+            5,
+            3,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时03分 ~ 19时53分]"
+          "appearance_count": 7,
+          "time_info": "[05时58分 ~ 22时24分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -522,18 +680,17 @@
           "time_info": "[01时17分 ~ 09时56分]"
         },
         {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            3,
+            1,
             2,
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时58分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 22时24分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -545,19 +702,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 06时54分]"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 19时53分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
