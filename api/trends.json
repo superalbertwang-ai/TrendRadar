@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T17:15:18.130911+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-07-11T18:52:43.380619+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -49,11 +49,12 @@
             9,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时48分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[06时48分 ~ 18时52分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -87,8 +88,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时18分 ~ 18时52分]"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时18分 ~ 17时15分]"
+          "time_info": "[12时52分 ~ 18时52分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -103,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时50分 ~ 09时18分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 17时15分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -199,6 +201,18 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时52分]"
+        },
+        {
           "title": "无人机吊起2人神图系AI合成",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%8A%E8%B5%B72%E4%BA%BA%E7%A5%9E%E5%9B%BE%E7%B3%BBAI%E5%90%88%E6%88%90%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -227,20 +241,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时52分"
         },
         {
           "title": "Grok4.5 和 GPT5.6 相继推出，能否改变 Anthropic 独大的局面？",
@@ -339,6 +353,18 @@
           "time_info": "[02时17分 ~ 07时46分]"
         },
         {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 18时52分]"
+        },
+        {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132269",
           "source": "华尔街见闻-快讯",
@@ -349,18 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时46分 ~ 09时18分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 17时15分]"
         },
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
