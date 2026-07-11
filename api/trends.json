@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-11T20:46:59.319270+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-07-11T22:18:19.304745+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时48分 ~ 22时18分]"
+        },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
           "url": "https://wallstreetcn.com/articles/3776629",
@@ -25,22 +41,6 @@
           "time_info": "[00时14分 ~ 17时15分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时48分 ~ 20时46分]"
-        },
-        {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
@@ -57,6 +57,19 @@
           "time_info": "[00时14分 ~ 15时05分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 22时18分]"
+        },
+        {
           "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
           "url": "https://wallstreetcn.com/articles/3776665",
           "source": "华尔街见闻",
@@ -67,19 +80,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时18分 ~ 20时46分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 20时46分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -112,11 +112,12 @@
             12,
             10,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 22时18分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -131,6 +132,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时50分 ~ 09时18分]"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 22时18分]"
         },
         {
           "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
@@ -154,17 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 02时17分]"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 20时46分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
@@ -259,6 +260,17 @@
           "time_info": "17时15分"
         },
         {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "Grok4.5 和 GPT5.6 相继推出，能否改变 Anthropic 独大的局面？",
           "url": "https://www.zhihu.com/question/2058884474251777528",
           "source": "知乎",
@@ -268,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "全球主权财富基金加大对AI投资",
+          "url": "https://flash.jin10.com/detail/20260711213544573800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "《功夫女足》上映 AI预测总票房超10亿",
@@ -342,6 +365,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时05分 ~ 22时18分]"
+        },
+        {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
           "url": "https://www.toutiao.com/trending/7660909473094962730/",
           "source": "今日头条",
@@ -353,18 +389,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时17分 ~ 07时46分]"
-        },
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时05分 ~ 20时46分]"
         },
         {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
