@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T07:46:54.868758+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-07-11T09:18:37.182739+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -15,11 +15,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 07时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 09时18分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -29,11 +30,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 07时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 09时18分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -65,11 +67,37 @@
           "ranks": [
             8,
             12,
-            14
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时50分 ~ 09时18分]"
+        },
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时50分 ~ 07时46分]"
+          "time_info": "[06时48分 ~ 09时18分]"
+        },
+        {
+          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
+          "url": "https://wallstreetcn.com/livenews/3132268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时18分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -118,17 +146,6 @@
           "time_info": "06时48分"
         },
         {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
           "title": "欧洲央行Moulin：AI可能加剧通胀波动",
           "url": "https://wallstreetcn.com/livenews/3132205",
           "source": "华尔街见闻-快讯",
@@ -141,16 +158,48 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
+          "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
+          "url": "https://www.zhihu.com/question/2057634712668082970",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "Grok4.5 和 GPT5.6 相继推出，能否改变 Anthropic 独大的局面？",
+          "url": "https://www.zhihu.com/question/2058884474251777528",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "美联储半年度货币政策报告：美国劳动力市场大致稳定，生产率强劲。 由于移民放缓和人口结构转变，劳动力供给增长有所下降。 与人工智能（AI）相关的数据中心投资推动了强劲的工厂产出；美国的生产能力正以“稳健的步伐”提升。 2026年上半年，受中东冲突和美国关税的逆风影响，外国经济活动增长疲软，但部分被AI投资所抵消。 原本已经处于高位的通胀在春季进一步抬头。 高通胀在一定程度上反映了供给冲击。 通胀依然处于高位，主要受关税、中东战争相关因素以及AI的推动。 包括截尾均值在内的一些通胀指标有所下降。 尽管伊朗战争带来了较高的不确定性，经济活动仍以稳健的步伐扩张。 重申维持价格稳定的承诺。 准备动用一切工具来实现双重使命（实现充分就业+维持价格稳定）。",
@@ -189,7 +238,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普：伊朗要求继续谈判 美已同意",
@@ -209,11 +258,12 @@
           "url": "https://wallstreetcn.com/livenews/3132269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时18分]"
         },
         {
           "title": "美国总统特朗普：我在伊朗的暗杀名单上排第一已经很久了。",
@@ -236,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普称伊朗要求继续谈判",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "特朗普：我若遇刺 将对伊朗实施狂轰滥炸",
