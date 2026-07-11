@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T01:46:29.019428+08:00",
-  "total_titles_processed": 336,
+  "generated_at": "2026-07-12T02:43:01.251402+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时43分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,30 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时46分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时46分]"
-        },
-        {
-          "title": "重回AI一线？Meta单周大涨15%",
-          "url": "https://wallstreetcn.com/articles/3776692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时43分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -59,8 +37,41 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时43分]"
+        },
+        {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时43分]"
+        },
+        {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时43分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时46分]"
+          "time_info": "[02时42分 ~ 02时43分]"
         }
       ]
     },
@@ -76,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时46分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 02时43分]"
         }
       ]
     }
