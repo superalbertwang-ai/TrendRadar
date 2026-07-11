@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T18:52:43.380619+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-07-11T19:43:28.511713+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时48分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[06时48分 ~ 19时43分]"
+        },
+        {
+          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
+          "url": "https://wallstreetcn.com/articles/3776665",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 19时43分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -68,6 +80,19 @@
           "time_info": "[00时14分 ~ 07时46分]"
         },
         {
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 19时43分]"
+        },
+        {
           "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
@@ -78,31 +103,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 05时50分]"
-        },
-        {
-          "title": "高盛深度报告：谁将成为中国AI大模型行业的长期赢家？",
-          "url": "https://wallstreetcn.com/articles/3776665",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 18时52分]"
-        },
-        {
-          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
-          "url": "https://www.cls.cn/detail/2422869",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 18时52分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -129,6 +129,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时46分 ~ 09时18分]"
+        },
+        {
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 19时43分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -201,16 +214,15 @@
           "time_info": "[02时17分 ~ 04时13分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时15分 ~ 18时52分]"
+          "time_info": "[18时52分 ~ 19时43分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -244,17 +256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
-        },
-        {
-          "title": "无人机吊起2人神图系AI合成",
-          "url": "https://www.toutiao.com/trending/7660829419656888339/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "Grok4.5 和 GPT5.6 相继推出，能否改变 Anthropic 独大的局面？",
@@ -361,8 +362,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[15时05分 ~ 19时43分]"
         },
         {
           "title": "美国总统特朗普与沙特王储讨论伊朗问题。（Axios）",
