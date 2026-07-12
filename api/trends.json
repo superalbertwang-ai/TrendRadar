@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T04:01:26.785823+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-07-13T04:41:32.263269+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -72,8 +72,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时48分 ~ 04时41分]"
         },
         {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
@@ -82,11 +82,12 @@
           "ranks": [
             4,
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时48分 ~ 04时41分]"
         }
       ]
     },
@@ -102,8 +103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时41分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
