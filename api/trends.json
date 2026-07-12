@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:08:17.137043+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-07-12T20:48:25.553042+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 19时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 20时48分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 19时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 20时48分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -160,6 +161,19 @@
           "time_info": "[13时03分 ~ 15时56分]"
         },
         {
+          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
+          "url": "https://wallstreetcn.com/articles/3776720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 20时48分]"
+        },
+        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -171,16 +185,16 @@
           "time_info": "[03时59分 ~ 05时39分]"
         },
         {
-          "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
-          "url": "https://wallstreetcn.com/articles/3776720",
+          "title": "人口第一大国，被AI做空了",
+          "url": "https://wallstreetcn.com/articles/3776722",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时08分]"
+          "time_info": "[19时08分 ~ 20时48分]"
         },
         {
           "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特 AI需求与产能瓶颈致全球DRAM半数产能被大厂锁定",
@@ -192,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
-        },
-        {
-          "title": "人口第一大国，被AI做空了",
-          "url": "https://wallstreetcn.com/articles/3776722",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
         },
         {
           "title": "商业航天“DeepSeek时刻”到了吗",
@@ -259,6 +262,18 @@
           "time_info": "[09时21分 ~ 17时43分]"
         },
         {
+          "title": "一个海事咨询组织表示，尽管美伊相互攻击升级，伊朗宣布关闭霍尔木兹海峡，但周日该海峡的南部航道仍对航运开放。",
+          "url": "https://flash.jin10.com/detail/20260712182317910800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 20时48分]"
+        },
+        {
           "title": "特斯拉拆除Model S和X生产线",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8B%86%E9%99%A4Model%20S%E5%92%8CX%E7%94%9F%E4%BA%A7%E7%BA%BF&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -270,24 +285,13 @@
           "time_info": "[15时55分 ~ 15时56分]"
         },
         {
-          "title": "一个海事咨询组织表示，尽管美伊相互攻击升级，伊朗宣布关闭霍尔木兹海峡，但周日该海峡的南部航道仍对航运开放。",
-          "url": "https://flash.jin10.com/detail/20260712182317910800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
           "title": "香港展开亚太经合组织财政部长会议宣传工作",
           "url": "https://flash.jin10.com/detail/20260712180046903800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时08分"
         },
