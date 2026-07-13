@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:49:34.107261+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-07-13T21:57:10.149907+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -95,6 +95,21 @@
           "time_info": "[09时21分 ~ 19时49分]"
         },
         {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 21时57分]"
+        },
+        {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
           "url": "https://flash.jin10.com/detail/20260713010355573800",
           "source": "金十数据",
@@ -122,20 +137,6 @@
           "time_info": "[13时23分 ~ 19时49分]"
         },
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 19时49分]"
-        },
-        {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -146,6 +147,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时42分 ~ 19时49分]"
+        },
+        {
+          "title": "韩国品牌用肖战形象做AI广告",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%93%81%E7%89%8C%E7%94%A8%E8%82%96%E6%88%98%E5%BD%A2%E8%B1%A1%E5%81%9AAI%E5%B9%BF%E5%91%8A%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时49分 ~ 21时57分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "三星准备生产特斯拉AI5芯片",
@@ -165,7 +189,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -193,6 +217,29 @@
           "time_info": "[13时23分 ~ 16时42分]"
         },
         {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 21时57分]"
+        },
+        {
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
           "url": "https://wallstreetcn.com/livenews/3132618",
           "source": "华尔街见闻-快讯",
@@ -210,20 +257,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
         {
-          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
-          "url": "https://wallstreetcn.com/articles/3776779",
-          "source": "华尔街见闻",
+          "title": "如何看待 SpaceXAI 的 Grok Build 被曝默认静默上传完整 Git 仓库？",
+          "url": "https://www.zhihu.com/question/2059755445468902035",
+          "source": "知乎",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
@@ -259,24 +306,24 @@
           "time_info": "09时21分"
         },
         {
+          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2424933",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "白宫计划就AI电力成本达成自愿承诺。（路透）",
           "url": "https://wallstreetcn.com/livenews/3132855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "韩国品牌用肖战形象做AI广告",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%93%81%E7%89%8C%E7%94%A8%E8%82%96%E6%88%98%E5%BD%A2%E8%B1%A1%E5%81%9AAI%E5%B9%BF%E5%91%8A%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -290,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "英特尔将斥资50亿欧元扩建爱尔兰工厂，以保持在AI芯片竞赛中的竞争力",
+          "url": "https://wallstreetcn.com/livenews/3132915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "印度本土为何跑不出一家OpenAI",
@@ -317,7 +375,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -339,8 +397,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 19时49分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 21时57分]"
         },
         {
           "title": "曝特朗普登上伊朗复仇名单",
@@ -352,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普放话拟接管霍尔木兹海峡，索要巨额补偿，伊朗强硬回呛！",
+          "url": "https://flash.jin10.com/detail/20260713215044887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -387,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         }
       ]
     },
@@ -401,7 +481,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -412,7 +492,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -423,7 +503,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -434,7 +514,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         }
