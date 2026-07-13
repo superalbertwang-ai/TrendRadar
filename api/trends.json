@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T13:23:56.490988+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-07-13T16:42:01.617338+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 13时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 16时42分]"
         },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -81,6 +82,18 @@
           "time_info": "[01时48分 ~ 07时42分]"
         },
         {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 16时42分]"
+        },
+        {
           "title": "Claude：将把Claude Fable 5在所有付费套餐中的开放使用期限延长至7月19日，同时继续将Claude Code 的每周使用额度提高50%，这一政策也将持续至7月19日。",
           "url": "https://flash.jin10.com/detail/20260713010355573800",
           "source": "金十数据",
@@ -95,16 +108,29 @@
           "time_info": "[01时48分 ~ 04时41分]"
         },
         {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
+          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
+          "url": "https://www.cls.cn/detail/2424196",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "time_info": "[13时23分 ~ 16时42分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 16时42分]"
         },
         {
           "title": "三星准备生产特斯拉AI5芯片",
@@ -113,7 +139,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -124,41 +150,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
-          "url": "https://wallstreetcn.com/livenews/3132618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 13时23分]"
-        },
-        {
-          "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
-          "url": "https://www.cls.cn/detail/2424196",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -167,11 +159,56 @@
           "url": "https://www.cls.cn/detail/2424084",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 16时42分]"
+        },
+        {
+          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
+          "url": "https://wallstreetcn.com/livenews/3132618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "16时42分"
+        },
+        {
+          "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
+          "url": "https://www.cls.cn/detail/2424076",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "“加息噩梦”萦绕？高盛：AI或引爆美国通胀 存储暴涨是核心推手",
+          "url": "https://www.cls.cn/detail/2424017",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
@@ -191,7 +228,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -221,7 +258,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -243,8 +280,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 16时42分]"
+        },
+        {
+          "title": "曝特朗普登上伊朗复仇名单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%8D%E4%BB%87%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时21分 ~ 13时23分]"
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -269,6 +317,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时42分]"
+        },
+        {
+          "title": "一场国运级“豪赌”！伊朗拿霍尔木兹海峡跟特朗普死磕",
+          "url": "https://flash.jin10.com/detail/20260713163618119800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     }
