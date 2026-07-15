@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T04:58:43.563466+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-07-16T05:47:53.892678+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "国行苹果AI完成备案",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -54,30 +54,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -95,11 +97,35 @@
           "url": "https://flash.jin10.com/detail/20260716043259996800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
+        },
+        {
+          "title": "AirNow：美国纽约市空气质量指数现在为“中等”。",
+          "url": "https://wallstreetcn.com/livenews/3134622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时58分"
+          "time_info": "05时47分"
+        },
+        {
+          "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
+          "url": "https://flash.jin10.com/detail/20260716042723261800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -114,15 +140,15 @@
           "time_info": "[02时10分 ~ 04时01分]"
         },
         {
-          "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
-          "url": "https://flash.jin10.com/detail/20260716042723261800",
-          "source": "金十数据",
+          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
+          "url": "https://www.zhihu.com/question/2058593716542222509",
+          "source": "知乎",
           "ranks": [
-            6
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时47分]"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -147,15 +173,26 @@
           "time_info": "02时10分"
         },
         {
-          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
-          "url": "https://www.zhihu.com/question/2058593716542222509",
-          "source": "知乎",
+          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
+          "url": "https://wallstreetcn.com/livenews/3134609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时47分"
+        },
+        {
+          "title": "xAI：Grok Build现在开源",
+          "url": "https://wallstreetcn.com/livenews/3134605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时47分"
         },
         {
           "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？",
@@ -204,8 +241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -216,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -227,8 +264,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
+        },
+        {
+          "title": "特朗普：当伊朗局势稳定下来，油价将跌至55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3134597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。 会知道我们是和解，还是彻底解决。",
@@ -243,6 +292,18 @@
           "time_info": "[04时01分 ~ 04时58分]"
         },
         {
+          "title": "美国总统特朗普：很快将击败伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3134594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
+        },
+        {
           "title": "美国总统特朗普倾向于扩大在伊朗的军事行动，可能包括派遣地面部队。 特朗普在周二会议上讨论抢夺伊朗哈尔克岛（Kharg Island）的问题。 特朗普尚未做最终决定。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3134578",
           "source": "华尔街见闻-快讯",
@@ -253,6 +314,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时58分]"
+        },
+        {
+          "title": "美国总统特朗普：等伊朗局势稳定下来，油价将降至每桶55美元。",
+          "url": "https://flash.jin10.com/detail/20260716041210992800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们将很快被击败。",
+          "url": "https://flash.jin10.com/detail/20260716040637109800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
         },
         {
           "title": "美国总统特朗普宣称：伊朗希望会面。",
@@ -289,17 +374,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "特朗普：当伊朗局势稳定下来，油价将跌至55美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3134597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
           "title": "据华尔街日报：特朗普正考虑扩大对伊朗的军事行动，包括加强空袭、派地面部队控制霍尔木兹海峡附近岛屿及打击核相关设施，但尚未作出最终决定。",
           "url": "https://flash.jin10.com/detail/20260716033635016800",
           "source": "金十数据",
@@ -309,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国总统特朗普：很快将击败伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3134594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         },
         {
           "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
@@ -333,17 +396,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "美国总统特朗普：等伊朗局势稳定下来，油价将降至每桶55美元。",
-          "url": "https://flash.jin10.com/detail/20260716041210992800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        },
-        {
           "title": "美国总统特朗普：伊朗想要会面。",
           "url": "https://flash.jin10.com/detail/20260716032117737800",
           "source": "金十数据",
@@ -353,17 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）他们将很快被击败。",
-          "url": "https://flash.jin10.com/detail/20260716040637109800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         }
       ]
     },
@@ -380,8 +421,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时47分]"
         },
         {
           "title": "亚马逊(AMZN.O)：戴夫·特雷德韦尔将接任AWS计算与机器学习服务负责人，戴夫·布朗离职。",
@@ -407,9 +448,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
         }
       ]
     }
