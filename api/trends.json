@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:48:11.307928+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-07-15T19:20:33.656785+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
@@ -139,11 +139,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -153,8 +154,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时20分]"
         },
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
@@ -163,22 +164,12 @@
           "ranks": [
             4,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 17时48分]"
-        },
-        {
-          "title": "苹果AI国行版过审",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E7%89%88%E8%BF%87%E5%AE%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 19时20分]"
         },
         {
           "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
@@ -186,11 +177,48 @@
           "source": "知乎",
           "ranks": [
             16,
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时06分 ~ 19时20分]"
+        },
+        {
+          "title": "苹果AI国行版过审",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E7%89%88%E8%BF%87%E5%AE%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时06分 ~ 17时48分]"
+          "time_info": "[17时47分 ~ 19时20分]"
+        },
+        {
+          "title": "苹果AI国行版已过审",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E7%89%88%E5%B7%B2%E8%BF%87%E5%AE%A1%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时20分]"
+        },
+        {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -211,9 +239,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "知网：对AI署名论文已做下架处理",
+          "url": "https://wallstreetcn.com/livenews/3134318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
@@ -233,7 +294,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -248,17 +309,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 15时06分]"
-        },
-        {
-          "title": "苹果AI国行版已过审",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAI%E5%9B%BD%E8%A1%8C%E7%89%88%E5%B7%B2%E8%BF%87%E5%AE%A1%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
@@ -308,17 +358,6 @@
           "time_info": "[17时47分 ~ 17时48分]"
         },
         {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
-        },
-        {
           "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
           "url": "https://flash.jin10.com/detail/20260715050136121800",
           "source": "金十数据",
@@ -341,6 +380,17 @@
           "time_info": "04时06分"
         },
         {
+          "title": "AI乐观情绪重燃，阿斯麦绩后涨7%，韩股涨到熔断、SK海力士涨约9%，油价维持80美元高位",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "OpenAI回应苹果诉讼：目前未发现任何证据支持相关指控。",
           "url": "https://flash.jin10.com/detail/20260715033822967800",
           "source": "金十数据",
@@ -361,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "OpenAI回应苹果诉讼：我们严肃对待这些指控。",
@@ -391,7 +452,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -418,6 +479,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "苹果AI在中国完成备案",
+          "url": "https://www.toutiao.com/trending/7662353903802974258/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
           "url": "https://www.cls.cn/detail/2426550",
           "source": "财联社热门",
@@ -435,7 +507,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -479,7 +551,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -523,7 +595,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -534,7 +606,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -578,7 +650,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -655,7 +727,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -666,7 +738,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         },
@@ -753,8 +825,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 19时20分]"
         },
         {
           "title": "特朗普：将继续打击伊朗",
@@ -1038,8 +1110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时38分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[12时38分 ~ 19时20分]"
         }
       ]
     },
