@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T09:17:36.718588+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-07-16T12:49:09.458679+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "国行苹果AI完成备案",
@@ -46,6 +46,20 @@
           "time_info": "[01时03分 ~ 09时17分]"
         },
         {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 12时49分]"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -60,19 +74,6 @@
           "time_info": "[01时03分 ~ 07时48分]"
         },
         {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 09时17分]"
-        },
-        {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
           "url": "https://www.zhihu.com/question/2053497628416030104",
           "source": "知乎",
@@ -85,6 +86,44 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时03分 ~ 05时47分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 12时49分]"
+        },
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 12时49分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 12时49分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -126,31 +165,6 @@
           "time_info": "[04时58分 ~ 06时47分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 09时17分]"
-        },
-        {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 09时17分]"
-        },
-        {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
           "url": "https://wallstreetcn.com/livenews/3134533",
           "source": "华尔街见闻-快讯",
@@ -173,6 +187,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "苹果、三星通过人工智能服务备案，知情人士：百度均系AI合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3134805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
           "url": "https://flash.jin10.com/detail/20260716042723261800",
           "source": "金十数据",
@@ -185,24 +210,24 @@
           "time_info": "[04时58分 ~ 05时47分]"
         },
         {
+          "title": "澳大利亚政府成立AI办公室",
+          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时49分]"
+        },
+        {
           "title": "AI会带来水资源危机吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%B0%B4%E8%B5%84%E6%BA%90%E5%8D%B1%E6%9C%BA%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -242,6 +267,28 @@
           "time_info": "[04时01分 ~ 05时47分]"
         },
         {
+          "title": "第一批用AI的受害者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
+          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2060770809543758786",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "据The Information：Anthropic正就在IPO前增加25亿美元的银行信贷额度进行谈判。",
           "url": "https://flash.jin10.com/detail/20260716070929444800",
           "source": "金十数据",
@@ -251,17 +298,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
-        },
-        {
-          "title": "澳大利亚政府成立AI办公室",
-          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
         },
         {
           "title": "英伟达：推出全新Jetson Thor计算机，以推进主流机器人技术和边缘人工智能（Edge AI）。 日本企业正利用NVIDIA Nemotron开源模型构建AI模型。 使用NVIDIA Nemotron的公司包括引能仕、NTT DATA和日立。 扩大与丰田的合作伙伴关系，以推进汽车、机器人和城市领域的具身智能。",
@@ -286,6 +322,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3134540",
           "source": "华尔街见闻-快讯",
@@ -297,6 +344,28 @@
           "time_info": "02时10分"
         },
         {
+          "title": "英伟达(NVDA.O)CEO黄仁勋：物理AI是下一场工业革命，而且可将在日本制造。",
+          "url": "https://flash.jin10.com/detail/20260716122337410800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
+          "url": "https://flash.jin10.com/detail/20260716121739470800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33584221",
           "source": "澎湃新闻",
@@ -306,6 +375,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "富士通：已开始与发那科、安川电机及川崎重工探索物理AI领域的机遇。",
+          "url": "https://flash.jin10.com/detail/20260716121422556800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "黄仁勋出席东京芯片供应商晚宴 强化AI供应链合作",
+          "url": "https://flash.jin10.com/detail/20260716121319416800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "美联储主席沃什：如果AI企业让投资者感到失望，资本可能会枯竭。",
@@ -333,7 +424,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -343,11 +434,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 09时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 12时49分]"
         },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -468,6 +560,17 @@
           "time_info": "[04时01分 ~ 04时58分]"
         },
         {
+          "title": "特朗普发文感谢伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们将看看是否能与他们达成协议。",
           "url": "https://flash.jin10.com/detail/20260716033730478800",
           "source": "金十数据",
@@ -548,7 +651,7 @@
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "暑假学习做饭成果展",
@@ -572,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "38 岁的中年妇女有种无力感，不求上进的老公、不爱学习的孩子、无能为力的自己，大家都有这个感觉嘛？",
+          "url": "https://www.zhihu.com/question/666689112",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 12时49分]"
         }
       ]
     },
