@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T03:56:04.858731+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-07-17T04:43:57.152597+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时04分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 04时43分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时43分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时43分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时43分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时43分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -73,19 +73,44 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时43分]"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时56分]"
+          "time_info": "[03时55分 ~ 04时43分]"
         },
         {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
           "url": "https://wallstreetcn.com/livenews/3135246",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时43分]"
+        },
+        {
+          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
+          "url": "https://flash.jin10.com/detail/20260717032122881800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时43分]"
         },
         {
           "title": "美联储洛根：长期来看对人工智能带来的生产率提升非常乐观。但目前AI投资需求强劲且真实存在，短期内会带来通胀压力。",
@@ -109,28 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时05分]"
-        },
-        {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 03时56分]"
-        },
-        {
-          "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
-          "url": "https://flash.jin10.com/detail/20260717032122881800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -205,7 +208,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         },
@@ -216,7 +219,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
         }
@@ -238,6 +241,18 @@
           "time_info": "02时05分"
         },
         {
+          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时43分]"
+        },
+        {
           "title": "白宫：特朗普总统与副总统万斯在伊朗冲突问题上意见一致。",
           "url": "https://flash.jin10.com/detail/20260717014735582800",
           "source": "金十数据",
@@ -247,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
-          "url": "https://wallstreetcn.com/livenews/3135237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
         },
         {
           "title": "白宫：特朗普总统不会允许伊朗在霍尔木兹海峡发动袭击而不付出代价。美国可以在任何时间、任何地点打击伊朗。",
@@ -285,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 03时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 04时43分]"
         },
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -296,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时43分]"
         }
       ]
     }
