@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T04:43:57.152597+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-07-17T05:55:21.162817+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时04分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[02时04分 ~ 05时55分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -61,8 +61,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "花钱就看这?功夫女足公开用AI",
@@ -73,8 +73,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时55分]"
         },
         {
           "title": "披着AI外衣的现实短片",
@@ -82,11 +82,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[03时55分 ~ 05时55分]"
         },
         {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时43分]"
+        },
+        {
+          "title": "奈飞：AI将让电影（质量）变得更好，但不会取代人类。",
+          "url": "https://wallstreetcn.com/livenews/3135289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
@@ -136,6 +148,17 @@
           "time_info": "[01时02分 ~ 02时05分]"
         },
         {
+          "title": "奈飞(NFLX.O)：AI将让电影（质量）变得更好，但不会取代人类。",
+          "url": "https://flash.jin10.com/detail/20260717052254473800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
           "url": "https://flash.jin10.com/detail/20260717001129809800",
           "source": "金十数据",
@@ -156,6 +179,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "xAI在Gro推出自动化功能。",
+          "url": "https://wallstreetcn.com/livenews/3135280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
@@ -180,6 +225,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "SpaceX AI：Grok 4.5定价为每百万输入Token收费2美元，每百万输出Token收费6美元。",
+          "url": "https://flash.jin10.com/detail/20260717050306861800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "SpaceX AI：Grok 4.5已上线Grok Build、Cursor和SpaceX AI Console。",
+          "url": "https://flash.jin10.com/detail/20260717050215606800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
           "url": "https://flash.jin10.com/detail/20260717000518313800",
           "source": "金十数据",
@@ -200,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
+          "url": "https://flash.jin10.com/detail/20260717045325097800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
@@ -289,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 05时55分]"
         },
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -300,8 +378,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时55分]"
         }
       ]
     }
