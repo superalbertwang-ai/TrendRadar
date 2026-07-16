@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T17:54:45.808415+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-07-16T19:27:15.090572+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI拿冠军,摄影比赛闹笑话",
@@ -86,8 +86,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 19时27分]"
+        },
+        {
+          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时47分 ~ 19时27分]"
         },
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -101,20 +116,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时17分 ~ 15时15分]"
-        },
-        {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时47分 ~ 17时54分]"
         },
         {
           "title": "Claude Code 源码泄露后 OpenCode 却没有一波大更新？是开源社区躺平了，还是另有隐情？",
@@ -140,6 +141,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 17时54分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            13,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 19时27分]"
         },
         {
           "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
@@ -193,17 +208,16 @@
           "time_info": "[04时58分 ~ 06时47分]"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
           "ranks": [
-            9,
-            13,
-            18
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时49分 ~ 17时54分]"
+          "time_info": "[17时54分 ~ 19时27分]"
         },
         {
           "title": "美联储理事库克：AI建设与供应冲击都在驱动通胀风险。",
@@ -237,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "Meta：将利用Meta AI在青少年讨论自残话题时向家长发出警报。 警报功能现已在美、英、澳、加上线。 年底前将向全球推出该警报功能。 就青少年安全功能向超过75位心理健康临床医生征求了反馈意见。 正在构建联系紧急服务的能力。",
+          "url": "https://wallstreetcn.com/livenews/3135043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "贝森特主持金融会议 聚焦地缘政治风险与AI主题",
@@ -283,6 +308,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时47分 ~ 06时47分]"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 19时27分]"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 19时27分]"
         },
         {
           "title": "xAI：Grok Build现在开源",
@@ -369,7 +418,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -407,15 +456,26 @@
           "time_info": "12时49分"
         },
         {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
+          "title": "礼来将以每股6.75美元现金加CVR收购AtaiBeckley",
+          "url": "https://wallstreetcn.com/livenews/3135027",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "19时27分"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌1.73%，端侧AI概念逆势爆发，医药板块持续活跃",
+          "url": "https://www.cls.cn/detail/2428155",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "OpenAI Codex工程师Tibo：今天早些时候，我们的活跃用户数就已经突破了900万。",
@@ -429,17 +489,6 @@
           "time_info": "12时49分"
         },
         {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
           "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33584221",
           "source": "澎湃新闻",
@@ -449,17 +498,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "富士通：已开始与发那科、安川电机及川崎重工探索物理AI领域的机遇。",
@@ -717,7 +755,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -757,6 +795,45 @@
       ]
     },
     {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为啥 vibe coding 会有一种让人上头的感觉，我没有？",
+          "url": "https://www.zhihu.com/question/2050258088964493712",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时47分]"
+        },
+        {
+          "title": "以色列国防军：在夜间，以色列国防军袭击并摧毁了四个哈马斯恐怖组织的武器储存设施。",
+          "url": "https://flash.jin10.com/detail/20260716170447331800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "VibeCoding专防家庭群破防",
+          "url": "https://s.weibo.com/weibo?q=VibeCoding%E4%B8%93%E9%98%B2%E5%AE%B6%E5%BA%AD%E7%BE%A4%E7%A0%B4%E9%98%B2&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "学习 教培 在线教育",
       "match_count": 3,
       "titles": [
@@ -782,8 +859,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 19时27分]"
         },
         {
           "title": "亚马逊(AMZN.O)：戴夫·特雷德韦尔将接任AWS计算与机器学习服务负责人，戴夫·布朗离职。",
@@ -799,30 +876,19 @@
       ]
     },
     {
-      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "为啥 vibe coding 会有一种让人上头的感觉，我没有？",
-          "url": "https://www.zhihu.com/question/2050258088964493712",
-          "source": "知乎",
+          "title": "兴业银锡：兴业黄金（香港）以每股0.053澳元的价格分两批认购TAT在澳大利亚证券交易所定向增发的普通股，认购股份总数占认购完成日其已发行股份的20%，合计交易金额约518.27万澳元。",
+          "url": "https://wallstreetcn.com/livenews/3135031",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 05时47分]"
-        },
-        {
-          "title": "以色列国防军：在夜间，以色列国防军袭击并摧毁了四个哈马斯恐怖组织的武器储存设施。",
-          "url": "https://flash.jin10.com/detail/20260716170447331800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时54分"
+          "time_info": "19时27分"
         }
       ]
     }
