@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T12:52:19.997881+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-07-17T15:10:29.234706+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -92,6 +92,30 @@
           "time_info": "[01时02分 ~ 05时55分]"
         },
         {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 15时10分]"
+        },
+        {
+          "title": "AI站稳产业圈顶流C位",
+          "url": "https://www.douyin.com/hot/2574370",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时10分]"
+        },
+        {
           "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
           "url": "https://www.cls.cn/detail/2428882",
           "source": "财联社热门",
@@ -102,6 +126,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 12时52分]"
+        },
+        {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 15时10分]"
         },
         {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
@@ -116,29 +153,6 @@
           "time_info": "[03时56分 ~ 04时43分]"
         },
         {
-          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
-          "url": "https://www.cls.cn/detail/2428944",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时52分]"
-        },
-        {
-          "title": "AI站稳产业圈顶流C位",
-          "url": "https://www.douyin.com/hot/2574370",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
           "title": "奈飞：AI将让电影（质量）变得更好，但不会取代人类。",
           "url": "https://wallstreetcn.com/livenews/3135289",
           "source": "华尔街见闻-快讯",
@@ -148,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时10分]"
         },
         {
           "title": "谷歌盘中跌超4%，有报道称Gemini 3.5 Pro延迟发布",
@@ -197,16 +222,16 @@
           "time_info": "[01时02分 ~ 02时05分]"
         },
         {
-          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            18
+            15,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时52分]"
+          "time_info": "[12时52分 ~ 15时10分]"
         },
         {
           "title": "奈飞(NFLX.O)：AI将让电影（质量）变得更好，但不会取代人类。",
@@ -218,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -259,7 +273,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -319,15 +333,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "15时10分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
@@ -363,6 +377,28 @@
           "time_info": "05时55分"
         },
         {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
           "url": "https://wallstreetcn.com/livenews/3135223",
           "source": "华尔街见闻-快讯",
@@ -383,6 +419,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "投资者撤离AI股 全球市场遭遇重挫",
+          "url": "https://flash.jin10.com/detail/20260717145040499800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "软银集团拟新发行600亿日元债券 加码AI投资融资",
+          "url": "https://flash.jin10.com/detail/20260717145030071800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "磐石·科学基础大模型2.0发布 开启AI赋能基础研究全新范式",
+          "url": "https://flash.jin10.com/detail/20260717144652143800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     },
@@ -390,6 +459,19 @@
       "keyword_group": "特朗普",
       "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 15时10分]"
+        },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260717015332023800",
@@ -447,18 +529,6 @@
           "time_info": "09时22分"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 12时52分]"
-        },
-        {
           "title": "白宫：特朗普总统与副总统万斯在伊朗冲突问题上意见一致。",
           "url": "https://flash.jin10.com/detail/20260717014735582800",
           "source": "金十数据",
@@ -507,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 12时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 15时10分]"
         },
         {
           "title": "如何看待 Codex 多次重置使用额度？",
