@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T04:43:10.893356+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-07-18T05:42:11.892067+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -53,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -77,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -89,8 +89,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -101,8 +101,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时42分]"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时43分]"
+          "time_info": "[01时57分 ~ 05时42分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -116,18 +128,6 @@
           "time_info": "[01时56分 ~ 04时42分]"
         },
         {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时43分]"
-        },
-        {
           "title": "法国博主在上海被AI震撼",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
           "source": "百度热搜",
@@ -138,6 +138,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 04时43分]"
+        },
+        {
+          "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
+          "url": "https://flash.jin10.com/detail/20260718045807451800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
+          "url": "https://wallstreetcn.com/livenews/3135917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
@@ -307,11 +329,12 @@
           "url": "https://wallstreetcn.com/livenews/3135893",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时42分]"
         },
         {
           "title": "国家卫生健康委组织国家级专家医疗救治组支持重庆伤员救治",
