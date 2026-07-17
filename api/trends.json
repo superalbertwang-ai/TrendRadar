@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T01:57:08.947531+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-07-18T02:49:59.614402+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -62,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -74,8 +74,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -86,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "AI，刻在Shanghai的名字里",
@@ -98,8 +98,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -109,8 +109,32 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 02时49分]"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时56分 ~ 01时57分]"
+          "time_info": "[01时57分 ~ 02时49分]"
+        },
+        {
+          "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
+          "url": "https://wallstreetcn.com/livenews/3135842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时49分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
@@ -124,6 +148,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
+          "url": "https://wallstreetcn.com/livenews/3135867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
           "url": "https://wallstreetcn.com/livenews/3135823",
           "source": "华尔街见闻-快讯",
@@ -133,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
         },
         {
           "title": "MiniMax携M3、H3等全模态模型及产品亮相WAIC2026",
@@ -190,17 +214,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "据纽约时报，扎克伯格旗下Meta Platforms Inc.洽谈向Anthropic出租算力。 未来两年的潜在交易金额可能高达100亿美元。 相关磋商还处于早期阶段。 Meta跌幅收窄至3%。",
-          "url": "https://wallstreetcn.com/livenews/3135842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
           "url": "https://wallstreetcn.com/livenews/3135807",
           "source": "华尔街见闻-快讯",
@@ -223,13 +236,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "法国博主在上海被AI震撼",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
           "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
           "url": "https://wallstreetcn.com/livenews/3135833",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
