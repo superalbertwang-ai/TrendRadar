@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:46:32.356476+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-17T19:14:17.957257+08:00",
+  "total_titles_processed": 1391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -92,6 +92,31 @@
           "time_info": "[01时02分 ~ 05时55分]"
         },
         {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 19时14分]"
+        },
+        {
+          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 19时14分]"
+        },
+        {
           "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
@@ -105,16 +130,27 @@
           "time_info": "[09时22分 ~ 15时10分]"
         },
         {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
+          "title": "16位诺贝尔奖得主联名发出AI警告",
+          "url": "https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%8D%E5%8F%91%E5%87%BAAI%E8%AD%A6%E5%91%8A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时52分 ~ 17时46分]"
+          "time_info": "[17时46分 ~ 19时14分]"
+        },
+        {
+          "title": "UP主手搓WAIC逛展小助手",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93WAIC%E9%80%9B%E5%B1%95%E5%B0%8F%E5%8A%A9%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "AI站稳产业圈顶流C位",
@@ -140,19 +176,6 @@
           "time_info": "[09时22分 ~ 12时52分]"
         },
         {
-          "title": "大方之谈丨对话周伯文：一个AI科学家的世界观",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33577939",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 17时46分]"
-        },
-        {
           "title": "财晓得｜中国AI跑出加速度背后的四重底气",
           "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
           "source": "澎湃新闻",
@@ -164,6 +187,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时22分 ~ 15时10分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 19时14分]"
+        },
+        {
+          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 19时14分]"
         },
         {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
@@ -184,7 +232,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -210,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时43分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
@@ -241,7 +300,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -269,38 +328,26 @@
           "time_info": "[15时10分 ~ 17时46分]"
         },
         {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
+          "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
+          "url": "https://www.zhihu.com/question/2059240244864611894",
+          "source": "知乎",
           "ranks": [
-            19,
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时10分 ~ 17时46分]"
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
-          "title": "未来AI城市什么样？机器人掌握了哪些新技能？这里有“样板间”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600947",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 17时46分]"
-        },
-        {
-          "title": "16位诺贝尔奖得主联名发出AI警告",
-          "url": "https://s.weibo.com/weibo?q=%2316%E4%BD%8D%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E5%90%8D%E5%8F%91%E5%87%BAAI%E8%AD%A6%E5%91%8A%23&t=31&band_rank=7&Refer=top",
+          "title": "AI影视创作进入工业化时代",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%BD%B1%E8%A7%86%E5%88%9B%E4%BD%9C%E8%BF%9B%E5%85%A5%E5%B7%A5%E4%B8%9A%E5%8C%96%E6%97%B6%E4%BB%A3&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "奈飞(NFLX.O)：AI将让电影（质量）变得更好，但不会取代人类。",
@@ -347,6 +394,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "xAI在Gro推出自动化功能。",
           "url": "https://wallstreetcn.com/livenews/3135280",
           "source": "华尔街见闻-快讯",
@@ -364,7 +422,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -402,6 +460,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美格智能：端侧AI、机器人等领域产品是否能取得预期效益存在不确定性",
+          "url": "https://flash.jin10.com/detail/20260717183249094800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "SpaceX AI：Grok 4.5已上线Grok Build、Cursor和SpaceX AI Console。",
           "url": "https://flash.jin10.com/detail/20260717050215606800",
           "source": "金十数据",
@@ -419,7 +488,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -463,9 +532,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
+        },
+        {
+          "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3135650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
@@ -485,7 +565,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -507,7 +587,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -540,7 +620,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
         },
@@ -554,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "优刻得与上海理工在WAIC 2026发布“太空算力”样机",
+          "url": "https://wallstreetcn.com/livenews/3135636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     },
@@ -660,6 +751,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 19时14分]"
+        },
+        {
           "title": "世界人工智能合作组织协定签署",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
           "source": "bilibili 热搜",
@@ -671,17 +773,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 09时22分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 17时46分]"
         },
         {
           "title": "如何看待 Codex 多次重置使用额度？",
