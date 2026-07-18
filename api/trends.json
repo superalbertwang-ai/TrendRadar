@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T09:13:46.535980+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-07-18T12:37:06.209512+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 33,
+      "match_count": 47,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -31,11 +31,12 @@
             9,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 12时37分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -44,11 +45,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 12时37分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -57,11 +59,12 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 12时37分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -69,11 +72,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 12时37分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -163,6 +167,43 @@
           "time_info": "[05时42分 ~ 07时42分]"
         },
         {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 12时37分]"
+        },
+        {
+          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
+          "url": "https://www.zhihu.com/question/2061411962487924266",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 12时37分]"
+        },
+        {
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 12时37分]"
+        },
+        {
           "title": "法国博主在上海被AI震撼",
           "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%ABAI%E9%9C%87%E6%92%BC",
           "source": "百度热搜",
@@ -173,6 +214,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时49分 ~ 04时43分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "Linus 称 Linux 不搞「反 AI」，并要求「要么 fork，要么走人」，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2061099332632416849",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
@@ -193,21 +256,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
-          "url": "https://wallstreetcn.com/articles/3777230",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 09时13分]"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX洽谈向美国五角大楼提供算力。 协议规模将小于与Anthropic和谷歌公司签署的协议。（华尔街日报）",
@@ -220,6 +271,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时58分 ~ 04时43分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://flash.jin10.com/detail/20260718115729560800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "95后夫妻手搓500集AI漫剧爆火",
+          "url": "https://s.weibo.com/weibo?q=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93500%E9%9B%86AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
@@ -257,15 +330,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "网传阿根廷绝杀前犯规的「证据图」被证实为 AI 篡改，如何评价？球衣号码都错误的 AI 假图为何能被大量转发？",
-          "url": "https://www.zhihu.com/question/2061411962487924266",
-          "source": "知乎",
+          "title": "京东健康AI医生“大为”亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3135961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "12时37分"
         },
         {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
@@ -279,6 +352,28 @@
           "time_info": "00时08分"
         },
         {
+          "title": "网易智企：集中展示AI Agent编排、AI Coding、AI客服等企业AI能力",
+          "url": "https://wallstreetcn.com/livenews/3135960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "MiniMax携M3、H3等全模态模型及产品亮相WAIC2026",
           "url": "https://wallstreetcn.com/livenews/3135820",
           "source": "华尔街见闻-快讯",
@@ -288,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://wallstreetcn.com/livenews/3135957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
@@ -312,6 +418,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "阿里巴巴发布企业级AI应用创作平台秒悟团队版",
+          "url": "https://flash.jin10.com/detail/20260718104940134800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "首款AI记忆眼镜亮相WAIC，售价799元起",
           "url": "https://wallstreetcn.com/livenews/3135817",
           "source": "华尔街见闻-快讯",
@@ -321,6 +438,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
+          "url": "https://wallstreetcn.com/livenews/3135952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "中国AI出大招后 美政府听劝了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E5%87%BA%E5%A4%A7%E6%8B%9B%E5%90%8E+%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%90%AC%E5%8A%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "三地联办摄影大赛获奖作品被指AI生成，作者承认“用AI加了一道闪电”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "据悉SpaceX正洽谈为美国防部的AI项目提供数十亿美元算力",
@@ -334,26 +484,37 @@
           "time_info": "03时58分"
         },
         {
+          "title": "95后夫妻手搓AI漫剧爆火",
+          "url": "https://www.baidu.com/s?wd=95%E5%90%8E%E5%A4%AB%E5%A6%BB%E6%89%8B%E6%90%93AI%E6%BC%AB%E5%89%A7%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "周鸿祎谈AI安全：AI正成为能自主执行任务的“新物种”，必须可信可靠可控",
           "url": "https://m.thepaper.cn/newsDetail_forward_33608598",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
         {
-          "title": "机器人在WAIC一脚踹出真本事",
-          "url": "https://www.douyin.com/hot/2574930",
-          "source": "抖音",
+          "title": "国家能源局：将加快构建新型能源体系 赋能AI发展",
+          "url": "https://flash.jin10.com/detail/20260718101548208800",
+          "source": "金十数据",
           "ranks": [
-            20
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "12时37分"
         },
         {
           "title": "俄罗斯：在Mykolaiv港口打击四艘干散货船只。）（国际文传电讯社IFX）",
@@ -403,7 +564,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伍德韦尔气候研究中心（Woodwell Climate Research Center）高级科学家Jennifer Francis：我们今年夏天看到的影响，完全符合我们长期以来一直预期会看到的情况。 本周的天气事件受到“非常持久的急流模式”影响，正是这种模式导致了热浪穹顶、火灾条件以及得克萨斯州的暴风雨。",
@@ -419,13 +580,24 @@
           "time_info": "[04时43分 ~ 06时39分]"
         },
         {
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
           "title": "委内瑞拉临时总统：在地震后从国际货币基金组织获得了3.46亿美元的资源。",
           "url": "https://flash.jin10.com/detail/20260718081024815800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
