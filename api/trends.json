@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T00:43:42.015008+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-19T01:46:56.097606+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "外交部驳斥“蒸馏论”：矮化中国AI创新能力，居心叵测",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "95后夫妻手搓500集AI漫剧爆火",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "AI牛市结束了吗？市场充满疑虑",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "直击2026WAIC：超300台真机扎堆，具身智能离GPT时刻还差海量物理数据",
@@ -59,19 +59,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
           "url": "https://m.thepaper.cn/newsDetail_forward_33612045",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "超300款AI新品迎来全球首发",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BEAI%E6%96%B0%E5%93%81%E8%BF%8E%E6%9D%A5%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时46分"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -81,8 +93,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "美CIA局长：中国5G与AI领先是大问题",
+          "url": "https://www.toutiao.com/trending/7663822176776208390/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时46分"
         },
         {
           "title": "上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来",
@@ -92,19 +115,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
-          "url": "https://wallstreetcn.com/articles/3777257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -114,8 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -125,15 +137,96 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
           "url": "https://wallstreetcn.com/livenews/3136069",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
+          "url": "https://wallstreetcn.com/livenews/3136059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
+          "url": "https://www.zhihu.com/question/2061407401308152796",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
+          "url": "https://wallstreetcn.com/livenews/3136055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "美企抄袭中国AI玩双标被点名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "上海“星枢计划”首发星座在WAIC正式发布",
+          "url": "https://wallstreetcn.com/livenews/3136051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "中国拉群搞AI,28国兄弟入伙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时46分]"
+        },
+        {
+          "title": "Meta算力变现迎首位大客户，报道：拟向Anthropic出租算力，合同达100亿美元",
+          "url": "https://wallstreetcn.com/articles/3777257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -151,48 +244,26 @@
           "time_info": "00时43分"
         },
         {
-          "title": "曦智科技全栈光电算力技术亮相WAIC 2026",
-          "url": "https://wallstreetcn.com/livenews/3136059",
-          "source": "华尔街见闻-快讯",
+          "title": "日媒：印企越来越依赖中国AI大模型",
+          "url": "https://www.toutiao.com/trending/7662655184850780187/",
+          "source": "今日头条",
           "ranks": [
-            14
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时46分"
         },
         {
-          "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
-          "url": "https://www.zhihu.com/question/2061407401308152796",
-          "source": "知乎",
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
           "ranks": [
-            17
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
-          "url": "https://wallstreetcn.com/livenews/3136055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美企抄袭中国AI玩双标被点名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356286&amp;topic_name=%E7%BE%8E%E4%BC%81%E6%8A%84%E8%A2%AD%E4%B8%AD%E5%9B%BDAI%E7%8E%A9%E5%8F%8C%E6%A0%87%E8%A2%AB%E7%82%B9%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "01时46分"
         },
         {
           "title": "中创新航发布提供广汽埃安AION S电池系统直接维保服务的公告",
@@ -206,31 +277,9 @@
           "time_info": "00时43分"
         },
         {
-          "title": "上海“星枢计划”首发星座在WAIC正式发布",
-          "url": "https://wallstreetcn.com/livenews/3136051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
           "title": "AI模型评测平台Arena显示，Kimi-K3已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。",
           "url": "https://flash.jin10.com/detail/20260718213228936800",
           "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "中国拉群搞AI,28国兄弟入伙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356275&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%BE%A4%E6%90%9EAI%2C28%E5%9B%BD%E5%85%84%E5%BC%9F%E5%85%A5%E4%BC%99",
-          "source": "贴吧",
           "ranks": [
             23
           ],
@@ -259,6 +308,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
+          "url": "https://wallstreetcn.com/livenews/3136073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
+          "url": "https://flash.jin10.com/detail/20260719003200067800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智利风暴减弱，Codelco将恢复安第纳铜矿开采",
+          "url": "https://wallstreetcn.com/livenews/3136077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
         }
       ]
     }
