@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T16:34:18.284478+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-07-20T19:34:59.190062+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
@@ -169,6 +169,31 @@
           "time_info": "[04时02分 ~ 05时41分]"
         },
         {
+          "title": "院士谈年轻人该如何学AI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 19时34分]"
+        },
+        {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 19时34分]"
+        },
+        {
           "title": "超节点集中亮相WAIC 国产算力进入系统级竞争时代",
           "url": "https://www.cls.cn/detail/2430847",
           "source": "财联社热门",
@@ -216,6 +241,18 @@
           "time_info": "[13时27分 ~ 16时34分]"
         },
         {
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 19时34分]"
+        },
+        {
           "title": "三星SDS宣布，推出基于FuriosaAI第二代神经网络处理器“RNGD”的NPUaaS（NPU订阅服务）。值得一提的是，NPUaaS将在三星SDS的专属云环境中提供，即使是安全监管严格的公共部门客户也可安全使用。",
           "url": "https://flash.jin10.com/detail/20260720091554030800",
           "source": "金十数据",
@@ -227,15 +264,16 @@
           "time_info": "09时21分"
         },
         {
-          "title": "院士谈年轻人该如何学AI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
-          "source": "bilibili 热搜",
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
           "ranks": [
-            3
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 19时34分]"
         },
         {
           "title": "中国开辟AI发展新路径",
@@ -249,16 +287,27 @@
           "time_info": "13时27分"
         },
         {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            9
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时27分 ~ 16时34分]"
+          "time_info": "[16时34分 ~ 19时34分]"
         },
         {
           "title": "OpenAI称Kimi开源是减速主义",
@@ -319,26 +368,26 @@
           "time_info": "07时46分"
         },
         {
-          "title": "AI不准用,日本漫画家被迫停更",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
-          "source": "贴吧",
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "19时34分"
         },
         {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
+          "title": "SK董事长：明年AI芯片需求将增长100%，存储价格将进一步上涨",
+          "url": "https://wallstreetcn.com/articles/3777377",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "19时34分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -380,7 +429,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -394,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
-          "url": "https://www.zhihu.com/question/2062518030224061737",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "AI押注崩溃，韩国散户直呼“把我的钱还回来”",
@@ -424,7 +462,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -446,7 +484,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -468,7 +506,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
