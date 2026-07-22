@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T18:12:55.636072+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-07-22T20:22:07.023609+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 60,
+      "match_count": 67,
       "titles": [
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -34,6 +34,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时47分 ~ 18时12分]"
+        },
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时56分 ~ 20时22分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -109,28 +121,51 @@
           "time_info": "[00时14分 ~ 07时48分]"
         },
         {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 18时12分]"
-        },
-        {
           "title": "两个AI演员比内娱待爆艺人都火",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13,
-            1
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 20时22分]"
+        },
+        {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时29分 ~ 18时12分]"
+          "time_info": "[15时30分 ~ 20时22分]"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 20时22分]"
+        },
+        {
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -144,16 +179,17 @@
           "time_info": "[00时14分 ~ 04时12分]"
         },
         {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            2
+            10,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时30分 ~ 20时22分]"
         },
         {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
@@ -166,6 +202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 15时30分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
@@ -215,6 +263,18 @@
           "time_info": "15时30分"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时22分]"
+        },
+        {
           "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
           "url": "https://wallstreetcn.com/livenews/3137679",
           "source": "华尔街见闻-快讯",
@@ -251,15 +311,16 @@
           "time_info": "[06时45分 ~ 07时48分]"
         },
         {
-          "title": "看见中国AI产业的“硬核家底”",
-          "url": "https://www.toutiao.com/trending/7664428554470113321/",
-          "source": "今日头条",
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -284,18 +345,6 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 18时12分]"
-        },
-        {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
           "url": "https://www.cls.cn/detail/2433554",
           "source": "财联社热门",
@@ -306,17 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时30分 ~ 18时12分]"
-        },
-        {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
@@ -339,6 +377,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -398,15 +447,26 @@
           "time_info": "04时12分"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "20时22分"
+        },
+        {
+          "title": "国务院国资委：深入实施“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3138207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "AI交易热情午后回落，韩股涨幅收窄至2%，日股转跌，金银走强",
@@ -431,6 +491,17 @@
           "time_info": "15时30分"
         },
         {
+          "title": "谷歌平价Gemini三箭齐发，网安模型对标Anthropic Mythos，旗舰3.5 Pro仍难产",
+          "url": "https://wallstreetcn.com/articles/3777594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "AI交换芯片走到聚光灯下：英伟达发布Spectrum-6 或推动Token生成能力倍增",
           "url": "https://www.cls.cn/detail/2433429",
           "source": "财联社热门",
@@ -442,6 +513,17 @@
           "time_info": "15时30分"
         },
         {
+          "title": "国务院国资委：深入实施“AI+”专项行动",
+          "url": "https://flash.jin10.com/detail/20260722200541476800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "首部AI长剧要来了",
           "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -451,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         },
         {
           "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
@@ -486,15 +557,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
+          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+          "url": "https://wallstreetcn.com/livenews/3138201",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "20时22分"
         },
         {
           "title": "王祖贤AI人脸授权代言游戏IP",
@@ -561,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
+        },
+        {
+          "title": "机构：2026年AI基建支出料增长56%至4970亿美元 Arm架构取代x86成主流算力平台",
+          "url": "https://flash.jin10.com/detail/20260722200136509800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
@@ -698,7 +780,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
@@ -830,13 +912,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "据Politico民调：美国总统特朗普的MAGA支持者对他的伊朗战争感到失望 。",
           "url": "https://flash.jin10.com/detail/20260722175828950800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -902,7 +995,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -963,7 +1056,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
