@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T05:57:12.452708+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-07-23T06:51:16.619921+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时51分]"
         },
         {
           "title": "用AI通关高难度跑步游戏",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时51分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -45,8 +45,59 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 06时51分]"
+        },
+        {
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
+          "source": "知乎",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时13分 ~ 05时57分]"
+          "time_info": "[02时02分 ~ 06时51分]"
+        },
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            7,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 06时51分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
+        },
+        {
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -60,56 +111,6 @@
           "time_info": "[00时14分 ~ 05时57分]"
         },
         {
-          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
-          "url": "https://www.zhihu.com/question/2063264614834336987",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 05时57分]"
-        },
-        {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
-        },
-        {
-          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
-          "url": "https://www.zhihu.com/question/2063241470010822764",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 05时57分]"
-        },
-        {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
-        },
-        {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
@@ -117,8 +118,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
         },
         {
           "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
@@ -127,11 +128,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -139,11 +141,25 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
+        },
+        {
+          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
+          "url": "https://www.zhihu.com/question/2062918586486583714",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时53分 ~ 06时51分]"
         },
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -153,8 +169,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
         },
         {
           "title": "OpenAI遭遇史上首次评测失控事故",
@@ -164,20 +180,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时51分]"
         },
         {
-          "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
-          "url": "https://www.zhihu.com/question/2062918586486583714",
-          "source": "知乎",
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            15
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 05时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -230,7 +245,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -241,7 +256,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -263,7 +278,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -277,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
+          "url": "https://flash.jin10.com/detail/20260723060349803800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         },
         {
           "title": "编程初创公司Cursor：推出智能模型路由器，可根据具体任务自动选择最合适的AI模型。",
@@ -307,7 +333,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -318,7 +344,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
@@ -340,6 +366,19 @@
           "time_info": "[00时14分 ~ 04时54分]"
         },
         {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时51分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -349,18 +388,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时57分]"
         },
         {
           "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
@@ -386,7 +413,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -397,7 +424,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
