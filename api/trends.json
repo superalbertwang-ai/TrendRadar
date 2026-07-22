@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T15:30:25.569502+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-22T18:12:55.636072+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时47分 ~ 15时30分]"
+          "appearance_count": 9,
+          "time_info": "[07时47分 ~ 18时12分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -117,8 +117,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 15时30分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 18时12分]"
+        },
+        {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 18时12分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
@@ -130,6 +142,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 04时12分]"
+        },
+        {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 18时12分]"
         },
         {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
@@ -186,7 +210,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -227,15 +251,15 @@
           "time_info": "[06时45分 ~ 07时48分]"
         },
         {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时30分"
+          "time_info": "18时12分"
         },
         {
           "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
@@ -260,6 +284,41 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 18时12分]"
+        },
+        {
+          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
+          "url": "https://www.cls.cn/detail/2433554",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 18时12分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
           "url": "https://www.zhihu.com/question/2063033606767895735",
           "source": "知乎",
@@ -276,17 +335,6 @@
           "source": "知乎",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
-        },
-        {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -350,13 +398,24 @@
           "time_info": "04时12分"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "AI交易热情午后回落，韩股涨幅收窄至2%，日股转跌，金银走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -367,18 +426,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -389,7 +437,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -405,6 +453,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "英伟达发布Vera CPU新细节 AI服务器市场再开新战场",
           "url": "https://www.cls.cn/detail/2433181",
           "source": "财联社热门",
@@ -416,17 +475,6 @@
           "time_info": "12时57分"
         },
         {
-          "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
-          "url": "https://www.cls.cn/detail/2433554",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时30分"
-        },
-        {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
           "url": "https://wallstreetcn.com/livenews/3137668",
           "source": "华尔街见闻-快讯",
@@ -436,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "王祖贤AI人脸授权代言游戏IP",
@@ -499,7 +558,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
@@ -631,7 +690,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
@@ -639,7 +698,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
@@ -771,6 +830,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "据Politico民调：美国总统特朗普的MAGA支持者对他的伊朗战争感到失望 。",
+          "url": "https://flash.jin10.com/detail/20260722175828950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
           "url": "https://wallstreetcn.com/livenews/3137671",
           "source": "华尔街见闻-快讯",
@@ -826,6 +896,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "美国国务卿鲁比奥：我们愿与伊朗达成协议，确保其不会获得核武器。伊朗是支持恐怖主义的国家，我们不信任它。如果伊朗不合作，美国总统特朗普有很多选择。",
+          "url": "https://flash.jin10.com/detail/20260722174552841800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "据阿拉比亚电视台：以色列官员表示，是否扩大对伊朗的战争完全取决于特朗普自己。尚未确定内塔尼亚胡访问华盛顿的日期。",
           "url": "https://flash.jin10.com/detail/20260722114601678800",
           "source": "金十数据",
@@ -840,7 +921,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊拉克内阁批准允许伊拉克国家石油营销组织SOMO为能源部进口柴油，以“保障能源领域需求”。",
@@ -876,13 +957,24 @@
           "time_info": "02时09分"
         },
         {
+          "title": "美国国务卿鲁比奥：我们正监测红海航行安全面临的任何威胁。胡塞武装的威胁并不新鲜。该组织威胁实施海上封锁是一个问题，而伊朗才是制造这些问题的根源。伊朗在该地区资助恐怖组织。伊朗向也门发送了载有设备和武器的飞机。",
+          "url": "https://flash.jin10.com/detail/20260722175440363800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "伊朗内政部发言人：战后重建指挥部已组建，并在政府最高层级开展工作，由第一副总统和计划与预算组织负责人共同领导。",
           "url": "https://flash.jin10.com/detail/20260722151717559800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         }
