@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:23:59.146551+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-07-25T22:56:16.290762+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
@@ -16,11 +16,26 @@
             13,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时09分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[15时09分 ~ 22时56分]"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 22时56分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -38,20 +53,6 @@
           "time_info": "[02时10分 ~ 12时54分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 21时23分]"
-        },
-        {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
           "url": "https://www.cls.cn/detail/2436901",
           "source": "财联社热门",
@@ -61,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 21时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 22时56分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -73,11 +74,26 @@
             5,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 21时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 22时56分]"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时01分 ~ 22时56分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -154,19 +170,6 @@
           "time_info": "[15时10分 ~ 21时23分]"
         },
         {
-          "title": "马斯克：中国很有可能成AI领导者",
-          "url": "https://www.toutiao.com/trending/7666381434109578761/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时01分 ~ 21时23分]"
-        },
-        {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
@@ -231,6 +234,19 @@
           "time_info": "[19时02分 ~ 21时23分]"
         },
         {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 22时56分]"
+        },
+        {
           "title": "如何评价 Anthropic 发布的 Claude Opus 5？",
           "url": "https://www.zhihu.com/question/2064158791801758733",
           "source": "知乎",
@@ -240,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 09时22分]"
+        },
+        {
+          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
+          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 22时56分]"
         },
         {
           "title": "AI已经摸不透柯洁了",
@@ -252,6 +279,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时02分]"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时56分]"
         },
         {
           "title": "Anthropic CEO：已与三星电子和SK海力士签署供应协议。",
@@ -288,29 +327,6 @@
           "time_info": "12时54分"
         },
         {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 21时23分]"
-        },
-        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -322,15 +338,16 @@
           "time_info": "[02时10分 ~ 04时10分]"
         },
         {
-          "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
-          "url": "https://news.ifeng.com/c/8v36WP0WL2Y",
-          "source": "凤凰网",
+          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
+          "url": "https://wallstreetcn.com/articles/3777898",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时03分 ~ 21时23分]"
+          "time_info": "[21时23分 ~ 22时56分]"
         },
         {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
@@ -343,6 +360,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 20时03分]"
+        },
+        {
+          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时56分]"
         },
         {
           "title": "OpenAI失控中国大模型救场",
@@ -411,17 +440,6 @@
           "time_info": "02时10分"
         },
         {
-          "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
-          "url": "https://wallstreetcn.com/articles/3777898",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "Anthropic首席执行官：已与三星电子及SK海力士签署供应协议。",
           "url": "https://flash.jin10.com/detail/20260725083139937800",
           "source": "金十数据",
@@ -453,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "中东断供叠加AI算力爆发，电子布涨超100%，龙头急扩产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33654798",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
         },
         {
           "title": "Meta Platforms(META.O)：得益于Muse Spark 1.1技术，MetaAI现已能够制定计划、连接电子邮件与日历应用、制作演示文稿，并代用户处理各项任务。",
@@ -574,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%96%E8%84%B8%E7%BB%99AI%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%8E%8B%E7%A5%96%E8%B4%A41%E4%B8%AA%E5%A5%BD%E8%AF%841%E4%B8%AA%E6%8C%A8%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         }
       ]
     },
