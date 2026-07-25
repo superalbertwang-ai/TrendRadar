@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T09:22:13.500102+08:00",
-  "total_titles_processed": 643,
+  "generated_at": "2026-07-25T12:54:45.684272+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -15,11 +15,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时10分 ~ 09时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时10分 ~ 12时54分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -113,6 +114,29 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "Anthropic CEO：已与三星电子和SK海力士签署供应协议。",
+          "url": "https://wallstreetcn.com/livenews/3139680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时54分]"
+        },
+        {
           "title": "Anthropic发布更具成本效率的Claude Opus 5模型",
           "url": "https://flash.jin10.com/detail/20260725013909944800",
           "source": "金十数据",
@@ -124,6 +148,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
+          "url": "https://flash.jin10.com/detail/20260725122018676800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -133,17 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 04时10分]"
-        },
-        {
-          "title": "Anthropic CEO：已与三星电子和SK海力士签署供应协议。",
-          "url": "https://wallstreetcn.com/livenews/3139680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         },
         {
           "title": "OpenAI失控中国大模型救场",
@@ -168,13 +192,24 @@
           "time_info": "02时10分"
         },
         {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
           "url": "https://wallstreetcn.com/livenews/3139676",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -190,13 +225,24 @@
           "time_info": "02时10分"
         },
         {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "Anthropic首席执行官：已与三星电子及SK海力士签署供应协议。",
           "url": "https://flash.jin10.com/detail/20260725083139937800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -207,7 +253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -267,6 +313,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
           "url": "https://wallstreetcn.com/livenews/3139600",
           "source": "华尔街见闻-快讯",
@@ -281,7 +338,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称美国与伊朗仍在对话",
@@ -364,6 +421,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
           "title": "美国总统特朗普：我们在伊朗问题上有很多退出策略。",
           "url": "https://flash.jin10.com/detail/20260725033349906800",
           "source": "金十数据",
@@ -384,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "特朗普称伊朗问题进展非常顺利 但称伊朗“还没准备好”达成协议",
+          "url": "https://flash.jin10.com/detail/20260725105906223800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
         }
       ]
     },
@@ -446,11 +525,12 @@
           "url": "https://www.douyin.com/hot/2583919",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 12时54分]"
         }
       ]
     }
