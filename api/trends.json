@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T00:45:17.651825+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-27T01:53:33.103990+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "AI还要跌多久",
@@ -48,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -59,30 +61,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
           "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
-          "url": "https://www.zhihu.com/question/2064467113771791028",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -92,19 +84,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -112,6 +105,17 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
+        },
+        {
+          "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
+          "url": "https://www.zhihu.com/question/2064467113771791028",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,7 +136,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -142,8 +146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -153,8 +157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -164,8 +168,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -175,8 +179,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时53分"
         }
       ]
     },
@@ -192,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         },
         {
           "title": "菲律宾拉拢域外国家组织所谓“联合巡航”，南部战区发声",
@@ -203,8 +218,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时53分]"
         }
       ]
     },
