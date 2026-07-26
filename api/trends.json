@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-27T01:53:33.103990+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-07-27T02:52:06.260484+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
       "match_count": 11,
       "titles": [
+        {
+          "title": "不要长期向AI倾泻心事",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时52分]"
+        },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
@@ -15,20 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
-        },
-        {
-          "title": "不要长期向AI倾泻心事",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -36,11 +37,25 @@
           "source": "知乎",
           "ranks": [
             4,
-            12
+            12,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时52分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "AI还要跌多久",
@@ -50,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -61,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -70,22 +85,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
-        },
-        {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -96,8 +101,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -107,8 +112,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -146,8 +151,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -168,8 +173,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -179,19 +184,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 02时52分]"
         }
       ]
     },
@@ -207,19 +213,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         },
         {
           "title": "菲律宾拉拢域外国家组织所谓“联合巡航”，南部战区发声",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662739",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时53分]"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 02时52分]"
         }
       ]
     },
