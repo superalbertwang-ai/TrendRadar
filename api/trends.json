@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:47:57.248856+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-07-27T06:48:43.577008+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -38,11 +38,12 @@
           "ranks": [
             23,
             21,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "AI还要跌多久",
@@ -52,8 +53,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -61,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -75,11 +77,12 @@
             12,
             10,
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -90,8 +93,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -125,44 +128,48 @@
           "source": "今日头条",
           "ranks": [
             26,
-            22
+            22,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 06时48分]"
         },
         {
           "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时48分]"
         },
         {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时48分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 06时48分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -200,8 +207,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 06时48分]"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -214,29 +245,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 05时47分]"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 05时47分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -261,11 +269,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         },
         {
           "title": "菲律宾拉拢域外国家组织所谓“联合巡航”，南部战区发声",
@@ -276,8 +285,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 05时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时48分]"
         }
       ]
     },
