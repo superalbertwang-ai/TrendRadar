@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-28T05:01:03.008626+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-07-28T06:02:04.719014+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "真逗,DeepSeek说要去吃饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时01分]"
-        },
         {
           "title": "各个行业被AI取代的概率",
           "url": "https://s.weibo.com/weibo?q=%E5%90%84%E4%B8%AA%E8%A1%8C%E4%B8%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=8&Refer=top",
@@ -25,22 +14,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
-        },
-        {
-          "title": "国内首部AI长片首播",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 06时02分]"
         },
         {
           "title": "真有人把AI的照片当成自己",
@@ -53,8 +32,57 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时28分 ~ 06时02分]"
+        },
+        {
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "time_info": "[01时28分 ~ 06时02分]"
+        },
+        {
+          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
+          "url": "https://www.zhihu.com/question/2052464126996353859",
+          "source": "知乎",
+          "ranks": [
+            9,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时02分]"
+        },
+        {
+          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
+          "url": "https://www.zhihu.com/question/2058547288499119870",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 06时02分]"
+        },
+        {
+          "title": "国内首部AI长片首播",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 06时02分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -65,20 +93,44 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时01分]"
         },
         {
-          "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
-          "url": "https://www.zhihu.com/question/2052464126996353859",
-          "source": "知乎",
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
           "ranks": [
-            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 06时02分]"
+        },
+        {
+          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 06时02分]"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 06时02分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -94,63 +146,39 @@
           "time_info": "[01时28分 ~ 05时00分]"
         },
         {
-          "title": "Anthropic 刚招了研究王阳明的哲学教授，你觉得其他 AI 公司会跟进吗？",
-          "url": "https://www.zhihu.com/question/2058547288499119870",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时01分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时01分]"
-        },
-        {
-          "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时01分]"
-        },
-        {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时01分]"
-        },
-        {
           "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
           "url": "https://flash.jin10.com/detail/20260728045414356800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
+          "url": "https://flash.jin10.com/detail/20260728042311728800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
         },
         {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
@@ -163,6 +191,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 03时08分]"
+        },
+        {
+          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
+          "url": "https://wallstreetcn.com/livenews/3140508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
+          "url": "https://www.cls.cn/detail/2438154",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
         },
         {
           "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
@@ -210,26 +262,15 @@
           "time_info": "03时08分"
         },
         {
-          "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
-          "url": "https://flash.jin10.com/detail/20260728042311728800",
-          "source": "金十数据",
+          "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3140521",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "报道：特朗普政府即将敲定AI自愿监管框架",
-          "url": "https://wallstreetcn.com/livenews/3140508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时02分"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -243,15 +284,15 @@
           "time_info": "01时28分"
         },
         {
-          "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
-          "url": "https://www.cls.cn/detail/2438154",
+          "title": "奥尔特曼宣称人类已处于\"奇点\"之中 AI将带来巨大积极影响",
+          "url": "https://www.cls.cn/detail/2437876",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "06时02分"
         },
         {
           "title": "受AI热潮推动，贝莱德韩国ETF连续第三周录得资金净流入",
@@ -282,7 +323,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -301,8 +342,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美媒：内塔尼亚胡拟向特朗普证明伊朗仍在推进“镐山”核计划",
+          "url": "https://flash.jin10.com/detail/20260728053007305800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
         {
           "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3140466",
@@ -313,6 +365,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "路透社/益普索调查显示，69%的美国人表示美国总统特朗普并未清楚解释美国军方在伊朗的参与目标。",
+          "url": "https://flash.jin10.com/detail/20260728041006856800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://wallstreetcn.com/livenews/3140503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
+        },
+        {
+          "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
+          "url": "https://flash.jin10.com/detail/20260728052319740800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "特朗普称正与伊朗进行“良好谈判” 暗示可能会发生一些事情",
@@ -348,28 +435,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "路透社/益普索调查显示，69%的美国人表示美国总统特朗普并未清楚解释美国军方在伊朗的参与目标。",
-          "url": "https://flash.jin10.com/detail/20260728041006856800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://wallstreetcn.com/livenews/3140503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20260728021523729800",
           "source": "金十数据",
@@ -387,7 +452,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -442,7 +507,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -453,7 +518,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -468,11 +533,12 @@
           "url": "https://flash.jin10.com/detail/20260728044945651800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时02分]"
         },
         {
           "title": "国际货币基金组织（IMF）总裁Georgieva：没必要向阿根廷提供更多支持。",
@@ -492,7 +558,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
