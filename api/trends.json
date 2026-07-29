@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T05:46:25.679692+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-07-30T06:47:38.187451+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
@@ -15,11 +15,12 @@
             16,
             15,
             12,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时47分]"
         },
         {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
@@ -29,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -52,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
         },
         {
           "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
@@ -61,11 +62,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 06时47分]"
         },
         {
           "title": "AI漫剧走红,国动流量狂跌",
@@ -75,8 +77,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
         },
         {
           "title": "赢学入脑,法国声称AI超中国",
@@ -86,8 +88,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
+        },
+        {
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 06时47分]"
+        },
+        {
+          "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
+          "url": "https://wallstreetcn.com/livenews/3141925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
@@ -112,34 +139,11 @@
           "time_info": "02时10分"
         },
         {
-          "title": "扎克伯格在电话会上说，开源AI模型并没有前沿模型那么强大。Meta目前跌9.8%。 （但）开源模型在全世界有着“重要的地位”。 开放权重模型的成功并不会削弱API的机会，因为拥有运行模型推理的计算能力是商业优势的来源。",
-          "url": "https://wallstreetcn.com/livenews/3141925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
           "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
           "url": "https://www.cls.cn/detail/2440344",
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 02时10分]"
-        },
-        {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -267,6 +271,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
+          "url": "https://wallstreetcn.com/livenews/3141939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
           "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
           "url": "https://wallstreetcn.com/livenews/3141809",
           "source": "华尔街见闻-快讯",
@@ -284,7 +299,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -300,13 +315,24 @@
           "time_info": "02时10分"
         },
         {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
           "title": "Meta营收创纪录，但AI成本拖累股价下跌",
           "url": "https://flash.jin10.com/detail/20260730044136462800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -314,8 +340,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
+          "url": "https://www.cls.cn/detail/2440511",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
+        },
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
           "url": "https://wallstreetcn.com/articles/3778176",
@@ -328,16 +366,15 @@
           "time_info": "[01时04分 ~ 05时46分]"
         },
         {
-          "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
-          "url": "https://www.cls.cn/detail/2440511",
-          "source": "财联社热门",
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
           "ranks": [
-            3,
-            2
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 06时47分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -352,15 +389,15 @@
           "time_info": "[01时04分 ~ 04时08分]"
         },
         {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
           "ranks": [
-            20
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 05时46分]"
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：我希望国会在俄罗斯制裁法案中增加对伊朗的关税。",
@@ -385,15 +422,16 @@
           "time_info": "04时08分"
         },
         {
-          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
-          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
-          "source": "凤凰网",
+          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/livenews/3141924",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 06时47分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
@@ -402,9 +440,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国总统特朗普：我们将要给伊朗一点教训，美国将对昨晚在约旦基地的袭击作出回应。",
@@ -416,17 +465,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/livenews/3141924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
         },
         {
           "title": "特朗普：轮到我们袭击伊朗了",
@@ -465,7 +503,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国国务院：重申美国不会通过全球疫苗免疫联盟向世界卫生组织提供政府资金。美国预计将恢复其在该联盟董事会的席位。",
@@ -474,9 +512,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "“网红券商”Robinhood二季度净营收13.1亿美元，分析师预期12.8亿美元。 二季度调整后EBITDA为7.41亿美元，分析师预期6.289亿美元。 二季度加密货币收入1亿美元，分析师预期0.866亿美元。 二季度ARPU为187美元，分析师预期186.09美元。 二季度期权营收3.42亿美元，分析师预期3.384亿美元。 预计全年总体开支26.8亿-27.8亿美元，分析师预期29.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3141943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "海上安全公司安布雷：尚无任何组织对此事件声明负责；暂未有伤亡及港口基础设施损坏的情况。",
@@ -500,11 +549,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33680214",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时47分]"
         }
       ]
     }
