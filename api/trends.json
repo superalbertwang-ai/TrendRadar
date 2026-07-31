@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-31T16:28:53.222477+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2026-07-31T19:17:18.911379+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 66,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 19时17分]"
+        },
         {
           "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
           "url": "https://www.zhihu.com/question/2065810199877611641",
@@ -22,20 +37,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 09时25分]"
-        },
-        {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 16时28分]"
         },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -88,6 +89,19 @@
           "time_info": "[06时56分 ~ 13时22分]"
         },
         {
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 19时17分]"
+        },
+        {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
           "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
@@ -98,6 +112,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时17分]"
+        },
+        {
+          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时17分]"
+        },
+        {
+          "title": "DeepSeek-V4-Flash 正式版API上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时17分]"
+        },
+        {
+          "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
+          "url": "https://www.cls.cn/detail/2442428",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时17分]"
         },
         {
           "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
@@ -113,19 +175,6 @@
           "time_info": "[05时57分 ~ 07时52分]"
         },
         {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 16时28分]"
-        },
-        {
           "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
           "url": "https://www.zhihu.com/question/2065915199089894895",
           "source": "知乎",
@@ -137,6 +186,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时52分 ~ 13时22分]"
+        },
+        {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时17分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
@@ -164,38 +238,16 @@
           "time_info": "[06时56分 ~ 09时25分]"
         },
         {
-          "title": "DeepSeek-V4-Flash 正式版API上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2066521165246489298",
+          "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
+          "url": "https://www.zhihu.com/question/2066440048212276843",
           "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
@@ -219,17 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
-        },
-        {
-          "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
-          "url": "https://www.cls.cn/detail/2442428",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         },
         {
           "title": "据华尔街日报：消息人士称，Anthropic计划在德克萨斯州租赁一个容量为1.6吉瓦的新园区，并由谷歌为租赁及电力费用提供担保。",
@@ -289,6 +330,18 @@
           "time_info": "[13时22分 ~ 16时28分]"
         },
         {
+          "title": "AI生成的作品算艺术吗",
+          "url": "https://www.douyin.com/hot/2591797",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时17分]"
+        },
+        {
           "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
@@ -322,18 +375,6 @@
           "time_info": "13时22分"
         },
         {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
-        },
-        {
           "title": "苹果(AAPL.O)CEO库克：对于希望重度使用新AI产品的用户，苹果将提供“升级选项”。",
           "url": "https://flash.jin10.com/detail/20260731054211887800",
           "source": "金十数据",
@@ -346,15 +387,15 @@
           "time_info": "[05时57分 ~ 06时56分]"
         },
         {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "19时17分"
         },
         {
           "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
@@ -387,7 +428,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -402,6 +443,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时56分]"
+        },
+        {
+          "title": "DeepSeekV4Flash正式版上线",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 19时17分]"
         },
         {
           "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
@@ -440,16 +493,15 @@
           "time_info": "[05时57分 ~ 06时56分]"
         },
         {
-          "title": "马斯克预言五年内 AI 将超越全人类、十年后金钱将失去意义，这一预测靠谱吗？AI 真会重塑经济体系吗？",
-          "url": "https://www.zhihu.com/question/2066440048212276843",
-          "source": "知乎",
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.toutiao.com/trending/7668540826486865930/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "Citadel接手Situational Awareness的大规模AI股票持仓",
@@ -494,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "据华尔街日报：多家银行正洽谈为一家与Anthropic合作的数据中心开发商提供150亿美元贷款，谷歌将提供财务担保和芯片支持。",
@@ -551,17 +614,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
           "url": "https://www.zhihu.com/question/2066333638568972760",
           "source": "知乎",
@@ -573,15 +625,26 @@
           "time_info": "09时25分"
         },
         {
-          "title": "DeepSeekV4Flash正式版上线",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "title": "DeepSeekV4能力在GLM5.2和KimiK3之间",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%E8%83%BD%E5%8A%9B%E5%9C%A8GLM5.2%E5%92%8CKimiK3%E4%B9%8B%E9%97%B4&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时28分"
+          "time_info": "19时17分"
+        },
+        {
+          "title": "DeepSeek V4 Flash正式版强在哪",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
@@ -683,6 +746,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "DeepSeek-V4-Flash正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek-V4-Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "央视关注AI汽车",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%85%B3%E6%B3%A8AI%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -758,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "保时捷女销冠回应被AI合成不雅视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E5%90%88%E6%88%90%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "AI警报解除，亚太股指创4个月来最大涨幅",
@@ -871,11 +956,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时22分 ~ 19时17分]"
         },
         {
           "title": "习近平在中共中央政治局第二十七次集体学习时强调 强化政治引领 深化创新发展 高质量推进国防和军队现代化",
@@ -903,7 +989,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -915,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 04时12分]"
+        },
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     }
