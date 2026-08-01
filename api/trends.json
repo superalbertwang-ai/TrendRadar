@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T20:50:15.993725+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-08-01T22:21:34.349942+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,17 @@
           "time_info": "[01时22分 ~ 20时50分]"
         },
         {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时49分 ~ 22时21分]"
+        },
+        {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 13时15分]"
-        },
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时49分 ~ 20时50分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -131,6 +131,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 13时15分]"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时52分 ~ 22时21分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -201,19 +214,6 @@
           "time_info": "[07时52分 ~ 20时50分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时52分 ~ 20时50分]"
-        },
-        {
           "title": "保时捷女销冠回应被AI合成不雅视频",
           "url": "https://www.toutiao.com/trending/7668540826486865930/",
           "source": "今日头条",
@@ -242,6 +242,19 @@
           "time_info": "[01时22分 ~ 07时52分]"
         },
         {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 22时21分]"
+        },
+        {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
@@ -251,18 +264,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 06时12分]"
-        },
-        {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时49分 ~ 20时50分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -293,6 +294,32 @@
           "time_info": "[06时12分 ~ 09时26分]"
         },
         {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 22时21分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 22时21分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://flash.jin10.com/detail/20260801052034583800",
           "source": "金十数据",
@@ -319,6 +346,20 @@
           "time_info": "[04时52分 ~ 07时52分]"
         },
         {
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 22时21分]"
+        },
+        {
           "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
           "url": "https://flash.jin10.com/detail/20260801041603854800",
           "source": "金十数据",
@@ -343,6 +384,43 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时15分 ~ 20时49分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 22时21分]"
+        },
+        {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时49分 ~ 22时21分]"
+        },
+        {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时21分]"
         },
         {
           "title": "AI公司批量抢购旧书",
@@ -372,30 +450,6 @@
           "time_info": "[06时49分 ~ 09时26分]"
         },
         {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时50分]"
-        },
-        {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时50分]"
-        },
-        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -420,53 +474,16 @@
           "time_info": "[06时12分 ~ 07时52分]"
         },
         {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时50分]"
-        },
-        {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
+          "title": "C罗回应被AI评为史上最出名运动员",
+          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E8%AF%84%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%87%BA%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10,
-            9,
-            7
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时50分]"
-        },
-        {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时50分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时50分]"
+          "time_info": "[20时49分 ~ 22时21分]"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -583,17 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 09时26分]"
-        },
-        {
-          "title": "C罗回应被AI评为史上最出名运动员",
-          "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%9B%9E%E5%BA%94%E8%A2%ABAI%E8%AF%84%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%87%BA%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
@@ -781,6 +787,31 @@
           "time_info": "[01时22分 ~ 07时52分]"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 22时21分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普已下令对伊朗发动新一轮攻击",
           "url": "https://flash.jin10.com/detail/20260801053418447800",
           "source": "金十数据",
@@ -805,28 +836,16 @@
           "time_info": "[06时12分 ~ 07时52分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            5
+            14,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时15分 ~ 20时50分]"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 20时50分]"
+          "time_info": "[17时49分 ~ 22时21分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -842,18 +861,6 @@
           "time_info": "[06时12分 ~ 07时52分]"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时50分]"
-        },
-        {
           "title": "特朗普：伊朗确实挺硬气",
           "url": "https://news.ifeng.com/c/8vErXsygJc0",
           "source": "凤凰网",
@@ -861,8 +868,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 22时21分]"
         },
         {
           "title": "特朗普画K线！媒体称美以考虑开盘之前完成轰炸伊朗能源目标的“任务”",
@@ -952,8 +959,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时26分 ~ 20时50分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 22时21分]"
         },
         {
           "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
@@ -965,8 +972,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 22时21分]"
         },
         {
           "title": "据以色列i24News：加沙和平委员会的一位高级官员当地时间周五透露，根据拟议的加沙框架，以色列需履行的义务仅限于后续阶段，且具有可逆性。此外，这些义务的履行还取决于哈马斯及其他武装组织能否首先履行其安全承诺。",
