@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T06:44:27.781241+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-08-02T07:48:11.861084+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -63,8 +63,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
+        },
+        {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
@@ -77,8 +88,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -88,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -100,8 +111,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -115,15 +126,15 @@
           "time_info": "[00时46分 ~ 06时44分]"
         },
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
           "ranks": [
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -136,6 +147,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时50分]"
+        },
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "马斯克关注DeepSeek账号",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 07时48分]"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         },
         {
           "title": "杨丞琳照片被判AI",
@@ -162,8 +217,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -175,8 +230,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -186,8 +241,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
+        },
+        {
+          "title": "以媒：特朗普接近批准袭击伊朗能源设施",
+          "url": "https://news.ifeng.com/c/8vFPS4k24LG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 07时48分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -202,17 +268,6 @@
           "time_info": "[00时46分 ~ 05时46分]"
         },
         {
-          "title": "以媒：特朗普接近批准袭击伊朗能源设施",
-          "url": "https://news.ifeng.com/c/8vFPS4k24LG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 06时44分]"
-        },
-        {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
           "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
@@ -223,8 +278,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时49分 ~ 06时44分]"
+          "appearance_count": 5,
+          "time_info": "[02时49分 ~ 07时48分]"
         },
         {
           "title": "美国前副总统哈里斯：（关于伊朗战争）这场战争是现任总统特朗普主动选择卷入的冲突，他与以色列联手开战，而对美国而言，并不存在明确的国家安全问题。",
@@ -265,8 +320,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时44分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时48分]"
         },
         {
           "title": "美联储重大变革？报道：沃什考虑减少议息会议频率，打破40年惯例",
