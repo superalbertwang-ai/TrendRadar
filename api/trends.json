@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T01:50:40.386417+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-08-02T02:49:25.627837+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
           "url": "https://wallstreetcn.com/articles/3778475",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -48,19 +49,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
           "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -70,19 +72,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
           "url": "https://wallstreetcn.com/articles/3778474",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "“AI股神”最新表态：再也不碰杠杆了",
@@ -92,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -103,8 +106,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
+        },
+        {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -113,17 +127,6 @@
           "ranks": [
             11,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -144,18 +147,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
           "url": "https://wallstreetcn.com/articles/3778460",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -165,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -176,8 +180,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -187,8 +191,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
+        },
+        {
+          "title": "以媒：特朗普接近批准袭击伊朗能源设施",
+          "url": "https://news.ifeng.com/c/8vFPS4k24LG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
+          "url": "https://flash.jin10.com/detail/20260802022303381800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美国前副总统哈里斯：（关于伊朗战争）这场战争是现任总统特朗普主动选择卷入的冲突，他与以色列联手开战，而对美国而言，并不存在明确的国家安全问题。",
+          "url": "https://flash.jin10.com/detail/20260802014407605800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "特朗普说伊朗确实挺硬气",
@@ -215,8 +252,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "南部战区位黄岩岛领海领空和周边海空域组织海空联合演训",
@@ -226,19 +263,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时49分]"
         },
         {
           "title": "约旦官方消息人士：伊拉克已告知我们，如果亲伊朗的民兵袭击约旦，伊拉克将对其进行打击。我们期待伊拉克将采取措施遏制民兵组织。",
           "url": "https://flash.jin10.com/detail/20260802010107992800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 02时49分]"
         }
       ]
     }
