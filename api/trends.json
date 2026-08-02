@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T02:49:52.722517+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-08-03T04:06:07.781126+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -14,22 +14,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时49分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
@@ -40,8 +30,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时06分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
@@ -51,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -74,8 +75,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -86,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -98,8 +99,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -110,8 +111,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -122,8 +123,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 04时06分]"
         },
         {
           "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
@@ -144,17 +156,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
-        },
-        {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
           "url": "https://www.zhihu.com/question/2067198062456463879",
           "source": "知乎",
@@ -162,8 +163,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 04时06分]"
+        },
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -173,8 +185,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时06分]"
         },
         {
           "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
@@ -182,22 +206,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时49分]"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时49分]"
+          "time_info": "[01时52分 ~ 04时06分]"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -205,44 +219,48 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 04时06分]"
         },
         {
           "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
           "url": "https://flash.jin10.com/detail/20260803015627779800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 04时06分]"
         },
         {
           "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
           "url": "https://flash.jin10.com/detail/20260803014329998800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 04时06分]"
         },
         {
           "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
           "url": "https://flash.jin10.com/detail/20260803013751190800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时49分 ~ 04时06分]"
         }
       ]
     }
