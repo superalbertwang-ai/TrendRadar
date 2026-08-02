@@ -1,12 +1,237 @@
 {
-  "generated_at": "2026-08-03T06:45:42.280742+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-08-03T07:49:05.050330+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            3,
+            2,
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 07时48分]"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 06时45分]"
+        },
+        {
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时05分 ~ 07时49分]"
+        },
+        {
+          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 06时45分]"
+        },
+        {
+          "title": "QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链",
+          "url": "https://wallstreetcn.com/livenews/3143755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "网上爆火的AI短剧男主",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%B8%8A%E7%88%86%E7%81%AB%E7%9A%84AI%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 07时49分]"
+        },
+        {
+          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
+          "url": "https://wallstreetcn.com/livenews/3143681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时52分]"
+        },
+        {
+          "title": "如何看待蔡浩宇卸任 AI 灵魂大法师？",
+          "url": "https://www.zhihu.com/question/2066215968578204075",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
+          "url": "https://www.zhihu.com/question/2066215968578204075",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "如何看待 Anthropic 的 ARR 增速开始放缓？",
+          "url": "https://www.zhihu.com/question/2066099059375301622",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 16,
       "titles": [
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
+        },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
           "url": "https://www.zhihu.com/question/2067198062456463879",
@@ -19,26 +244,16 @@
           "time_info": "[00时45分 ~ 06时45分]"
         },
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
           "title": "特朗普：同意取消对伊朗的打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
@@ -50,8 +265,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 07时49分]"
         },
         {
           "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
@@ -112,22 +327,60 @@
           "url": "https://flash.jin10.com/detail/20260803061251267800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时49分]"
         },
         {
           "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
           "url": "https://flash.jin10.com/detail/20260803061218681800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时49分]"
+        },
+        {
+          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3143741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时49分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
+          "url": "https://flash.jin10.com/detail/20260803061041484800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时49分]"
+        },
+        {
+          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
+          "url": "https://flash.jin10.com/detail/20260803061040162800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时49分]"
         },
         {
           "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
@@ -142,46 +395,13 @@
           "time_info": "[02时49分 ~ 04时06分]"
         },
         {
-          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803061041484800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
-          "url": "https://flash.jin10.com/detail/20260803061040162800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
           "url": "https://flash.jin10.com/detail/20260803054323048800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -192,162 +412,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
-          "url": "https://www.zhihu.com/question/2067212789714778007",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
-          "ranks": [
-            11,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "怎么看待AI大回调，大摩120页研报深度解读",
-          "url": "https://wallstreetcn.com/articles/3778502",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
-          "url": "https://wallstreetcn.com/articles/3778505",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
-          "url": "https://www.cls.cn/detail/2443437",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 06时45分]"
-        },
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时05分 ~ 06时45分]"
-        },
-        {
-          "title": "中信建投：8月有望开启修复行情，重点关注AI算力等行业",
-          "url": "https://wallstreetcn.com/livenews/3143681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时52分]"
         }
       ]
     }
