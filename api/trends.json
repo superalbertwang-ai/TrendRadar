@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T20:13:17.816862+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-08-03T23:37:27.784356+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -156,6 +156,43 @@
           "time_info": "[04时05分 ~ 07时49分]"
         },
         {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 23时37分]"
+        },
+        {
+          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
+          "url": "https://wallstreetcn.com/articles/3778546",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 23时37分]"
+        },
+        {
+          "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
+          "url": "https://www.zhihu.com/question/2067550234776020574",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 23时37分]"
+        },
+        {
           "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
           "url": "https://www.cls.cn/detail/2443826",
           "source": "财联社热门",
@@ -168,15 +205,28 @@
           "time_info": "[13时28分 ~ 16时56分]"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
+          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 23时37分]"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时56分 ~ 20时13分]"
+          "time_info": "[20时13分 ~ 23时37分]"
         },
         {
           "title": "AI短剧女主60秒广告报价25万8",
@@ -185,21 +235,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
         {
-          "title": "性能与Anthropic Fable 5相当！阿里巴巴发布千问3.8-MAX，2.4万亿个参数，长程自动编程表现出色",
-          "url": "https://wallstreetcn.com/articles/3778546",
-          "source": "华尔街见闻",
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 20时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "AI对数学发展有何帮助",
@@ -213,18 +262,6 @@
           "time_info": "09时24分"
         },
         {
-          "title": "如何评价 8 月 3 日上线的阿里 Qwen 3.8 Max 正式版？相比其他模型表现如何？",
-          "url": "https://www.zhihu.com/question/2067550234776020574",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 20时13分]"
-        },
-        {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
           "url": "https://www.zhihu.com/question/2066921241156523798",
           "source": "知乎",
@@ -234,6 +271,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 23时37分]"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 23时37分]"
         },
         {
           "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
@@ -246,6 +307,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时56分 ~ 20时13分]"
+        },
+        {
+          "title": "AI在数学领域发展如何",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E6%95%B0%E5%AD%A6%E9%A2%86%E5%9F%9F%E5%8F%91%E5%B1%95%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -305,6 +377,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "中金：AI之外还有什么值得买",
+          "url": "https://wallstreetcn.com/articles/3778538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时13分 ~ 23时37分]"
+        },
+        {
           "title": "涉及中国AI，两家英媒同日发文",
           "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
           "source": "凤凰网",
@@ -338,18 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时49分 ~ 09时24分]"
-        },
-        {
-          "title": "阿里Qwen3.8正式发布：总参数量2.4万亿，第三方榜单仅次于Claude",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708536",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 20时13分]"
         },
         {
           "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
@@ -387,6 +458,17 @@
           "time_info": "[00时45分 ~ 01时52分]"
         },
         {
+          "title": "AI数据中心真要“上天”？SpaceX押注的是能源天花板",
+          "url": "https://flash.jin10.com/detail/20260803230146049800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
           "url": "https://www.cls.cn/detail/2443873",
           "source": "财联社热门",
@@ -404,7 +486,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -431,26 +513,15 @@
           "time_info": "13时28分"
         },
         {
-          "title": "中金：AI之外还有什么值得买",
-          "url": "https://wallstreetcn.com/articles/3778538",
-          "source": "华尔街见闻",
+          "title": "上半年3000亿元涌入中国AI创业公司 创投资金加速涌向AI和硬科技",
+          "url": "https://flash.jin10.com/detail/20260803230124653800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时13分"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2444244",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
+          "time_info": "23时37分"
         },
         {
           "title": "Qwen3.8-Max上线国家超算互联网",
@@ -459,7 +530,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -473,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时56分"
+        },
+        {
+          "title": "金珵科技李金金：我向联合国秘书长介绍“AI+制造”广阔前景 |“十五五”开新局当尖兵",
+          "url": "https://www.cls.cn/detail/2444220",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "博主：DeepSeek给全球AI画斩杀线",
@@ -492,7 +574,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         },
@@ -508,15 +590,15 @@
           "time_info": "13时28分"
         },
         {
-          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
-          "url": "https://www.zhihu.com/question/2067512422555029717",
-          "source": "知乎",
+          "title": "报道：OpenAI、Anthropic、谷歌员工代表将参加周二的白宫AI企业会议",
+          "url": "https://wallstreetcn.com/livenews/3144221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时13分"
+          "time_info": "23时37分"
         },
         {
           "title": "律师谈真人演员卖脸给AI",
@@ -569,9 +651,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "招商证券：海外厂商云收入保持高增，AI应用有望加速发展",
+          "url": "https://flash.jin10.com/detail/20260803223346215800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "阿里Qwen3.8正式发布，总参数量2.4万亿，整体性能处于全球大模型第一梯队",
@@ -585,15 +678,15 @@
           "time_info": "13时28分"
         },
         {
-          "title": "DeepSeek一天消耗了8万亿",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "大摩120页研报深度解读AI大回调",
+          "url": "https://www.toutiao.com/trending/7669783227522879018/",
+          "source": "今日头条",
           "ranks": [
-            27
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时13分"
+          "time_info": "23时37分"
         },
         {
           "title": "两台电脑交火跑AI是什么体验",
@@ -610,7 +703,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -810,6 +903,17 @@
           "time_info": "[02时49分 ~ 04时06分]"
         },
         {
+          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
           "url": "https://flash.jin10.com/detail/20260803054323048800",
           "source": "金十数据",
@@ -846,7 +950,7 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊拉克国家石油营销组织SOMO要求长期买家预订8月装船的巴士拉原油。",
@@ -858,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "以色列国防军表示，在加沙击毙一名伊斯兰圣战组织指挥官。",
+          "url": "https://flash.jin10.com/detail/20260803230738152800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时37分"
         },
         {
           "title": "联合国工发组织食品行业检验检测能力建设与提升培训计划收官",
