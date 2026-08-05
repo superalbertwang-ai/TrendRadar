@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T18:23:35.018926+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-08-05T20:34:04.052156+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -15,11 +15,12 @@
             9,
             15,
             19,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时32分 ~ 18时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时32分 ~ 20时34分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -61,6 +62,18 @@
           "time_info": "[05时04分 ~ 18时23分]"
         },
         {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 20时34分]"
+        },
+        {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时32分 ~ 07时53分]"
-        },
-        {
-          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778691",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 18时23分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -145,6 +146,18 @@
           "time_info": "[01时31分 ~ 07时53分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时34分]"
+        },
+        {
           "title": "AI短剧市场有多火？虚拟演员商单报价超真人网红 但爆款率不足0.5%困局待解",
           "url": "https://www.cls.cn/detail/2445817",
           "source": "财联社热门",
@@ -155,6 +168,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 15时32分]"
+        },
+        {
+          "title": "AI做的动物尺度太大了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时34分]"
         },
         {
           "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
@@ -177,6 +202,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 06时11分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时34分]"
+        },
+        {
+          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
+          "url": "https://www.cls.cn/detail/2446218",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 20时34分]"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -219,20 +268,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
         {
-          "title": "闪迪和西部数据即将发布财报 业绩能否重新点燃AI存储牛市信心？",
-          "url": "https://www.cls.cn/detail/2446218",
-          "source": "财联社热门",
+          "title": "美国AI云端运算企业COREWEAVE(CRWV.O)：与Solidigm的协议将强化其集成人工智能平台。",
+          "url": "https://flash.jin10.com/detail/20260805200311834800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时23分"
+          "time_info": "20时34分"
         },
         {
           "title": "SpaceX二季度AI Segment资本开支158.3亿美元，分析师预期130.9亿美元。",
@@ -269,28 +318,6 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
-          "title": "AI做的动物尺度太大了",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "梁文峰会不会成为中国 AI 里程碑人物？",
           "url": "https://www.zhihu.com/question/10315979917",
           "source": "知乎",
@@ -302,6 +329,17 @@
           "time_info": "15时32分"
         },
         {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "三星探索内存新技术：垂直堆叠于AI加速器之上 密度超传统HBM5十倍",
           "url": "https://flash.jin10.com/detail/20260805042229616800",
           "source": "金十数据",
@@ -311,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美国AI云端运算企业Coreweave(CRWV.O)与数据存储解决方案运营商Solidigm签署多年期协议。",
+          "url": "https://flash.jin10.com/detail/20260805200127564800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         },
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
@@ -374,7 +423,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -500,17 +549,6 @@
           "time_info": "06时11分"
         },
         {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "SpaceX宣布：与英伟达合作开发“星智AI1”卫星计算载荷，配置Rubin GPU和Vera CPU",
           "url": "https://wallstreetcn.com/livenews/3144920",
           "source": "华尔街见闻-快讯",
@@ -561,7 +599,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -583,7 +621,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
@@ -724,7 +762,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -782,8 +820,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时53分 ~ 20时34分]"
         }
       ]
     }
