@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T17:49:00.827497+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-08-07T18:42:44.502964+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[06时41分 ~ 18时42分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -31,8 +31,21 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时41分 ~ 17时49分]"
+          "appearance_count": 7,
+          "time_info": "[06时41分 ~ 18时42分]"
+        },
+        {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时06分 ~ 18时42分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
@@ -60,16 +73,17 @@
           "time_info": "[14时06分 ~ 17时49分]"
         },
         {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
-          "source": "财联社热门",
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            2
+            27,
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时06分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时42分]"
         },
         {
           "title": "内娱第一人 戚薇开放形象AI授权",
@@ -96,6 +110,18 @@
           "time_info": "[09时42分 ~ 14时06分]"
         },
         {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 18时42分]"
+        },
+        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
@@ -107,16 +133,38 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时05分 ~ 18时42分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
           "source": "bilibili 热搜",
           "ranks": [
-            27,
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时42分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时05分 ~ 17时49分]"
+          "time_info": "[17时48分 ~ 18时42分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -131,6 +179,18 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时42分]"
+        },
+        {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
           "url": "https://news.ifeng.com/c/8vNCMzGV09R",
           "source": "凤凰网",
@@ -142,15 +202,15 @@
           "time_info": "06时41分"
         },
         {
-          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
-          "url": "https://wallstreetcn.com/livenews/3146612",
-          "source": "华尔街见闻-快讯",
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时42分]"
         },
         {
           "title": "汪峰公司因AI从1100人减到400人",
@@ -163,18 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时06分 ~ 16时05分]"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 17时49分]"
         },
         {
           "title": "ai漫剧男主唯一塌房方式被找到了",
@@ -222,17 +270,6 @@
           "time_info": "[16时05分 ~ 17时49分]"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时05分 ~ 17时49分]"
-        },
-        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
@@ -242,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 06时41分]"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时42分]"
         },
         {
           "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
@@ -267,17 +315,6 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
           "title": "戚薇 授权AI",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -295,17 +332,6 @@
           "source": "今日头条",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -346,24 +372,13 @@
           "time_info": "09时42分"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
           "url": "https://wallstreetcn.com/livenews/3146603",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -390,6 +405,17 @@
           "time_info": "06时41分"
         },
         {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -399,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
-        },
-        {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
         },
         {
           "title": "戚薇 AI漫剧",
@@ -550,7 +565,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时49分"
         },
@@ -591,8 +606,19 @@
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "CODM突然联动崩坏3",
+          "url": "https://search.bilibili.com/all?keyword=CODM%E7%AA%81%E7%84%B6%E8%81%94%E5%8A%A8%E5%B4%A9%E5%9D%8F3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时05分 ~ 18时42分]"
+        },
         {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
           "url": "https://www.toutiao.com/trending/7670541877679620150/",
@@ -607,26 +633,52 @@
           "time_info": "[06时40分 ~ 12时19分]"
         },
         {
+          "title": "河南三支一扶笔试存在组织作弊",
+          "url": "https://www.douyin.com/hot/2601020",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时42分]"
+        },
+        {
           "title": "河南三支一扶笔试存在组织作弊犯罪",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%AD%98%E5%9C%A8%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时42分]"
         },
         {
           "title": "河南三支一扶考试存规模性组织作弊",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E8%AF%95%E5%AD%98%E8%A7%84%E6%A8%A1%E6%80%A7%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时42分]"
+        },
+        {
+          "title": "河南三支一扶考试存规模性组织作弊",
+          "url": "https://www.toutiao.com/trending/7671204001785843241/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 18时42分]"
         },
         {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
@@ -641,59 +693,61 @@
           "time_info": "[12时19分 ~ 16时05分]"
         },
         {
-          "title": "CODM突然联动崩坏3",
-          "url": "https://search.bilibili.com/all?keyword=CODM%E7%AA%81%E7%84%B6%E8%81%94%E5%8A%A8%E5%B4%A9%E5%9D%8F3",
-          "source": "bilibili 热搜",
+          "title": "CODM联动崩坏3",
+          "url": "https://www.douyin.com/hot/2600983",
+          "source": "抖音",
           "ranks": [
+            22,
             11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时05分 ~ 17时49分]"
+          "time_info": "[17时48分 ~ 18时42分]"
         },
         {
-          "title": "河南三支一扶考试存规模性组织作弊",
-          "url": "https://www.toutiao.com/trending/7671204001785843241/",
-          "source": "今日头条",
+          "title": "河南三支一扶将重新组织笔试",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E5%B0%86%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E7%AC%94%E8%AF%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
-        },
-        {
-          "title": "河南三支一扶笔试存在组织作弊",
-          "url": "https://www.douyin.com/hot/2601020",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "河南三支一扶笔试存在组织作弊犯罪",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%AD%98%E5%9C%A8%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA",
           "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
-          "title": "CODM联动崩坏3",
-          "url": "https://www.douyin.com/hot/2600983",
-          "source": "抖音",
-          "ranks": [
-            22
+            4,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时48分 ~ 17时49分]"
+          "time_info": "[17时49分 ~ 18时42分]"
+        },
+        {
+          "title": "河南公安机关查实“三支一扶”招募笔试存在组织作弊犯罪行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33738405",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "河南「三支一扶」考试存组织作弊犯罪，作弊团伙主要成员被抓，哪些人将面临法律追责？暴露了哪些监管失灵？",
+          "url": "https://www.zhihu.com/question/2069099461372899726",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -709,11 +763,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 17时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 18时42分]"
         },
         {
           "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
