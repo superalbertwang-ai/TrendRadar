@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-07T09:42:32.984594+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-07T12:19:36.187192+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 12时19分]"
+        },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
@@ -19,16 +31,16 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
           "ranks": [
-            6,
-            4
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 09时42分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 12时19分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
@@ -43,6 +55,29 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
+          "title": "内娱第一人 戚薇开放形象AI授权",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 12时19分]"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 12时19分]"
+        },
+        {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
           "url": "https://news.ifeng.com/c/8vNCMzGV09R",
           "source": "凤凰网",
@@ -52,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
+          "url": "https://wallstreetcn.com/articles/3778828",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 12时19分]"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -66,26 +112,15 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
-          "title": "内娱第一人 戚薇开放形象AI授权",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
-          "source": "百度热搜",
+          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
+          "url": "https://wallstreetcn.com/articles/3778824",
+          "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时41分 ~ 09时42分]"
+          "time_info": "[09时42分 ~ 12时19分]"
         },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
@@ -122,24 +157,25 @@
           "time_info": "[06时41分 ~ 09时42分]"
         },
         {
+          "title": "AI终结印度三十年“外包神话”",
+          "url": "https://www.baidu.com/s?wd=AI%E7%BB%88%E7%BB%93%E5%8D%B0%E5%BA%A6%E4%B8%89%E5%8D%81%E5%B9%B4%E2%80%9C%E5%A4%96%E5%8C%85%E7%A5%9E%E8%AF%9D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 12时19分]"
+        },
+        {
           "title": "眼镜店老板副业做的AI视频火到海外",
           "url": "https://www.toutiao.com/trending/7670874502713622564/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3778805",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -150,18 +186,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
-          "url": "https://wallstreetcn.com/articles/3778828",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -172,18 +197,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
-          "url": "https://wallstreetcn.com/articles/3778824",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -199,13 +213,46 @@
           "time_info": "06时41分"
         },
         {
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "戚薇 AI漫剧",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20AI%E6%BC%AB%E5%89%A7&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "美国科学家首次用AI设计出病毒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8AI%E8%AE%BE%E8%AE%A1%E5%87%BA%E7%97%85%E6%AF%92%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "曝OpenAI最快下周推出Astra AI",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DOpenAI%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E6%8E%A8%E5%87%BAAstra+AI",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -227,7 +274,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -249,7 +296,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -271,7 +318,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -282,7 +329,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -293,26 +340,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
         {
-          "title": "AI终结印度三十年“外包神话”",
-          "url": "https://www.baidu.com/s?wd=AI%E7%BB%88%E7%BB%93%E5%8D%B0%E5%BA%A6%E4%B8%89%E5%8D%81%E5%B9%B4%E2%80%9C%E5%A4%96%E5%8C%85%E7%A5%9E%E8%AF%9D%E2%80%9D",
-          "source": "百度热搜",
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
           "ranks": [
-            30
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时42分"
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "27岁女子成组织卖淫集团主犯被通缉",
@@ -320,17 +367,29 @@
           "source": "今日头条",
           "ranks": [
             12,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 09时42分]"
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 12时19分]"
+        },
+        {
+          "title": "27岁女子成组织卖淫集团主犯被通缉",
+          "url": "https://www.baidu.com/s?wd=27%E5%B2%81%E5%A5%B3%E5%AD%90%E6%88%90%E7%BB%84%E7%BB%87%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF%E8%A2%AB%E9%80%9A%E7%BC%89",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     },
     {
       "keyword_group": "学习 教培 在线教育",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "本人某 C9 毕业学生，想从事教培工作，但是被家里人骂得狗血淋头，难道教培就怎么不堪吗？",
@@ -343,6 +402,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时40分 ~ 09时42分]"
+        },
+        {
+          "title": "胖东来宣布暂别行业会议和帮扶，是否意味着中国零售业「向胖东来学习」的热潮正在退去？",
+          "url": "https://www.zhihu.com/question/2068641150270026516",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         }
       ]
     }
