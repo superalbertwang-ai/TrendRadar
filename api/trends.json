@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T04:28:22.426337+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-08-08T05:28:35.565896+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -29,8 +29,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时28分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -89,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -101,8 +101,30 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
+        },
+        {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时28分]"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时28分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -138,28 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时37分]"
-        },
-        {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时28分]"
-        },
-        {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时28分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -219,8 +219,33 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 05时28分]"
+        },
+        {
+          "title": "河南三支一扶将重新组织笔试",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E5%B0%86%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E7%AC%94%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            3,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "time_info": "[00时40分 ~ 05时28分]"
+        },
+        {
+          "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33738930",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？",
@@ -249,19 +274,6 @@
           "time_info": "[00时40分 ~ 04时28分]"
         },
         {
-          "title": "河南三支一扶将重新组织笔试",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E5%B0%86%E9%87%8D%E6%96%B0%E7%BB%84%E7%BB%87%E7%AC%94%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 03时44分]"
-        },
-        {
           "title": "河南三支一扶笔试存在组织作弊",
           "url": "https://www.douyin.com/hot/2601020",
           "source": "抖音",
@@ -275,18 +287,6 @@
           "time_info": "[00时40分 ~ 03时44分]"
         },
         {
-          "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33738930",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
-        },
-        {
           "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739023",
           "source": "澎湃新闻",
@@ -295,8 +295,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "河南公安机关查实“三支一扶”招募笔试存在组织作弊犯罪行为",
@@ -307,8 +307,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 05时28分]"
         },
         {
           "title": "CODM联动崩坏3",
