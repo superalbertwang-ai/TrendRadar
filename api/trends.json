@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:28:35.565896+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-08-08T06:25:23.450054+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 06时25分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -29,8 +29,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 06时25分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -52,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -89,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -101,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -112,8 +112,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 06时25分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -123,8 +123,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 06时25分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -219,8 +219,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 06时25分]"
         },
         {
           "title": "河南三支一扶将重新组织笔试",
@@ -229,11 +229,12 @@
           "ranks": [
             11,
             3,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时25分]"
         },
         {
           "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
@@ -244,8 +245,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
+        },
+        {
+          "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739023",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "广东雷州通报特教老师招聘违规事件，多人受到党纪政务处分和组织处理，如何避免此类事件再次发生？",
@@ -260,6 +273,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 04时28分]"
+        },
+        {
+          "title": "河南公安机关查实“三支一扶”招募笔试存在组织作弊犯罪行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33738405",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 06时25分]"
         },
         {
           "title": "CODM突然联动崩坏3",
@@ -287,41 +312,18 @@
           "time_info": "[00时40分 ~ 03时44分]"
         },
         {
-          "title": "官方再通报“特教老师招聘违规”：多人受到党纪政务处分和组织处理",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739023",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
-        },
-        {
-          "title": "河南公安机关查实“三支一扶”招募笔试存在组织作弊犯罪行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33738405",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 05时28分]"
-        },
-        {
           "title": "CODM联动崩坏3",
           "url": "https://www.douyin.com/hot/2600983",
           "source": "抖音",
           "ranks": [
             18,
             17,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 06时25分]"
         },
         {
           "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
