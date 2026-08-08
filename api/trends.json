@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:27:50.098542+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-08-08T18:21:07.481148+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时49分 ~ 17时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时49分 ~ 18时21分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -52,11 +52,12 @@
             18,
             15,
             16,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 17时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 18时21分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -86,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 17时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时41分 ~ 18时21分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -101,8 +102,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时44分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[03时44分 ~ 18时21分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -116,8 +117,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时44分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[03时44分 ~ 18时21分]"
         },
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -133,8 +134,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时21分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -148,6 +149,20 @@
           "time_info": "[00时40分 ~ 07时24分]"
         },
         {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 18时21分]"
+        },
+        {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
           "url": "https://news.ifeng.com/c/8vOieX1f4iR",
           "source": "凤凰网",
@@ -157,6 +172,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 07时24分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时04分 ~ 18时21分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -186,20 +215,6 @@
           "time_info": "[07时24分 ~ 14时31分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时04分 ~ 17时27分]"
-        },
-        {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
           "source": "澎湃新闻",
@@ -213,17 +228,18 @@
           "time_info": "[00时41分 ~ 06时25分]"
         },
         {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            16,
-            17
+            9,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时59分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
           "title": "美国AI开始攻击真人了",
@@ -237,20 +253,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时59分 ~ 16时28分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 17时27分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -273,11 +275,24 @@
           "ranks": [
             16,
             17,
-            25
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 18时21分]"
+        },
+        {
+          "title": "戚薇谈把脸交给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时27分]"
+          "time_info": "[16时28分 ~ 18时21分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -291,6 +306,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
+          "url": "https://wallstreetcn.com/livenews/3146987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
           "url": "https://wallstreetcn.com/articles/3778904",
           "source": "华尔街见闻",
@@ -301,18 +327,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 08时41分]"
-        },
-        {
-          "title": "戚薇谈把脸交给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 17时27分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -339,6 +353,28 @@
           "time_info": "[01时41分 ~ 02时37分]"
         },
         {
+          "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069009991709857177",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
           "url": "https://flash.jin10.com/detail/20260808032042397800",
           "source": "金十数据",
@@ -356,7 +392,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -389,7 +425,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -403,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "苹果AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9CAI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -425,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
@@ -454,11 +512,12 @@
             9,
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时21分]"
         },
         {
           "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
@@ -580,8 +639,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 18时21分]"
         }
       ]
     },
