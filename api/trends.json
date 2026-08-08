@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:39:24.622491+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-08-08T23:19:09.899710+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -23,6 +23,23 @@
           "time_info": "[10时49分 ~ 20时22分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            8,
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时04分 ~ 23时19分]"
+        },
+        {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
           "url": "https://www.cls.cn/detail/2448537",
           "source": "财联社热门",
@@ -37,22 +54,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时41分 ~ 13时36分]"
-        },
-        {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时04分 ~ 21时39分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -92,6 +93,21 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时40分 ~ 19时20分]"
+        },
+        {
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时31分 ~ 23时19分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -171,21 +187,6 @@
           "time_info": "[00时40分 ~ 07时24分]"
         },
         {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 21时39分]"
-        },
-        {
           "title": "自媒体红利期只剩AI了",
           "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -251,6 +252,19 @@
           "time_info": "[00时41分 ~ 06时25分]"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 23时19分]"
+        },
+        {
           "title": "美国AI开始攻击真人了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
           "source": "百度热搜",
@@ -262,18 +276,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时59分 ~ 16时28分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时39分]"
         },
         {
           "title": "字节讨论训练国内最大模型，参数规模将超过阿里 Qwen 3.8-Max 和 Kimi K3，如何看待此事？",
@@ -302,6 +304,19 @@
           "time_info": "[10时49分 ~ 13时36分]"
         },
         {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 23时19分]"
+        },
+        {
           "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
           "url": "https://wallstreetcn.com/livenews/3146973",
           "source": "华尔街见闻-快讯",
@@ -326,6 +341,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时20分 ~ 20时22分]"
+        },
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 23时19分]"
         },
         {
           "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
@@ -388,16 +416,27 @@
           "time_info": "[01时41分 ~ 02时37分]"
         },
         {
-          "title": "苹果AI 千问",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            17
+            9,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时39分]"
+          "time_info": "[21时39分 ~ 23时19分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时19分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -423,16 +462,15 @@
           "time_info": "[18时21分 ~ 19时20分]"
         },
         {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
+          "title": "当AI反过来问你问题",
+          "url": "https://www.douyin.com/hot/2600930",
+          "source": "抖音",
           "ranks": [
-            23,
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时39分]"
+          "time_info": "[23时18分 ~ 23时19分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -446,26 +484,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
-          "url": "https://flash.jin10.com/detail/20260808204416510800",
-          "source": "金十数据",
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "23时19分"
         },
         {
           "title": "我用AI造了奥德赛",
@@ -488,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -551,7 +589,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         }
@@ -690,33 +728,36 @@
           "url": "https://flash.jin10.com/detail/20260808211407439800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时19分]"
         },
         {
           "title": "英国海事贸易组织：已收到关于在阿曼哈萨布东18海里发生事件的报告。",
           "url": "https://flash.jin10.com/detail/20260808210901468800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时19分]"
         },
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
           "url": "https://wallstreetcn.com/livenews/3147012",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 23时19分]"
         },
         {
           "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
