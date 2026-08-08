@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:59:48.355580+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-08-08T13:36:59.338605+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 13时36分]"
         },
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -34,11 +35,12 @@
             19,
             8,
             20,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 12时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 13时36分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -52,34 +54,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 12时04分]"
-        },
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            17,
-            22,
-            23
-          ],
-          "is_new": false,
           "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时59分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "time_info": "[00时41分 ~ 13时36分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -92,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时44分 ~ 12时59分]"
+          "appearance_count": 10,
+          "time_info": "[03时44分 ~ 13时36分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -106,8 +82,35 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时44分 ~ 12时59分]"
+          "appearance_count": 10,
+          "time_info": "[03时44分 ~ 13时36分]"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            17,
+            22,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 13时36分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -156,8 +159,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 13时36分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -170,8 +173,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时41分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[08时41分 ~ 13时36分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
@@ -182,8 +185,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时49分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[10时49分 ~ 13时36分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -192,11 +195,24 @@
           "ranks": [
             7,
             11,
-            21
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时36分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时49分 ~ 12时59分]"
+          "time_info": "[12时04分 ~ 13时36分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -208,6 +224,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国AI开始攻击真人了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 13时36分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -234,16 +262,16 @@
           "time_info": "[01时41分 ~ 02时37分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            10
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时04分 ~ 12时59分]"
+          "time_info": "[12时59分 ~ 13时36分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -269,17 +297,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "美国AI开始攻击真人了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BDAI%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E7%9C%9F%E4%BA%BA%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
           "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
@@ -300,17 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -375,8 +381,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 13时36分]"
         },
         {
           "title": "河南省2026年“三支一扶”笔试成绩作废，将重新组织笔试",
