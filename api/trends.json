@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-09T08:43:14.995268+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-08-09T10:57:42.019832+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 10时57分]"
+        },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
           "url": "https://wallstreetcn.com/articles/3778984",
@@ -14,32 +27,6 @@
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时43分]"
-        },
-        {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时43分]"
-        },
-        {
-          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
-          "url": "https://www.cls.cn/detail/2449139",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -54,24 +41,26 @@
             9,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 10时57分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            5,
+            9,
+            8,
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 10时57分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -85,8 +74,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 10时57分]"
+        },
+        {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 07时18分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -122,11 +124,12 @@
             10,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时17分 ~ 08时43分]"
+          "appearance_count": 6,
+          "time_info": "[04时17分 ~ 10时57分]"
         },
         {
           "title": "如何看待 OpenCode Go 订阅中 DeepSeek v4 Flash 开启限时双倍活动？",
@@ -176,8 +179,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 08时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 10时57分]"
         },
         {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
@@ -191,6 +194,52 @@
           "time_info": "[08时42分 ~ 08时43分]"
         },
         {
+          "title": "苹果中国官网删除Apple智能接入阿里千问手册",
+          "url": "https://flash.jin10.com/detail/20260809102752884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
+          "url": "https://www.cls.cn/detail/2449188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时57分]"
+        },
+        {
+          "title": "大爷听AI洒农药 150亩苗一夜枯萎",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%88%B7%E5%90%ACAI%E6%B4%92%E5%86%9C%E8%8D%AF+150%E4%BA%A9%E8%8B%97%E4%B8%80%E5%A4%9C%E6%9E%AF%E8%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
+          "url": "https://wallstreetcn.com/articles/3778990",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时57分]"
+        },
+        {
           "title": "苹果AI 千问",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -202,15 +251,37 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
           "url": "https://wallstreetcn.com/articles/3778983",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "Agentic AI新趋势：亚马逊AWS出现“CPU短缺”",
+          "url": "https://wallstreetcn.com/articles/3778989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
@@ -222,28 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
-          "url": "https://wallstreetcn.com/articles/3778990",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
-          "url": "https://www.cls.cn/detail/2449188",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
         },
         {
           "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
@@ -269,11 +318,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 08时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 10时57分]"
         },
         {
           "title": "约旦外交部：两位外交大臣还讨论了一些共同关心的问题，以及加强阿拉伯共同合作的前景和途径，并一致同意在双边及多边组织框架内继续协调和磋商，针对地区和国际问题进行合作。",
