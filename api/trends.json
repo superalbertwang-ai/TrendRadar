@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T12:09:48.146303+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-08-09T13:41:12.489323+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -15,11 +15,12 @@
             4,
             5,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 12时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 13时41分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -32,8 +33,24 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 13时41分]"
+        },
+        {
+          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            18,
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时19分 ~ 12时09分]"
+          "time_info": "[00时19分 ~ 13时41分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -64,19 +81,20 @@
           "time_info": "[00时19分 ~ 10时57分]"
         },
         {
-          "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744426",
-          "source": "澎湃新闻",
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            16,
-            18,
-            20,
-            19
+            10,
+            9,
+            8,
+            6,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 10时57分]"
+          "appearance_count": 8,
+          "time_info": "[04时17分 ~ 13时41分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -107,22 +125,6 @@
           "time_info": "[01时21分 ~ 07时18分]"
         },
         {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时17分 ~ 12时09分]"
-        },
-        {
           "title": "几元成本的AI广告导致千万市值蒸发",
           "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
           "source": "百度热搜",
@@ -145,6 +147,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时21分 ~ 05时20分]"
+        },
+        {
+          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
+          "url": "https://www.cls.cn/detail/2449188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时43分 ~ 13时41分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -185,28 +199,29 @@
           "time_info": "[07时18分 ~ 10时57分]"
         },
         {
-          "title": "【早报】Apple智能可配合阿里千问模型工作；江波龙定增大幅溢价",
-          "url": "https://www.cls.cn/detail/2449188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 12时09分]"
-        },
-        {
           "title": "苹果中国官网删除Apple智能接入阿里千问手册",
           "url": "https://flash.jin10.com/detail/20260809102752884800",
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时41分]"
+        },
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时41分]"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -221,16 +236,15 @@
           "time_info": "[08时43分 ~ 12时09分]"
         },
         {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
+          "title": "苹果官网已删除Apple智能接入阿里千问页面",
+          "url": "https://wallstreetcn.com/livenews/3147049",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时57分 ~ 12时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         },
         {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
@@ -267,6 +281,28 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "UP主用AI做了一个播放量预测器",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E6%92%AD%E6%94%BE%E9%87%8F%E9%A2%84%E6%B5%8B%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "“AI应用龙头”归来！Palantir创2024年以来“最强单周表现”",
           "url": "https://wallstreetcn.com/articles/3778983",
           "source": "华尔街见闻",
@@ -289,6 +325,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
           "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
           "url": "https://wallstreetcn.com/articles/3778981",
           "source": "华尔街见闻",
@@ -306,7 +353,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -317,7 +364,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -347,11 +394,12 @@
             13,
             14,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 12时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 13时41分]"
         },
         {
           "title": "约旦外交部：两位外交大臣还讨论了一些共同关心的问题，以及加强阿拉伯共同合作的前景和途径，并一致同意在双边及多边组织框架内继续协调和磋商，针对地区和国际问题进行合作。",
