@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:12:05.152544+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-08-10T23:50:56.850874+08:00",
+  "total_titles_processed": 1831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -86,6 +86,21 @@
           "time_info": "[00时21分 ~ 08时44分]"
         },
         {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时16分 ~ 23时50分]"
+        },
+        {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
           "url": "https://wallstreetcn.com/livenews/3147116",
           "source": "华尔街见闻-快讯",
@@ -115,20 +130,6 @@
           "time_info": "[13时16分 ~ 20时40分]"
         },
         {
-          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
-          "url": "https://wallstreetcn.com/articles/3779038",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时16分 ~ 22时12分]"
-        },
-        {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
           "url": "https://wallstreetcn.com/livenews/3147103",
           "source": "华尔街见闻-快讯",
@@ -140,6 +141,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
+          "url": "https://wallstreetcn.com/articles/3779065",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时50分]"
         },
         {
           "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
@@ -155,18 +170,19 @@
           "time_info": "[15时05分 ~ 20时40分]"
         },
         {
-          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
-          "url": "https://wallstreetcn.com/articles/3779065",
-          "source": "华尔街见闻",
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
-            9,
-            5,
-            4,
-            3
+            14,
+            18,
+            19,
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时07分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时07分 ~ 23时50分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -184,18 +200,30 @@
           "time_info": "[17时06分 ~ 20时40分]"
         },
         {
-          "title": "AI挤占短剧业,真人演员遭偷家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
-          "source": "贴吧",
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            18,
-            19,
-            20
+            10,
+            11,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时07分 ~ 22时12分]"
+          "time_info": "[18时57分 ~ 23时50分]"
+        },
+        {
+          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
+          "url": "https://www.cls.cn/detail/2449895",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 23时50分]"
         },
         {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
@@ -211,29 +239,17 @@
           "time_info": "[11时06分 ~ 15时05分]"
         },
         {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
-          "source": "财联社热门",
+          "title": "ai漫剧顶流已经出了8季了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            11,
-            8
+            19,
+            23,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时12分]"
-        },
-        {
-          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
-          "url": "https://www.cls.cn/detail/2449895",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时12分]"
+          "time_info": "[20时40分 ~ 23时50分]"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -260,18 +276,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时06分 ~ 18时57分]"
-        },
-        {
-          "title": "ai漫剧顶流已经出了8季了",
-          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -307,6 +311,18 @@
           "time_info": "17时07分"
         },
         {
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时50分]"
+        },
+        {
           "title": "Meta美股盘前涨近3%，此前公司发布轻量化版AI模型，单张显卡即可运行。",
           "url": "https://wallstreetcn.com/livenews/3147486",
           "source": "华尔街见闻-快讯",
@@ -317,6 +333,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时47分 ~ 20时40分]"
+        },
+        {
+          "title": "市场消息：英伟达支持的AI云计算服务商Lambda正在出售一笔杠杆贷款，用于为芯片交易提供资金。该公司正在发行一笔规模为9.17亿美元的GPU采购杠杆贷款。",
+          "url": "https://flash.jin10.com/detail/20260810231415887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -386,6 +413,17 @@
           "time_info": "20时40分"
         },
         {
+          "title": "伊朗总统：美以袭击依赖AI数据 但所有“算计”均被挫败",
+          "url": "https://flash.jin10.com/detail/20260810230305320800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "高盛刘劲津：中国AI不存在整体性泡沫，外资配置空间巨大",
           "url": "https://wallstreetcn.com/articles/3779028",
           "source": "华尔街见闻",
@@ -395,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时47分"
-        },
-        {
-          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
-          "url": "https://wallstreetcn.com/articles/3779081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "券商晨会精华：AI制药大有可为，产业链有望持续受益",
@@ -568,7 +595,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -579,7 +606,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -705,8 +732,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 23时50分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -730,11 +757,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时12分]"
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 23时50分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
