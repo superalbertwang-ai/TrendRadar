@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-13T07:31:09.927772+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-08-13T08:53:23.660477+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "DeepSeek V4 Pro正式版上线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 08时53分]"
+        },
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
           "url": "https://www.zhihu.com/question/2071014727606703118",
@@ -20,28 +32,18 @@
           "time_info": "[00时46分 ~ 07时31分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时46分 ~ 07时31分]"
-        },
-        {
           "title": "如何看待杨奇回应《黑神话：钟馗》进度「设计阶段会远离 AIGC 工具，诺兰的奥德赛也是古法创作」？",
           "url": "https://www.zhihu.com/question/2070508935673378471",
           "source": "知乎",
           "ranks": [
             19,
             20,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 08时53分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -54,8 +56,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时49分 ~ 07时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 08时53分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -65,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 08时53分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -77,8 +79,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 08时53分]"
+        },
+        {
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时47分 ~ 07时31分]"
+          "time_info": "[01时49分 ~ 08时53分]"
         },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -92,18 +107,6 @@
           "time_info": "[00时47分 ~ 06时30分]"
         },
         {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 07时31分]"
-        },
-        {
           "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3779219",
           "source": "华尔街见闻",
@@ -114,6 +117,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时47分 ~ 05时35分]"
+        },
+        {
+          "title": "三角洲AI夏日晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 08时53分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -139,6 +154,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "DeepSeek重磅更新 V4Pro正式版上线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 08时53分]"
         },
         {
           "title": "DeepSeek官网API文档新增“DeepSeek-V4-Pro-0813”模型",
@@ -167,16 +194,27 @@
           "time_info": "[00时47分 ~ 02时45分]"
         },
         {
-          "title": "三角洲AI夏日晚会",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
           "ranks": [
-            28,
-            26
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 05时35分]"
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 08时53分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
@@ -202,15 +240,15 @@
           "time_info": "[05时35分 ~ 06时30分]"
         },
         {
-          "title": "DeepSeek重磅更新 V4Pro正式版上线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E7%A3%85%E6%9B%B4%E6%96%B0+V4Pro%E6%AD%A3%E5%BC%8F%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "百度热搜",
+          "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
+          "url": "https://www.zhihu.com/question/2071019389479023642",
+          "source": "知乎",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "08时53分"
         },
         {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
@@ -236,15 +274,26 @@
           "time_info": "02时45分"
         },
         {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "source": "财联社热门",
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "08时53分"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         },
         {
           "title": "消息人士称，谷歌(GOOG.O)联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -256,6 +305,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "美股AI算力和存储芯片爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "美媒：白宫拟扩大AI监管，开源模型或纳入测试框架",
+          "url": "https://flash.jin10.com/detail/20260813073739096800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         }
       ]
     },
@@ -317,7 +388,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -339,24 +410,25 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
-          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 07时31分]"
-        },
-        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
           "ranks": [
             17,
             16,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 08时53分]"
+        },
+        {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
