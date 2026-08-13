@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-14T04:30:57.857075+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-08-14T07:31:18.660378+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时30分]"
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 07时31分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -24,11 +25,116 @@
           "source": "知乎",
           "ranks": [
             5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "DeepSeek Harness发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10,
+            17,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            19,
+            24,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            29,
+            4,
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 07时31分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时30分]"
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -43,62 +149,39 @@
           "time_info": "[00时43分 ~ 04时30分]"
         },
         {
-          "title": "DeepSeek Harness发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时30分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时30分]"
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时31分]"
+        },
+        {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -113,53 +196,16 @@
           "time_info": "[00时43分 ~ 04时30分]"
         },
         {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
           "ranks": [
-            23,
-            22,
-            17
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时30分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            19,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 04时30分]"
-        },
-        {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时46分]"
+          "time_info": "[00时44分 ~ 07时31分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -174,46 +220,12 @@
           "time_info": "[00时43分 ~ 02时46分]"
         },
         {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
           "url": "https://www.cls.cn/detail/2453351",
           "source": "财联社热门",
           "ranks": [
             13,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 04时30分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -287,6 +299,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
+          "url": "https://wallstreetcn.com/livenews/3149345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
           "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
           "url": "https://flash.jin10.com/detail/20260814000628612800",
           "source": "金十数据",
@@ -318,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
+          "url": "https://wallstreetcn.com/articles/3779359",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -373,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
           "title": "Anthropic IPO前密会投资者 2万亿美元估值非官方目标",
@@ -469,7 +514,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
