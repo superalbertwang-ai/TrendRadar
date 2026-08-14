@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T11:20:05.096858+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-08-14T16:57:32.787235+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 55,
+      "match_count": 62,
       "titles": [
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 11时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 16时57分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -78,6 +78,45 @@
           "time_info": "[00时43分 ~ 08时53分]"
         },
         {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 16时57分]"
+        },
+        {
+          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
+          "url": "https://wallstreetcn.com/articles/3779377",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 16时57分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 16时57分]"
+        },
+        {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -94,41 +133,32 @@
           "time_info": "[00时43分 ~ 08时53分]"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时20分]"
-        },
-        {
-          "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
-          "url": "https://wallstreetcn.com/articles/3779377",
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
           "source": "华尔街见闻",
           "ranks": [
-            3,
-            4,
-            5
+            10,
+            8,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 16时57分]"
         },
         {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
           "ranks": [
-            4,
-            5
+            25,
+            26,
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 16时57分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -157,32 +187,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时43分 ~ 11时20分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时20分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 11时20分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -244,6 +248,31 @@
           "time_info": "[08时53分 ~ 11时20分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时53分 ~ 16时57分]"
+        },
+        {
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 16时57分]"
+        },
+        {
           "title": "史上最大IPO要易主了？据称Anthropic将于10月IPO，估值或突破2万亿美元",
           "url": "https://www.cls.cn/detail/2453351",
           "source": "财联社热门",
@@ -256,19 +285,19 @@
           "time_info": "[00时44分 ~ 04时30分]"
         },
         {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
             9,
@@ -276,7 +305,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时53分 ~ 11时20分]"
+          "time_info": "[11时20分 ~ 16时57分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -368,6 +397,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
           "url": "https://flash.jin10.com/detail/20260814000639384800",
           "source": "金十数据",
@@ -401,15 +441,15 @@
           "time_info": "00时44分"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
+          "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
+          "url": "https://www.zhihu.com/question/2071486982732223991",
+          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "16时57分"
         },
         {
           "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
@@ -423,6 +463,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "SK海力士崔泰源：明年将迎最严重“存储荒” AI客户需求几乎翻倍",
+          "url": "https://www.cls.cn/detail/2454270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "OpenAI任命达利·拉季奇为首席营收官。",
           "url": "https://flash.jin10.com/detail/20260814000501554800",
           "source": "金十数据",
@@ -434,6 +485,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "受助AI相关电子产品需求旺盛 中国香港上修今年GDP增长预测",
+          "url": "https://flash.jin10.com/detail/20260814164729988800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
           "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
           "url": "https://wallstreetcn.com/articles/3779359",
           "source": "华尔街见闻",
@@ -443,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
@@ -465,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "券商晨会精华：AI产业链整体表现可能从基础层向模型层和应用层进行均衡",
+          "url": "https://www.cls.cn/detail/2454030",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         },
         {
           "title": "OpenAI在不到一年内任命新首席营收官。",
@@ -528,7 +612,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -594,7 +678,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -689,9 +773,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英媒盯上美国左翼组织，妄称“中国资助英国抗议”",
+          "url": "https://news.ifeng.com/c/8vaBwOpAG8L",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时57分"
         }
       ]
     },
