@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-08-15T11:31:03.208761+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-08-15T12:20:12.705209+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
       "match_count": 33,
       "titles": [
-        {
-          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
-          "url": "https://wallstreetcn.com/articles/3779448",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 11时31分]"
-        },
         {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
@@ -28,11 +16,12 @@
             7,
             13,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 12时20分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -42,11 +31,36 @@
             20,
             21,
             28,
-            16
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 12时20分]"
+        },
+        {
+          "title": "英伟达CPO交换机全面量产，AI数据中心迈入“硅光时代”！",
+          "url": "https://wallstreetcn.com/articles/3779448",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时41分 ~ 11时31分]"
+          "time_info": "[00时41分 ~ 12时20分]"
+        },
+        {
+          "title": "AI动画版大圣归来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E7%89%88%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 12时20分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -56,11 +70,12 @@
             7,
             8,
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 11时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 12时20分]"
         },
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -70,11 +85,24 @@
             17,
             18,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 11时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 12时20分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时30分 ~ 12时20分]"
         },
         {
           "title": "如何评价北京协和医院住院医用 AI 解决了困扰数学界的难题 Crouzeix 猜想？",
@@ -89,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时41分 ~ 10时09分]"
-        },
-        {
-          "title": "AI动画版大圣归来",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E7%89%88%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时09分 ~ 11时31分]"
         },
         {
           "title": "中国AI把价格打下来，美国巨头一口气降80%",
@@ -137,6 +153,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时41分 ~ 08时31分]"
+        },
+        {
+          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
+          "url": "https://wallstreetcn.com/articles/3779452",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时20分]"
         },
         {
           "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
@@ -176,38 +204,55 @@
           "time_info": "[00时41分 ~ 08时31分]"
         },
         {
-          "title": "DeepSeek-V4 Pro 跑分飙升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
-          "source": "bilibili 热搜",
+          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
           "ranks": [
-            6
+            12,
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时20分]"
         },
         {
-          "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
-          "url": "https://wallstreetcn.com/articles/3779452",
-          "source": "华尔街见闻",
+          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260815083816255800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            16,
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时20分]"
+        },
+        {
+          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815081946244800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时20分]"
         },
         {
           "title": "印度总理莫迪：印度计划在一年内对1000万青年进行人工智能（AI）技能培训。 印度将为青年提供免费在线考试辅导课程。",
           "url": "https://wallstreetcn.com/livenews/3149933",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时20分]"
         },
         {
           "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
@@ -243,42 +288,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 06时13分]"
-        },
-        {
-          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 11时31分]"
-        },
-        {
-          "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
-          "url": "https://flash.jin10.com/detail/20260815083816255800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 11时31分]"
-        },
-        {
-          "title": "消息人士称，Anthropic预计2028年收入将达到1900亿至2000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815081946244800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 11时31分]"
         },
         {
           "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
@@ -409,6 +418,31 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时20分]"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 12时20分]"
+        },
+        {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/livenews/3149885",
           "source": "华尔街见闻-快讯",
@@ -420,29 +454,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 10时09分]"
-        },
-        {
-          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
-          "url": "https://wallstreetcn.com/livenews/3149935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 11时31分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -489,22 +500,24 @@
           "url": "https://wallstreetcn.com/livenews/3149934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时20分]"
         },
         {
           "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
           "url": "https://www.cls.cn/detail/2455019",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时20分]"
         }
       ]
     }
