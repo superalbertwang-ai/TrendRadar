@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T02:12:30.044607+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-08-17T04:09:35.030295+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -26,19 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -48,8 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
+        },
+        {
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -59,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -70,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -82,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -93,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -104,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -115,20 +116,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
-        },
-        {
-          "title": "AI正在批量制造“幽灵”",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -136,22 +125,37 @@
           "source": "抖音",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
+        },
+        {
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -159,18 +163,30 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         }
       ]
     },
     {
       "keyword_group": "组织 组织发展 OD 变革 组织诊断 组织调研 组织绩效 组织激励 组织调整",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
+          "url": "https://flash.jin10.com/detail/20260817033655350800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
         {
           "title": "消息人士：特朗普高级顾问库什纳和“和平委员会”加沙事务高级代表尼古拉·姆拉德诺夫已向哈马斯承诺，以色列军队将与该组织的解除武装同步，从加沙撤出。",
           "url": "https://flash.jin10.com/detail/20260816234600568800",
@@ -182,6 +198,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时12分]"
+        },
+        {
+          "title": "哈马斯方面表示，我们组织在停火协议第一阶段完全履行了协议，而以方却未予遵守。",
+          "url": "https://flash.jin10.com/detail/20260817032045289800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20260817030717074800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳向哈马斯代表团强调，在加沙实现全面解除武装之前，该组织不会被纳入政治进程。",
+          "url": "https://flash.jin10.com/detail/20260817022657771800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -197,8 +246,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 04时09分]"
         }
       ]
     }
