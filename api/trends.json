@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:11:29.539272+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-08-17T06:10:32.150487+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -83,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -94,8 +94,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -105,8 +105,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
+        },
+        {
+          "title": "AI正在批量制造“幽灵”",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            17,
+            28,
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -116,8 +131,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -130,22 +145,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
-        },
-        {
-          "title": "AI正在批量制造“幽灵”",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AD%A3%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E2%80%9C%E5%B9%BD%E7%81%B5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            17,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -156,8 +157,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -167,11 +168,12 @@
             28,
             23,
             18,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         },
         {
           "title": "AI动画版大圣归来",
@@ -180,7 +182,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
@@ -196,11 +198,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时10分]"
         },
         {
           "title": "哈马斯方面表示，我们组织在停火协议第一阶段完全履行了协议，而以方却未予遵守。",
@@ -208,11 +211,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时10分]"
         },
         {
           "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
@@ -220,11 +224,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时09分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[04时09分 ~ 06时10分]"
         },
         {
           "title": "消息人士：特朗普高级顾问库什纳和“和平委员会”加沙事务高级代表尼古拉·姆拉德诺夫已向哈马斯承诺，以色列军队将与该组织的解除武装同步，从加沙撤出。",
@@ -263,8 +268,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时10分]"
         }
       ]
     }
