@@ -1,411 +1,143 @@
 {
-  "generated_at": "2026-08-18T18:18:24.623249+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-08-19T03:22:15.016616+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 28,
+      "match_count": 12,
       "titles": [
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 18时18分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时11分]"
+          "time_info": "[03时21分 ~ 03时22分]"
         },
         {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "如何评价刚刚开源的 Qwen3.8-27B？",
-          "url": "https://www.zhihu.com/question/2071739761476293183",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "title": "柯洁装弱智赢AI围棋",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            2,
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时11分]"
-        },
-        {
-          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
-          "url": "https://wallstreetcn.com/articles/3779645",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 18时18分]"
-        },
-        {
-          "title": "如何评价阿里开源的 Qwen3.8-27B？",
-          "url": "https://www.zhihu.com/question/2071739761476293183",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "[03时21分 ~ 03时22分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
           "url": "https://wallstreetcn.com/articles/3779638",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 18时18分]"
-        },
-        {
-          "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
-          "url": "https://www.cls.cn/detail/2457030",
-          "source": "财联社热门",
-          "ranks": [
-            4
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "03时22分"
         },
         {
-          "title": "小米AIoT平台连接设备同比增长17.4%，智能生态粘性持续增强",
-          "url": "https://wallstreetcn.com/livenews/3151037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3779618",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 18时18分]"
-        },
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时11分]"
-        },
-        {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
-          "url": "https://www.cls.cn/detail/2456549",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
-          "source": "知乎",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时11分]"
-        },
-        {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 18时18分]"
-        },
-        {
-          "title": "微盟上半年实现AI收入1.33亿元 同比增长89.2%",
-          "url": "https://flash.jin10.com/detail/20260818174621862800",
-          "source": "金十数据",
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "03时22分"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
+          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
+          "url": "https://wallstreetcn.com/articles/3779645",
           "source": "华尔街见闻",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "AI大战转折点？与管理层会面后，华尔街的感受：腾讯在打“中途岛战役”",
-          "url": "https://wallstreetcn.com/articles/3779652",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
+          "url": "https://wallstreetcn.com/articles/3779679",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
+          "url": "https://wallstreetcn.com/livenews/3151282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
+          "url": "https://wallstreetcn.com/articles/3779682",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "新规一刀切,AI漫剧被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
           "ranks": [
-            9
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "AI漫剧全集花费超过电影票",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%9B%86%E8%8A%B1%E8%B4%B9%E8%B6%85%E8%BF%87%E7%94%B5%E5%BD%B1%E7%A5%A8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "UP主用AI给盲人装上眼睛",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "03时22分"
         },
         {
           "title": "公安机关公布14起涉企网络谣言案例：编造智驾事故，AI生成假车祸视频",
           "url": "https://m.thepaper.cn/newsDetail_forward_33803492",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "03时22分"
         },
         {
-          "title": "小米集团 第二季度营收1,089.2亿元人民币，同比下降6.1%，预估1,083.3亿元人民币。 第二季度营业利润108.7亿元人民币，同比下降19%，预估58.5亿元人民币。 第二季度净利润94.6亿元人民币，同比增加21%，预估57.6亿元人民币。 第二季度资本支出36.2亿元人民币，预估23.9亿元人民币。 第二季度智能电动汽车及AI等创新业务收入249.0亿元人民币，同比增长17%，预估249亿元人民币。 上半年营收2,080.6亿元人民币；净利润141.9亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3151006",
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
+          "url": "https://wallstreetcn.com/livenews/3151272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "百度Q2 AI业务收入占比连续过半",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6Q2+AI%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5%E5%8D%A0%E6%AF%94%E8%BF%9E%E7%BB%AD%E8%BF%87%E5%8D%8A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "AI 会把数学领域「低垂的果实」全部摘走么？",
-          "url": "https://www.zhihu.com/question/2072668885459760739",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "小米集团：2026年第二季度手机×AIoT分部收入为人民币840亿元",
-          "url": "https://flash.jin10.com/detail/20260818173412879800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时11分]"
-        },
-        {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 18时18分]"
-        },
-        {
-          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
-          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
-          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
-          "url": "https://flash.jin10.com/detail/20260818053738229800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "土耳其总统埃尔多安与美国总统特朗普讨论了双边关系、伊朗和加沙的战争，以及与巴基斯坦和沙特阿拉伯的防务协议。",
-          "url": "https://flash.jin10.com/detail/20260818053641857800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
-          "url": "https://wallstreetcn.com/livenews/3150694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "03时22分"
         }
       ]
     },
@@ -414,27 +146,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "公司组织无人岛旅游被罚11万元",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E7%BD%9A11%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 10时11分]"
-        },
-        {
           "title": "组织他人非法销售管制兴奋剂类物质，夏某某等人非法经营案一审宣判",
           "url": "https://m.thepaper.cn/newsDetail_forward_33803769",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "03时22分"
+        },
+        {
+          "title": "世卫组织总干事谭德塞：刚果（金）的埃博拉疫情仍然是国际关注的公共卫生紧急事件。",
+          "url": "https://flash.jin10.com/detail/20260819030829600800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "学习 教培 在线教育",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南通城隍庙回应“修缮被指改变文物现状”：加装藻井系学习延续传统城隍庙风格",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33804506",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     }
