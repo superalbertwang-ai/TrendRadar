@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-08-18T07:13:35.755121+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-18T10:11:54.054814+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI DeepSeek 千问 Qwen Trae gemini OpenAI ChatGPT Anthropic Claude Code Github",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
+        },
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
         {
           "title": "如何评价刚刚开源的 Qwen3.8-27B？",
           "url": "https://www.zhihu.com/question/2071739761476293183",
@@ -23,22 +57,58 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
         },
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
+          "title": "如何评价阿里开源的 Qwen3.8-27B？",
+          "url": "https://www.zhihu.com/question/2071739761476293183",
+          "source": "知乎",
           "ranks": [
-            4
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
+          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
+        },
+        {
+          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
+          "url": "https://www.cls.cn/detail/2456549",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
+          "url": "https://www.zhihu.com/question/2063294189954250663",
+          "source": "知乎",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
         },
         {
           "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
@@ -63,26 +133,15 @@
           "time_info": "07时13分"
         },
         {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
+          "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
+          "url": "https://wallstreetcn.com/articles/3779645",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "10时11分"
         },
         {
           "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
@@ -96,15 +155,15 @@
           "time_info": "07时13分"
         },
         {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
-          "source": "知乎",
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "10时11分"
         },
         {
           "title": "姜月初刷新AI漫剧女打一天花板",
@@ -121,7 +180,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -131,8 +190,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "10时11分"
+        },
+        {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
@@ -178,11 +259,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E7%BD%9A11%E4%B8%87%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 10时11分]"
         }
       ]
     }
